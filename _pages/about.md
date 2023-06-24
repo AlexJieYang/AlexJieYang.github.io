@@ -32,15 +32,17 @@ Peer reviewed papers
 
 2023 Alex J. YANG, et al. Science of Public Recognition and Benefits (SPRB): Team, Impact, Novelty, and Disruption. Research Policy, under review.
 
-2023 Alex J. YANG, et al. Unleashing Disruptive Citation: Assessing the Disruptive Impact of Papers and Identifying Scientific Breakthroughs.Quantitative Science Studies, under review.
+2023 Alex J. YANG, et al. Unleashing Disruptive Citation: Assessing the Disruptive Impact of Papers and Identifying Scientific Breakthroughs. Quantitative Science Studies, under review.
 
-2023 Alex J. YANG, et al. Scientists' External Impact Beyond the Research Team and its Role in Academic Success. Scientometrics, under review.
+2023 Alex J. YANG, et al. Scientists’ External Impact Beyond the Research Team and its Role in Academic Success. Scientometrics, under review.
 
 2023 Alex J. YANG, et al. Coevolution of team size, knowledge foundation and impact in science. Science and Public Policy, under review.
 
-2022 Alex J. YANG*, et al. Theme analysis of big data professional training content and enlightenment to the discipline of graphic files. Library and Information Service, 2022, 66(2): 102-109 (in Chinese, 杨杰*, et al.大数据专业培养内容的主题分析及对图情档学科的启示[J].图书情报工作, 2022, 66(2): 102-109.)
+2023 Alex J. YANG*, et al. Untangle the Characteristics of Disruptive and Consolidating Citating Papers of Nobel-winning Scientific Breakthroughs. Information Processing & Management, under review.
 
-2023 Alex J. YANG, et al. Originality measures of scientific research: Relative subversive index. Journal of the China Society for Scientific and Technical Information, accepted. (in Chinese, 杨杰, 王昊, 邓三鸿*.科学研究的颠覆性创新测度——相对颠覆性指数[J].情报学报，录用.)
+2022 Alex J. YANG, et al. Theme analysis of big data professional training content and enlightenment to the discipline of graphic files. Library and Information Service, 2022, 66(2): 102-109 (in Chinese, 杨杰, et al.大数据专业培养内容的主题分析及对图情档学科的启示[J].图书情报工作, 2022, 66(2): 102-109.)
+
+2023 Alex J. YANG, et al. Originality measures of scientific research: Relative subversive index. Journal of the China Society for Scientific and Technical Information, accepted. (in Chinese, 杨杰, et al.科学研究的颠覆性创新测度——相对颠覆性指数[J].情报学报，录用.)
 
 2023 Alex J. YANG, et al. Binary influence measurement of scholars based on subversive scholars. Journal of the China Society for Scientific and Technical Information, accepted. (in Chinese, 杨杰, et al.基于颠覆性的学者二元影响力测度[J].情报学报，录用.)
 
@@ -50,10 +52,10 @@ Peer reviewed papers
 
 Conference papers
 ======
-2023 Alex J. YANG*, et al. The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. [J] ISSI 2023 (full paper), accepted.
+2023 Alex J. YANG*, et al. The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. ISSI 2023 (full paper), accepted.
 
 Grants & Projects
-------
+======
 National Social Science Fund Project (#19BTQ062) (Participation)
 
 National Natural Science Foundation Project (87874056) (Participation)
