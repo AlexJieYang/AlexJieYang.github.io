@@ -60,14 +60,14 @@ National Natural Science Foundation Project (87874056) (Participation)
 
 Major Strategic Projects of Soft Science in Shanghai (9692116000) (Participation)
 
-2021 "Challenge Cup" National Third Prize
+2021 National College Students Innovation and Entrepreneurship Training Program (Leader)
 
-2021 National College Students Market Survey and Analysis Competition National Third Prize
+2021 "Challenge Cup" (National Third Prize)
 
-2021 National College Students E-Commerce "Innovation, Creativity and Entrepreneurship" Competition Shanghai Second Prize
+2021 "Internet+" (Shanghai Silver Award)
 
-2021 "Internet+" College Student Innovation and Entrepreneurship Competition Shanghai Silver Award
+2021 National College Students Market Survey and Analysis Competition (National Third Prize)
 
-2021 East China Normal University Mathematical Modeling Competition Second Prize
+2021 National College Students E-Commerce Competition (Shanghai Second Prize)
 
-2021 National College Students Innovation and Entrepreneurship Training Program
+2021 Mathematical Modeling Competition (Second Prize)
