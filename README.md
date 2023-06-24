@@ -1,31 +1,40 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+Alex Jie Yang
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Phone: 18011129689
+Email: alexjieyang@outlook.com
+Gender: Male
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+Educational experience
+2018-2022 East China Normal University, Information Management and Information System
+2022-present School of Information Management, Nanjing University, Information Management
 
-# Instructions
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+Published papers （First Author）
+2023 Alex J. YANG*, et al. From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/https://doi.org/10.1016/j.ipm.2023.103420
+2023 Alex J. YANG, et al. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/https://doi.org/10.1016/j.joi.2023.101411
+2023 Alex J. YANG, et al. K-step h indices in citation networks at the paper, author, institution levels. Journal of Informetrics, under review.
+2023 Alex J. YANG, et al. Unleashing Disruptive Citation: Assessing the Disruptive Impact of Papers and Identifying Scientific Breakthroughs. [J] Quantitative Science Studies, under review.
+2023 Alex J. YANG, et al. Scientists' External Impact Beyond the Research Team and its Role in Academic Success. [J] Scientometrics, under review.
+2023 Alex J. YANG, et al. Coevolution of team size, knowledge foundation and impact in science. [J] Science and Public Policy, under review.
+2022 Alex J. YANG*, et al. Theme analysis of big data professional training content and enlightenment to the discipline of graphic files[J]. Library and Information Service, 2022, 66(2): 102-109 (in Chinese, 杨杰*, et al.大数据专业培养内容的主题分析及对图情档学科的启示[J].图书情报工作, 2022, 66(2): 102-109.)
+2023 Alex J. YANG, et al. Originality measures of scientific research: Relative subversive index[J]. Journal of the China Society for Scientific and Technical Information, accepted. (in Chinese, 杨杰, 王昊, 邓三鸿*.科学研究的颠覆性创新测度——相对颠覆性指数[J].情报学报，录用.)
+2023 Alex J. YANG, et al. Binary influence measurement of scholars based on subversive scholars. Journal of the China Society for Scientific and Technical Information, accepted. (in Chinese, 杨杰, et al.基于颠覆性的学者二元影响力测度[J].情报学报，录用.)
+2023 Alex J. YANG, et al. Developing an Agile Governance Framework for Technology Ethics in the Age of Disruptive Technology. Bulletin of National Natural Science Foundation, accepted. (in Chinese, 杨杰, et al.颠覆性技术视角下科技伦理的敏捷治理框架探讨[J].中国科学基金，录用.)
+2023 Alex J. YANG, et al. Using representative works to evaluate scientists. Journal of Library Science in China, under review. (in Chinese, 杨杰, et al.代表作评价模式的定量探析——基于诺贝尔奖得主的实证 [J].中国图书馆学报，审稿中.)
 
-See more info at https://academicpages.github.io/
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+Conference Papers
+2023 Alex J. YANG*, et al. The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. [J] ISSI 2023 (full paper), accepted.
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-# Changelog -- bugfixes and enhancements
-
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
-
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+Project
+2021 "Challenge Cup" National College Students Extracurricular Academic Science and Technology Works Competition National Third Prize
+2021 National College Students Market Survey and Analysis Competition National Third Prize
+2021 National College Students E-Commerce "Innovation, Creativity and Entrepreneurship" Competition Shanghai Second Prize
+2021 "Internet+" College Student Innovation and Entrepreneurship Competition Shanghai Silver Award
+2021 East China Normal University Mathematical Modeling Competition Second Prize
+National Social Science Fund Project (#19BTQ062) (Participation)
+National Natural Science Foundation Project (87874056) (Participation)
+Major Strategic Projects of Soft Science in Shanghai (9692116000) (Participation)
+National College Students Innovation and Entrepreneurship Training Program 2020-2021
+National College Students Innovation and Entrepreneurship Training Program (Participation, Excellent Findings)
