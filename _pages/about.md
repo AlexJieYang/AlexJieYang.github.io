@@ -22,9 +22,9 @@ My research interest includes science of science, network science, scientific in
 
 Peer reviewed papers
 ======
-2023 Alex J. YANG*, et al. From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/https://doi.org/10.1016/j.ipm.2023.103420
+2023 Alex J. YANG*, et al. From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420
 
-2023 Alex J. YANG, et al. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/https://doi.org/10.1016/j.joi.2023.101411
+2023 Alex J. YANG, et al. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/10.1016/j.joi.2023.101411
 
 2023 Alex J. YANG, et al. K-step h indices in citation networks at the paper, author, institution levels. Journal of Informetrics, under review.
 
