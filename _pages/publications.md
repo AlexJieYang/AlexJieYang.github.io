@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 2023.Information Processing & Management.
 ---
 Title: From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. 
@@ -13,7 +12,7 @@ Abstract: This study proposes a novel approach for evaluating the impact of scie
 
 Citation: Yang, A. J., Hu, H., Zhao, Y., Wang, H., & Deng, S. (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420 
 
-2023. Journal of Informetrics
+2023. Journal of Informetrics.
 ---
 Title: Disruptive Coefficient and 2-Step Disruptive Coefficient: Novel Measures for Identifying Vital Nodes in Complex Networks
 
