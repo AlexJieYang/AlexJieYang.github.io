@@ -5,12 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+2023.Information Processing & Management.
 
-{% include base_path %}
+Title: From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Abstract: This study proposes a novel approach for evaluating the impact of scientists by introducing a new set of metrics and a dual measurement framework that combines the concepts of disruption and consolidation. Traditional metrics like total citation and h-index are limited in their ability to capture the full range of a scientist's influence, and therefore the Scientists' Disruptive Citation (SDC), Disruptive h-index (D h-index), and consolidating metrics are introduced to provide a more comprehensive evaluation of scientists' disruptive and consolidating influence. Using a dataset of 463,348 papers, 234,086 disambiguated scientists, and data on three important awards, including Nobel Prize, Wolf Prize, and Dirac Medal, in the field of Physics, this study demonstrates that the SDC and D h-index are superior to all benchmark metrics, including the conventional and normalized disruption-based measures, in terms of convergent validity. Second, this study analyzes the distribution of academic characteristics between award-winning and non-laureates, explores various metrics of scientists with high SDC and Scientists' Consolidating Citation (SCC), and finds that disruptive impact can identify successful scientists from their counterparts and serve as an early signal of successful scientists. Third, this study reveals that the disruptive citation proposed in this study is less susceptible to manipulation, making it a more reliable metric for assessing a scientist's or a single paper's disruptive impact than the CD-index. The results suggest that the SDC and D h-index are reliable metrics for measuring scientists' innovative influence and can aid in the development of future scientific research. Overall, this study provides a scientifically sound and effective new perspective on measuring scientists using a dual measurement of disruptive and consolidating influence.
+
+Citation: Yang, A. J., Hu, H., Zhao, Y., Wang, H., & Deng, S. (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/https://doi.org/10.1016/j.ipm.2023.103420 
+
+
+
+2023. Journal of Informetrics
+
+Title: Disruptive Coefficient and 2-Step Disruptive Coefficient: Novel Measures for Identifying Vital Nodes in Complex Networks
+
+Abstract: The identification and ranking of vital nodes in complex networks have been a critical issue for a long time. In this paper, we present an extension of existing disruptive metrics and introduce new ones, namely the disruptive coefficient (D) and 2-step disruptive coefficient (2-step D), as innovative tools for identifying critical nodes in complex networks. Our approach emphasizes the importance of disruptiveness in characterizing nodes within the network and detecting their criticality. Our new measures take into account both prior and posterior information of the focal nodes, by evaluating their ability to disrupt the previous network paradigm, setting them apart from traditional measures. We conduct an empirical analysis of four real-world networks to compare the rankings or identification of nodes using D and 2stepD with those obtained from four renowned benchmark measures, namely, degree, h-index, PageRank, and the CD index. Our analysis reveals significant differences between the nodes identified by D and 2stepD and those identified by the benchmark measures. We also examine the correlation coefficient and efficiency of the metrics and find that D and 2stepD have significant correlations with the CD index, but have weak correlations with the benchmark measures. Furthermore, we show that D and 2stepD outperform CD index and random ways in intentional attacks. We find power law distributions for D, 2stepD, and CD, indicating a small number of highly disruptive nodes and a large number of less disruptive nodes in the networks. Our results suggest that D and 2stepD are capable of providing valuable and distinct insights for identifying critical nodes in complex networks.
+
+Citation: Yang, A. J., Deng, S., Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/https://doi.org/10.1016/j.joi.2023.101411 
