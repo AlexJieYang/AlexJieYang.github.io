@@ -15,9 +15,9 @@ ORCID: 0000-0002-1276-0483
 
 [Email](alexjieyang@outlook.com) / [Github](https://github.com/AlexJieYang) / [Research Gate](https://www.researchgate.net/profile/Alex-Yang-36) / [ORCID](https://orcid.org/0000-0002-1276-0483)
 
-I'm a PhD student from [School of Information Management](https://im.nju.edu.cn/imeng/main.htm), [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm).
+I'm a Ph.D. from [School of Information Management](https://im.nju.edu.cn/imeng/main.htm), [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm).
 
-My research interest includes science of science, network science, scientific innovation, and computational social science. Websites of my mentors: [Sanhong Deng](https://im.nju.edu.cn/dsh1/list.htm), [Star X. Zhao](https://faculty.fudan.edu.cn/starzhao/zh_CN/index/661567/list/index.htm)
+My research interest includes science of science, network science, scientific innovation, and computational social science.
 
 
 Peer reviewed papers
