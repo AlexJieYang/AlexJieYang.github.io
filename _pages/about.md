@@ -22,23 +22,27 @@ My research interest includes science of science, network science, scientific in
 
 Peer reviewed papers
 ======
-2024 Alex J. YANG*. Unveiling the impact and dual innovation of funded research. Journal of Informetrics, 18(1), 101480. https://doi.org/10.1016/j.joi.2023.101480
+Yang, A. J., Xu H., Ding Y., & Liu, M. (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics, accepted.
 
-2024 Alex J. YANG*, et al. Rescaling the disruption index reveals the universality of disruption distributions in science. Scientometrics. https://doi.org/10.1007/s11192-023-04889-x
+Yang, A. J.*, Zhao, S. X., & Deng, S. (2024). Revisiting delayed recognition in science: a large-scale & comprehensive study. Journal of Information Science, accepted.
 
-2023 Alex J. YANG*, et al. From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420
+Yang, A. J.* (2024). Unveiling the impact and dual innovation of funded research. Journal of Informetrics, 18(1), 101480. https://doi.org/10.1016/j.joi.2023.101480 
 
-2023 Alex J. YANG, et al. Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/10.1016/j.joi.2023.101411
+Yang, A. J.*, Gong, H., Wang, Y., Zhang, C., & Deng, S.* (2024). Rescaling the disruption index reveals the universality of disruption distributions in science. Scientometrics, 129(1), 561-580. https://doi.org/10.1007/s11192-023-04889-x 
 
-2023 Alex J. YANG*, et al. K-step h indices in citation networks at the paper, author, institution levels. Journal of Informetrics, 17(4), 101456. https://doi.org/10.1016/j.joi.2023.101456
+Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/10.1016/j.joi.2023.101411 
 
-2023 Alex J. YANG, et al. A measure of disruptive innovation in science: the relative Disruptive Index (RDI). Journal of the China Society for Scientific and Technical Information, 42(09), 1052-1064. (in Chinese, 杨杰, et al. 科学研究的颠覆性创新测度——相对颠覆性指数.情报学报, 42(09), 1052-1064.)
+Yang, A. J.*, Hu, H., Zhao, Y., Wang, H., & Deng, S.* (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420 
 
-2024 Alex J. YANG, et al. Binary influence measurement of scholars based on subversive scholars. Journal of the China Society for Scientific and Technical Information, accepted. (in Chinese, 杨杰, et al. 融合论文颠覆性与巩固性的学者二元影响力测度[J].情报学报，录用.)
+Yang, A. J.*, Wu, L., Zhang, Q., Wang, H., & Deng, S.* (2023). The k-step h-index in citation networks at the paper, author, and institution levels. Journal of Informetrics, 17(4), 101456. https://doi.org/10.1016/j.joi.2023.101456 
 
-2023 Alex J. YANG, et al. A dual-dimension scientist evaluation framework based on the disruptive and consolidating impact of their papers, 37(03), 378-386. (in Chinese, 杨杰, et al. 颠覆性技术视角下科技伦理的敏捷治理框架探讨.中国科学基金, 37(03), 378-386.)
+杨杰, 吴琳伟, 邓三鸿*. 颠覆性技术视角下科技伦理的敏捷治理框架探讨 [J]. 中国科学基金, 2023, 37(03): 378-86.
 
-2022 Alex J. YANG, et al. Theme analysis of big data professional training content and enlightenment to the discipline of graphic files. Library and Information Service, 2022, 66(2): 102-109 (in Chinese, 杨杰, et al.大数据专业培养内容的主题分析及对图情档学科的启示[J].图书情报工作, 2022, 66(2): 102-109.)
+杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64.
+
+杨杰, 孔嘉, 张艺炜, et al. 融合论文颠覆性与巩固性的学者二元影响力测度 [J]. 情报学报, 2023, 42(12): 1412-23.
+
+杨杰*, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示 [J]. 图书情报工作, 2022, 66(02): 109-116.
 
 Selected Working Papers
 ======
@@ -52,24 +56,32 @@ Selected Working Papers
 
 Conference papers
 ======
-2023 Alex J. YANG*, et al. The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI). 2023. (Long paper)
+Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference. (Long paper)
 
-2023 Alex J. YANG*, et al. Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers. iConference. 2023. (Poster)
+Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers. iConference. (Poster)
 
 Grants & Projects
 ======
+2021 National College Students Innovation Training Program, Ministry of Education (PI)
+
+National Social Science Fund Project (#19BTQ062) (Participation)
+
+National Social Science Fund Project, Major Program (#17ZDA291) (Participation)
+
+National Natural Science Foundation Project (87874056) (Participation)
+
+National Natural Science Foundation Project (71874056) (Participation)
+
+Honors & prizes
+======
+2023 Honorable mention of the Eugene Garfield Doctoral Dissertation Scholarship, ISSI
+
+2023 The First "Frontier Discussion on Science and Technology Ethics" Essay Competition (Third Prize), CAST
+
 2023 National Scholarship for Graduate Student, Ministry of Education
 
 2022 First-class Scholarship, ECNU
 
 2021 National Inspiration Scholarship, Ministry of Education
 
-2023 The First "Frontier Discussion on Science and Technology Ethics" Essay Competition (Third Prize), CAST
-
-2021 National College Students Innovation and Entrepreneurship Training Program (PI), Ministry of Education
-
 2021 “Challenge Cup” (National Third Prize), Ministry of Education
-
-National Social Science Fund Project (#19BTQ062) (Participation)
-
-National Natural Science Foundation Project (87874056) (Participation)
