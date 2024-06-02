@@ -22,9 +22,11 @@ My research interest includes science of science, network science, scientific in
 
 Peer reviewed papers
 ======
-Yang, A. J., Xu H., Ding Y., & Liu, M. (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics, accepted.
+Yang, A. J., Xu H., Ding Y., & Liu, M. (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics. https://doi.org/10.1007/s11192-024-04987-4
 
-Yang, A. J.*, Zhao, S. X., & Deng, S. (2024). Revisiting delayed recognition in science: a large-scale & comprehensive study. Journal of Information Science, accepted.
+Yang, A. J.*, Zhao, S. X., & Deng, S. (2024). Revisiting delayed recognition in science: a large-scale & comprehensive study. Journal of Information Science. https://doi.org/10.1177/01655515241244462
+
+Liu, M.*, Xie, Z., Yang, A. J., Yu C., Xu J., Ding Y., Bu Y. (2024). The prominent and heterogeneous gender disparities in scientific novelty: Evidence from biomedical doctoral theses. Information Processing & Management, 61(4), 103743. https://doi.org/10.1016/j.ipm.2024.103743
 
 Yang, A. J.* (2024). Unveiling the impact and dual innovation of funded research. Journal of Informetrics, 18(1), 101480. https://doi.org/10.1016/j.joi.2023.101480 
 
@@ -44,15 +46,11 @@ Yang, A. J.*, Wu, L., Zhang, Q., Wang, H., & Deng, S.* (2023). The k-step h-inde
 
 杨杰*, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示 [J]. 图书情报工作, 2022, 66(02): 109-116.
 
-Selected Working Papers
-======
-2023 Alex J. YANG, et al. Unveiling the dynamics of team age structure and its impact on scientific innovation.
+柳美君, 杨杰, 杨斯杰, 闵超. 中国与“一带一路”沿线国家的科技人才流动研究：基于准自然实验的证据 [J]. 科学学研究, 2024,网络首发.
 
-2023 Alex J. YANG, et al. Does Novel Research Benefit the Public Society?
+巩洪村, 邓三鸿, 杨杰, et al.组态视角下Y世代移动数字过度使用的影响因素研究 [J]. 图书情报知识, 2024,1-11.
 
-2023 Alex J. YANG*, et al. Dynamic Patterns of Disruptive and Consolidating Citing Papers in Nobel-winning Scientific Breakthroughs.
-
-2023 Alex J. YANG*, et al. Revisiting delayed recognition in science: a large-scale & comprehensive study.
+邓三鸿, 杨杰, 王昊, et al. 多源异构数据视角下的学术评价:内涵、进展与展望 [J]. 科技情报研究, 2023, 5(04): 42-56.
 
 Conference papers
 ======
