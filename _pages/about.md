@@ -22,9 +22,11 @@ My research interest includes science of science, network science, scientific in
 
 Peer reviewed papers
 ======
-Yang, A. J.* et al. (2024). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology. accepted
+Yang, A. J.*, YAN X, HU H, HU H, KONG J, & Deng, S.* (2024). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology. https://doi.org/10.1002/asi.24947
 
-Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies. accepted
+Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 1-17. https://doi.org/10.1162/qss_a_00323
+
+Yang, A. J.* (2024). On the temporal diversity of knowledge in science [J]. Journal of Informetrics, 18(4), 101594. https://doi.org/10.1016/j.joi.2024.101594.
 
 Yang, A. J., Xu H., Ding Y., & Liu, M. (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics. https://doi.org/10.1007/s11192-024-04987-4
 
@@ -36,13 +38,17 @@ Yang, A. J.* (2024). Unveiling the impact and dual innovation of funded research
 
 Yang, A. J.*, Gong, H., Wang, Y., Zhang, C., & Deng, S.* (2024). Rescaling the disruption index reveals the universality of disruption distributions in science. Scientometrics, 129(1), 561-580. https://doi.org/10.1007/s11192-023-04889-x 
 
-Yang, A. J.*, Hu, H., Zhao, Y., Wang, H., & Deng, S.* (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420 
+Yang, A. J.*, Hu, H., Zhao, Y., Wang, H., & Deng, S.* (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420 (Best paper award in 2023)
 
 Yang, A. J.*, Wu, L., Zhang, Q., Wang, H., & Deng, S.* (2023). The k-step h-index in citation networks at the paper, author, and institution levels. Journal of Informetrics, 17(4), 101456. https://doi.org/10.1016/j.joi.2023.101456
 
 Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/10.1016/j.joi.2023.101411 
 
 杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024, 录用.
+
+杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64.
+
+杨杰, 孔嘉, 张艺炜, et al. 融合论文颠覆性与巩固性的学者二元影响力测度 [J]. 情报学报, 2023, 42(12): 1412-23.
 
 柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性 [J]. 科学学研究, 2024, 网络首发.
 
@@ -52,10 +58,6 @@ Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coeff
 
 巩洪村, 邓三鸿, 杨杰, et al. 组态视角下Y世代移动数字过度使用的影响因素研究 [J]. 图书情报知识, 2024,1-11.
 
-杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64.
-
-杨杰, 孔嘉, 张艺炜, et al. 融合论文颠覆性与巩固性的学者二元影响力测度 [J]. 情报学报, 2023, 42(12): 1412-23.
-
 杨杰, 吴琳伟, 邓三鸿*. 颠覆性技术视角下科技伦理的敏捷治理框架探讨 [J]. 中国科学基金, 2023, 37(03): 378-86.
 
 邓三鸿, 杨杰, 王昊, et al. 多源异构数据视角下的学术评价:内涵、进展与展望 [J]. 科技情报研究, 2023, 5(04): 42-56.
@@ -64,18 +66,20 @@ Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coeff
 
 Conference papers
 ======
-Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. (EEKEAII2024).
+Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference, 2024.
 
 Liu, M.*, Yang, A. J., Bu Y., & Ding Y. (2024) Untangling the complex pattern of international talent mobility in science. The 28th International Conference on Science, Technology and Innovation Indicators (STI). (Full Paper)
 
 Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI). (Long paper)
 
-Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers. Proceedings of the Association for Information Science and Technology (ASIST). (Poster)
+Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers. Proceedings of the Association for Information Science and Technology (ASIST).
 
-Hu, H., Yang, A. J., Deng, S., Wang, D.*, Song, M., Shen, S. (2023). A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models. Proceedings of the Association for Information Science and Technology (ASIST). (Poster)
+Hu, H., Yang, A. J., Deng, S., Wang, D.*, Song, M., Shen, S. (2023). A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models. Proceedings of the Association for Information Science and Technology (ASIST).
 
 Grants & Projects
 ======
+2024 Open Fund for Innovative Evaluation, Fudan University (PI)
+
 2021 National College Students Innovation Training Program, Ministry of Education (PI)
 
 National Social Science Fund Project (#19BTQ062) (Participation)
@@ -88,6 +92,8 @@ National Natural Science Foundation Project (71874056) (Participation)
 
 Honors & prizes
 ======
+2023 IPM Ph.D. Best paper award winner, IPM & ELSEVIER
+
 2023 Honorable mention of the Eugene Garfield Doctoral Dissertation Scholarship, ISSI
 
 2023 The First "Frontier Discussion on Science and Technology Ethics" Essay Competition (Third Prize), CAST
