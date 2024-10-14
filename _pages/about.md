@@ -24,29 +24,31 @@ Peer reviewed papers
 ======
 Yang, A. J., Ding Y, & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, accepted.
 
-Yang, A. J.*, YAN X, HU H, HU H, KONG J, & Deng, S.* (2024). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology. https://doi.org/10.1002/asi.24947
+Yang, A. J.*, YAN X, HU H, HU H, KONG J, & Deng, S.* (2024). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology. [https://doi.org/10.1002/asi.24947](https://doi.org/10.1002/asi.24947)
+
 Featured by [Information Matters](https://informationmatters.org/2024/10/can-disruptive-science-impact-technology-and-society/)
 
-Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 1-17. https://doi.org/10.1162/qss_a_00323
+Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 1-17. [https://doi.org/10.1162/qss_a_00323](https://doi.org/10.1162/qss_a_00323)
 
-Yang, A. J.* (2024). On the temporal diversity of knowledge in science. Journal of Informetrics, 18(4), 101594. https://doi.org/10.1016/j.joi.2024.101594.
+Yang, A. J.* (2024). On the temporal diversity of knowledge in science. Journal of Informetrics, 18(4), 101594. [https://doi.org/10.1016/j.joi.2024.101594](https://doi.org/10.1016/j.joi.2024.101594)
 
-Yang, A. J., Xu H., Ding Y., & Liu, M. (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics. https://doi.org/10.1007/s11192-024-04987-4
+Yang, A. J., Xu H., Ding Y., & Liu, M. (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics. [https://doi.org/10.1007/s11192-024-04987-4](https://doi.org/10.1007/s11192-024-04987-4)
 
-Yang, A. J.*, Zhao, S. X., & Deng, S. (2024). Revisiting delayed recognition in science: a large-scale & comprehensive study. Journal of Information Science. https://doi.org/10.1177/01655515241244462
+Yang, A. J.*, Zhao, S. X., & Deng, S. (2024). Revisiting delayed recognition in science: a large-scale & comprehensive study. Journal of Information Science. [https://doi.org/10.1177/01655515241244462](https://doi.org/10.1177/01655515241244462)
 
-Liu, M.*, Xie, Z., Yang, A. J., Yu C., Xu J., Ding Y., Bu Y. (2024). The prominent and heterogeneous gender disparities in scientific novelty: Evidence from biomedical doctoral theses. Information Processing & Management, 61(4), 103743. https://doi.org/10.1016/j.ipm.2024.103743
+Liu, M.*, Xie, Z., Yang, A. J., Yu C., Xu J., Ding Y., Bu Y. (2024). The prominent and heterogeneous gender disparities in scientific novelty: Evidence from biomedical doctoral theses. Information Processing & Management, 61(4), 103743. [https://doi.org/10.1016/j.ipm.2024.103743](https://doi.org/10.1016/j.ipm.2024.103743)
 
-Yang, A. J.* (2024). Unveiling the impact and dual innovation of funded research. Journal of Informetrics, 18(1), 101480. https://doi.org/10.1016/j.joi.2023.101480 
+Yang, A. J.* (2024). Unveiling the impact and dual innovation of funded research. Journal of Informetrics, 18(1), 101480. [https://doi.org/10.1016/j.joi.2023.101480](https://doi.org/10.1016/j.joi.2023.101480)
 
-Yang, A. J.*, Gong, H., Wang, Y., Zhang, C., & Deng, S.* (2024). Rescaling the disruption index reveals the universality of disruption distributions in science. Scientometrics, 129(1), 561-580. https://doi.org/10.1007/s11192-023-04889-x 
+Yang, A. J.*, Gong, H., Wang, Y., Zhang, C., & Deng, S.* (2024). Rescaling the disruption index reveals the universality of disruption distributions in science. Scientometrics, 129(1), 561-580. [https://doi.org/10.1007/s11192-023-04889-x](https://doi.org/10.1007/s11192-023-04889-x)
 
-Yang, A. J.*, Hu, H., Zhao, Y., Wang, H., & Deng, S.* (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420
+Yang, A. J.*, Hu, H., Zhao, Y., Wang, H., & Deng, S.* (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. [https://doi.org/10.1016/j.ipm.2023.103420](https://doi.org/10.1016/j.ipm.2023.103420)
+
 [Best paper award in 2023](https://www.sciencedirect.com/special-issue/108GL6W43N5)
 
-Yang, A. J.*, Wu, L., Zhang, Q., Wang, H., & Deng, S.* (2023). The k-step h-index in citation networks at the paper, author, and institution levels. Journal of Informetrics, 17(4), 101456. https://doi.org/10.1016/j.joi.2023.101456
+Yang, A. J.*, Wu, L., Zhang, Q., Wang, H., & Deng, S.* (2023). The k-step h-index in citation networks at the paper, author, and institution levels. Journal of Informetrics, 17(4), 101456. [https://doi.org/10.1016/j.joi.2023.101456](https://doi.org/10.1016/j.joi.2023.101456)
 
-Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/10.1016/j.joi.2023.101411 
+Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. [https://doi.org/10.1016/j.joi.2023.101411](https://doi.org/10.1016/j.joi.2023.101411)
 
 杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024.
 
