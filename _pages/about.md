@@ -15,18 +15,21 @@ ORCID: 0000-0002-1276-0483
 
 [Email](alexjieyang@outlook.com) / [Github](https://github.com/AlexJieYang) / [Research Gate](https://www.researchgate.net/profile/Alex-Yang-36) / [ORCID](https://orcid.org/0000-0002-1276-0483)
 
-I'm a Ph.D. candidate at [School of Information Management](https://im.nju.edu.cn/imeng/main.htm), [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm).
+Affiliation [School of Information Management](https://im.nju.edu.cn/imeng/main.htm), [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm).
 
 My research interest includes science of science, network science, scientific innovation, and computational social science.
 
 
 Peer reviewed papers
 ======
+Yang, A. J., Ding Y, & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, accepted.
+
 Yang, A. J.*, YAN X, HU H, HU H, KONG J, & Deng, S.* (2024). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology. https://doi.org/10.1002/asi.24947
+Featured by [Information Matters](https://informationmatters.org/2024/10/can-disruptive-science-impact-technology-and-society/)
 
 Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 1-17. https://doi.org/10.1162/qss_a_00323
 
-Yang, A. J.* (2024). On the temporal diversity of knowledge in science [J]. Journal of Informetrics, 18(4), 101594. https://doi.org/10.1016/j.joi.2024.101594.
+Yang, A. J.* (2024). On the temporal diversity of knowledge in science. Journal of Informetrics, 18(4), 101594. https://doi.org/10.1016/j.joi.2024.101594.
 
 Yang, A. J., Xu H., Ding Y., & Liu, M. (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics. https://doi.org/10.1007/s11192-024-04987-4
 
@@ -38,23 +41,24 @@ Yang, A. J.* (2024). Unveiling the impact and dual innovation of funded research
 
 Yang, A. J.*, Gong, H., Wang, Y., Zhang, C., & Deng, S.* (2024). Rescaling the disruption index reveals the universality of disruption distributions in science. Scientometrics, 129(1), 561-580. https://doi.org/10.1007/s11192-023-04889-x 
 
-Yang, A. J.*, Hu, H., Zhao, Y., Wang, H., & Deng, S.* (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420 (Best paper award in 2023)
+Yang, A. J.*, Hu, H., Zhao, Y., Wang, H., & Deng, S.* (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420
+[Best paper award in 2023](https://www.sciencedirect.com/special-issue/108GL6W43N5)
 
 Yang, A. J.*, Wu, L., Zhang, Q., Wang, H., & Deng, S.* (2023). The k-step h-index in citation networks at the paper, author, and institution levels. Journal of Informetrics, 17(4), 101456. https://doi.org/10.1016/j.joi.2023.101456
 
 Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/10.1016/j.joi.2023.101411 
 
-杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024, 录用.
+杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024.
 
 杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64.
 
 杨杰, 孔嘉, 张艺炜, et al. 融合论文颠覆性与巩固性的学者二元影响力测度 [J]. 情报学报, 2023, 42(12): 1412-23.
 
-柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性 [J]. 科学学研究, 2024, 网络首发.
+柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性 [J]. 科学学研究, 2024.
 
-柳美君, 杨杰, 杨斯杰, 闵超*. 中国与“一带一路”沿线国家的科技人才流动研究：基于准自然实验的证据 [J]. 科学学研究, 2024,网络首发.
+柳美君, 杨杰, 杨斯杰, 闵超*. 中国与“一带一路”沿线国家的科技人才流动研究：基于准自然实验的证据 [J]. 科学学研究, 2024.
 
-闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿*. 学者合作网络外部影响力与学术成就的关系研究[J]. 图书情报工作, 2024, 录用.
+闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿*. 学者合作网络外部影响力与学术成就的关系研究[J]. 图书情报工作, 2024.
 
 巩洪村, 邓三鸿, 杨杰, et al. 组态视角下Y世代移动数字过度使用的影响因素研究 [J]. 图书情报知识, 2024,1-11.
 
