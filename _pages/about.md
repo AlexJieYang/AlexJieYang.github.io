@@ -13,7 +13,7 @@ Phone: 18011129689 | Email: alexjieyang@outlook.com | Gender: Male
 
 ORCID: 0000-0002-1276-0483
 
-[Email](alexjieyang@outlook.com) / [Github](https://github.com/AlexJieYang) / [Research Gate](https://www.researchgate.net/profile/Alex-Yang-36) / [ORCID](https://orcid.org/0000-0002-1276-0483)
+[Email](alexjieyang at outlook dot com) / [Github](https://github.com/AlexJieYang) / [Research Gate](https://www.researchgate.net/profile/Alex-Yang-36) / [ORCID](https://orcid.org/0000-0002-1276-0483)
 
 Affiliation: [School of Information Management](https://im.nju.edu.cn/imeng/main.htm), [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm).
 
@@ -22,7 +22,7 @@ My research interest includes science of science, network science, scientific in
 
 Peer reviewed papers
 ======
-Yang, A. J., Ding Y, & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, accepted.
+Yang, A. J., Ding Y, & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 1-17. [https://doi.org/10.1162/qss_a_00323](https://doi.org/10.1162/qss_a_00323)
 
 Yang, A. J.*, YAN X, HU H, HU H, KONG J, & Deng, S.* (2024). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology. [https://doi.org/10.1002/asi.24947](https://doi.org/10.1002/asi.24947)
 
@@ -82,8 +82,14 @@ Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristic
 
 Hu, H., Yang, A. J., Deng, S., Wang, D.*, Song, M., Shen, S. (2023). A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models. Proceedings of the Association for Information Science and Technology (ASIST).
 
+Activity
+======
+Editor board, Humanities & Social Sciences Communications
+
 Grants & Projects
 ======
+2025-2027 National Social Science Fund Project (#724B2015) (PI)
+
 2024 Open Fund for Innovative Evaluation, Fudan University (PI)
 
 2021 National College Students Innovation Training Program, Ministry of Education (PI)
