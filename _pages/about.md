@@ -9,7 +9,7 @@ redirect_from:
 ---
 Alex Jie Yang
 
-Phone: 18011129689 | Email: alexjieyang@outlook.com | Gender: Male
+Phone: 18011129689 | Email: alexjieyang at outlook dot com | Gender: Male
 
 ORCID: 0000-0002-1276-0483
 
@@ -88,7 +88,7 @@ Editor board, Humanities & Social Sciences Communications
 
 Grants & Projects
 ======
-2025-2027 National Social Science Fund Project (#724B2015) (PI)
+2025-2027 National Science Fund Project (#724B2015) (PI)
 
 2024 Open Fund for Innovative Evaluation, Fudan University (PI)
 
