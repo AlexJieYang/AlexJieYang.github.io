@@ -57,25 +57,29 @@ Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coeff
 
 杨杰, 柳美君, 步一, 赵星, 邓三鸿*. 组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角 [J]. 情报学报, 2025.
 
-杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024.
+杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024, 43(09): 1003-14.
 
 杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64.
 
 杨杰, 孔嘉, 张艺炜, et al. 融合论文颠覆性与巩固性的学者二元影响力测度 [J]. 情报学报, 2023, 42(12): 1412-23.
 
+杨杰, 吴琳伟, 邓三鸿*. 颠覆性技术视角下科技伦理的敏捷治理框架探讨 [J]. 中国科学基金, 2023, 37(03): 378-86.
+
+杨杰*, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示 [J]. 图书情报工作, 2022, 66(02): 109-116.
+
 柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性 [J]. 科学学研究, 2024.
 
 柳美君, 杨杰, 杨斯杰, 闵超*. 中国与“一带一路”沿线国家的科技人才流动研究：基于准自然实验的证据 [J]. 科学学研究, 2024.
 
-闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿*. 学者合作网络外部影响力与学术成就的关系研究[J]. 图书情报工作, 2024.
+闫晓慧, 杨杰, 杨文霞, et al. 学者合作网络外部影响力与学术成就的关系研究 [J]. 图书情报工作, 2025, 69(02): 96-107.
 
-巩洪村, 邓三鸿, 杨杰, et al. 组态视角下Y世代移动数字过度使用的影响因素研究 [J]. 图书情报知识, 2024,1-11.
+张逸勤, 杨杰, 宋欣雨, et al. 代表作评价模式的定量探析——基于诺贝尔奖得主的实证 [J]. 情报理论与实践, 2025.
 
-杨杰, 吴琳伟, 邓三鸿*. 颠覆性技术视角下科技伦理的敏捷治理框架探讨 [J]. 中国科学基金, 2023, 37(03): 378-86.
+巩洪村, 邓三鸿, 杨杰, et al. 组态视角下Y世代移动数字过度使用的影响因素研究 [J]. 图书情报知识, 2024, 41(05): 128-37+49.
+
+张逸勤, 邓三鸿, 巩洪村, 杨杰, 刘潮. 面向 AI4Science 的科学论文图像语义描述框架体系构建研究[J]. 图书馆论坛, 2025.
 
 邓三鸿, 杨杰, 王昊, et al. 多源异构数据视角下的学术评价:内涵、进展与展望 [J]. 科技情报研究, 2023, 5(04): 42-56.
-
-杨杰*, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示 [J]. 图书情报工作, 2022, 66(02): 109-116.
 
 Conference papers
 ======
@@ -84,6 +88,7 @@ Yangfanyu Yang, Alex J. Yang, and Yian Yin*. (2025) Quantifying Ageing Effect in
 Alex J. Yang*, Yujie Shi, Yinuo Ma, and Sanhong Deng. (2025) Quantifying talent space of nations based on global patterns of mobility. The 4th France's International Conference on Complex Systems (FRCCS).
 
 Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference.
+
 Liu, M.*, Yang, A. J., Bu Y., & Ding Y. (2024) Untangling the complex pattern of international talent mobility in science. The 28th International Conference on Science, Technology and Innovation Indicators (STI).
 
 Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI).
