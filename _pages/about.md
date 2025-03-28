@@ -22,11 +22,16 @@ My research interest includes science of science, network science, scientific in
 
 Peer reviewed papers
 ======
-Yang, A. J., Ding Y, & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 1-17. [https://doi.org/10.1162/qss_a_00323](https://doi.org/10.1162/qss_a_00323)
+Yang, A. J.* (2025). Unraveling Topic Switching and Innovation in Science. Information Processing & Management. Accepted.
 
-Yang, A. J.*, YAN X, HU H, HU H, KONG J, & Deng, S.* (2024). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology. [https://doi.org/10.1002/asi.24947](https://doi.org/10.1002/asi.24947)
+Yang, A. J.* (2025). Understanding the relationship between interdisciplinary knowledge and disruption in science. Journal of Information Science. Accepted.
 
+Yang, A. J.*, Yan, X., Hu, H., Hu, H., Kong, J., & Deng, S.* (2025). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology, 76(3), 563-579. [https://doi.org/10.1002/asi.24947](https://doi.org/10.1002/asi.24947)
 Featured by [Information Matters](https://informationmatters.org/2024/10/can-disruptive-science-impact-technology-and-society/)
+
+Hu, H., Yang, A. J., Deng, S., Wang, D., & Song, M.* (2025). CoTEL-D3X: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction. Expert Systems with Applications, 273, 126953. [https://doi.org/10.1016/j.eswa.2025.126953](https://doi.org/10.1016/j.eswa.2025.126953)
+
+Yang, A. J., Ding Y, & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 1-17. [https://doi.org/10.1162/qss_a_00323](https://doi.org/10.1162/qss_a_00323)
 
 Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 1-17. [https://doi.org/10.1162/qss_a_00323](https://doi.org/10.1162/qss_a_00323)
 
@@ -50,6 +55,8 @@ Yang, A. J.*, Wu, L., Zhang, Q., Wang, H., & Deng, S.* (2023). The k-step h-inde
 
 Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. [https://doi.org/10.1016/j.joi.2023.101411](https://doi.org/10.1016/j.joi.2023.101411)
 
+杨杰, 柳美君, 步一, 赵星, 邓三鸿*. 组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角 [J]. 情报学报, 2025.
+
 杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024.
 
 杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64.
@@ -72,11 +79,14 @@ Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coeff
 
 Conference papers
 ======
-Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference, 2024.
+Yangfanyu Yang, Alex J. Yang, and Yian Yin*. (2025) Quantifying Ageing Effect in Scientific and Innovative Careers. The 4th International Conference on the Science of Science and Innovation (ICSSI).
 
-Liu, M.*, Yang, A. J., Bu Y., & Ding Y. (2024) Untangling the complex pattern of international talent mobility in science. The 28th International Conference on Science, Technology and Innovation Indicators (STI). (Full Paper)
+Alex J. Yang*, Yujie Shi, Yinuo Ma, and Sanhong Deng. (2025) Quantifying talent space of nations based on global patterns of mobility. The 4th France's International Conference on Complex Systems (FRCCS).
 
-Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI). (Long paper)
+Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference.
+Liu, M.*, Yang, A. J., Bu Y., & Ding Y. (2024) Untangling the complex pattern of international talent mobility in science. The 28th International Conference on Science, Technology and Innovation Indicators (STI).
+
+Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI).
 
 Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers. Proceedings of the Association for Information Science and Technology (ASIST).
 
@@ -109,6 +119,8 @@ Honors & prizes
 2023 Honorable mention of the Eugene Garfield Doctoral Dissertation Scholarship, ISSI
 
 2023 The First "Frontier Discussion on Science and Technology Ethics" Essay Competition (Third Prize), CAST
+
+2024 National Scholarship for Graduate Student, Ministry of Education
 
 2023 National Scholarship for Graduate Student, Ministry of Education
 
