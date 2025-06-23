@@ -22,9 +22,13 @@ My research interest includes science of science, network science, scientific in
 
 Peer reviewed papers
 ======
-Yang, A. J.* (2025). Unraveling Topic Switching and Innovation in Science. Information Processing & Management. Accepted.
+Yang, A. J.* (2025). Text vs. citations: a comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy. Accepted.
 
-Yang, A. J.* (2025). Understanding the relationship between interdisciplinary knowledge and disruption in science. Journal of Information Science. Accepted.
+Yang, A. J.* (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. [https://doi.org/10.1016/j.ipm.2025.104171](https://doi.org/10.1016/j.ipm.2025.104171)
+
+Yang, A. J.*, Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying delayed recognition of scientists. Journal of Informetrics, 19(3), 101688. [https://doi.org/10.1016/j.joi.2025.101688](https://doi.org/10.1016/j.joi.2025.101688)
+
+Yang, A. J., Wang, F., Shi, Y., Zhang, Y., Wang, H., & Deng, S*. (2025). Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship. Journal of Data and Information Science, 20250029–20250029. [https://doi.org/10.2478/jdis-2025-0029](https://doi.org/10.2478/jdis-2025-0029)
 
 Yang, A. J.*, Yan, X., Hu, H., Hu, H., Kong, J., & Deng, S.* (2025). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology, 76(3), 563-579. [https://doi.org/10.1002/asi.24947](https://doi.org/10.1002/asi.24947)
 Featured by [Information Matters](https://informationmatters.org/2024/10/can-disruptive-science-impact-technology-and-society/)
