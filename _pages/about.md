@@ -87,9 +87,13 @@ Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coeff
 
 Conference papers
 ======
-Yangfanyu Yang, Alex J. Yang, and Yian Yin*. (2025) Quantifying Ageing Effect in Scientific and Innovative Careers. The 4th International Conference on the Science of Science and Innovation (ICSSI).
+Yang, A. J.*, Shi Y., Zhao S. X., Zhang Y., and Deng S. (2025) Mining Collective Intelligence and Predicting Disruptive Paradigm Shifts via Human-Aware AI. Proceedings of the Association for Information Science and Technology (ASIST).
 
-Alex J. Yang*, Yujie Shi, Yinuo Ma, and Sanhong Deng. (2025) Quantifying talent space of nations based on global patterns of mobility. The 4th France's International Conference on Complex Systems (FRCCS).
+Yang, A. J.*, Zhao S. X., Bu Y., and Deng S. (2025) Measuring Technology Diffusion Dynamics Using Patent Full-Text Data and Machine Learning. Proceedings of Joint Workshop of the 6th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, ISSI.
+
+Yang Y., Yang, A. J., and Yin Y.*. (2025) Quantifying Ageing Effect in Scientific and Innovative Careers. The 4th International Conference on the Science of Science and Innovation (ICSSI).
+
+Yang, A. J.*, Shi Y., Ma Y., and Deng S. (2025) Quantifying talent space of nations based on global patterns of mobility. The 4th France's International Conference on Complex Systems (FRCCS).
 
 Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference.
 
@@ -101,9 +105,15 @@ Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristic
 
 Hu, H., Yang, A. J., Deng, S., Wang, D.*, Song, M., Shen, S. (2023). A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models. Proceedings of the Association for Information Science and Technology (ASIST).
 
+
 Activity
 ======
-Editor board, Humanities & Social Sciences Communications
+Editor board member: Humanities & Social Sciences Communications
+
+Editor board member: Information Processing & Management
+
+Reviewer/Referee: Nature Human Behaviour, Journal of the Association for Information Science and Technology, Information Processing & Management, Journal of Informetrics, Scientometrics, Journal of Information Science, etc.
+
 
 Grants & Projects
 ======
