@@ -22,7 +22,7 @@ My research interest includes science of science, network science, scientific in
 
 Peer reviewed papers
 ======
-Yang, A. J.* (2025). Text vs. citations: a comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy. Accepted.
+Yang, A. J.* (2025). Text vs. citations: A comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy, 54(8), 105295. [https://doi.org/10.1016/j.respol.2025.105295](https://doi.org/10.1016/j.respol.2025.105295)
 
 Yang, A. J.* (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. [https://doi.org/10.1016/j.ipm.2025.104171](https://doi.org/10.1016/j.ipm.2025.104171)
 
