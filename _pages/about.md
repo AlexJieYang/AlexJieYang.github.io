@@ -24,6 +24,8 @@ Peer reviewed papers
 ======
 Yang, A. J.* (2025). Text vs. citations: A comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy, 54(8), 105295. [https://doi.org/10.1016/j.respol.2025.105295](https://doi.org/10.1016/j.respol.2025.105295)
 
+Yang, A. J.*, Zhao, S. X.*, Deng, S.*, Liu, M., Bu, Y., & Ding, Y. (2025). Quantifying the dynamics of research teams' academic diversity. Journal of the Association for Information Science and Technology, 1–17. [https://doi.org/10.1002/asi.70023](https://doi.org/10.1002/asi.70023)
+
 Yang, A. J.* (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. [https://doi.org/10.1016/j.ipm.2025.104171](https://doi.org/10.1016/j.ipm.2025.104171)
 
 Yang, A. J.*, Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying delayed recognition of scientists. Journal of Informetrics, 19(3), 101688. [https://doi.org/10.1016/j.joi.2025.101688](https://doi.org/10.1016/j.joi.2025.101688)
