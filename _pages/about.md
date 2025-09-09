@@ -37,7 +37,7 @@ Featured by [Information Matters](https://informationmatters.org/2024/10/can-dis
 
 Hu, H., Yang, A. J., Deng, S., Wang, D., & Song, M.* (2025). CoTEL-D3X: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction. Expert Systems with Applications, 273, 126953. [https://doi.org/10.1016/j.eswa.2025.126953](https://doi.org/10.1016/j.eswa.2025.126953)
 
-Yang, A. J., Ding Y, & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 1-17. [https://doi.org/10.1162/qss_a_00323](https://doi.org/10.1162/qss_a_00323)
+Yang, A. J., Ding Y, & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 1-17. [https://doi.org/10.1162/qss_a_00335](https://doi.org/10.1162/qss_a_00335)
 
 Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 1-17. [https://doi.org/10.1162/qss_a_00323](https://doi.org/10.1162/qss_a_00323)
 
