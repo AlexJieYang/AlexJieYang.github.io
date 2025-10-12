@@ -28,6 +28,10 @@ Yang, A. J.*, Zhao, S. X.*, Deng, S.*, Liu, M., Bu, Y., & Ding, Y. (2025). Quant
 
 Yang, A. J.* (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. [https://doi.org/10.1016/j.ipm.2025.104171](https://doi.org/10.1016/j.ipm.2025.104171)
 
+Yang, A. J., Guo J., Shi Y., Deng S.*, & Zhao S. X. (2025). Repeat collaboration and scientific innovation: evidence from dynamic ego networks of Nobel laureates. Humanities and Social Sciences Communications, forthcoming. 10.1057/s41599-025-05887-5
+
+Yang, A. J., Zhao S. X., & Deng S.* (2025). Standing on the shoulder of data: data-driven research boosts scientific innovation. Scientometrics, forthcoming.
+
 Yang, A. J.*, Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying delayed recognition of scientists. Journal of Informetrics, 19(3), 101688. [https://doi.org/10.1016/j.joi.2025.101688](https://doi.org/10.1016/j.joi.2025.101688)
 
 Yang, A. J., Wang, F., Shi, Y., Zhang, Y., Wang, H., & Deng, S*. (2025). Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship. Journal of Data and Information Science, 20250029–20250029. [https://doi.org/10.2478/jdis-2025-0029](https://doi.org/10.2478/jdis-2025-0029)
@@ -61,11 +65,11 @@ Yang, A. J.*, Wu, L., Zhang, Q., Wang, H., & Deng, S.* (2023). The k-step h-inde
 
 Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. [https://doi.org/10.1016/j.joi.2023.101411](https://doi.org/10.1016/j.joi.2023.101411)
 
-杨杰, 柳美君, 步一, 赵星, 邓三鸿*. 组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角 [J]. 情报学报, 2025.
+杨杰, 柳美君, 步一, 赵星, 邓三鸿*. 组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角 [J]. 情报学报, 2025, 44(03): 325–38.
 
 杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024, 43(09): 1003-14.
 
-杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64.
+杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64. 
 
 杨杰, 孔嘉, 张艺炜, et al. 融合论文颠覆性与巩固性的学者二元影响力测度 [J]. 情报学报, 2023, 42(12): 1412-23.
 
@@ -73,9 +77,13 @@ Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coeff
 
 杨杰*, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示 [J]. 图书情报工作, 2022, 66(02): 109-116.
 
-柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性 [J]. 科学学研究, 2024.
+柳美君, 杨杰, 杨斯杰, 闵超*. 中国与“一带一路”沿线国家的科技人才流动研究：基于准自然实验的证据 [J]. 科学学研究, 2025, 43(03): 488–506.
 
-柳美君, 杨杰, 杨斯杰, 闵超*. 中国与“一带一路”沿线国家的科技人才流动研究：基于准自然实验的证据 [J]. 科学学研究, 2024.
+柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性 [J]. 科学学研究, 2024, 1-19.
+
+张琪, 马瑞敏, 杨杰, et al. 融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法[J/OL].情报理论与实践,1-10.
+
+郭剑明, 杨杰, 方静, et al. 基于高阶网络结构的核心专利识别方法研究[J/OL].情报理论与实践,1-13.
 
 闫晓慧, 杨杰, 杨文霞, et al. 学者合作网络外部影响力与学术成就的关系研究 [J]. 图书情报工作, 2025, 69(02): 96-107.
 
@@ -83,9 +91,12 @@ Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coeff
 
 巩洪村, 邓三鸿, 杨杰, et al. 组态视角下Y世代移动数字过度使用的影响因素研究 [J]. 图书情报知识, 2024, 41(05): 128-37+49.
 
+杨文霞, 邓三鸿, 杨杰, et al. 基于非参数检验的文献漏引行为表现特征分析[J].情报科学,2024,42(07):76-83.
+
 张逸勤, 邓三鸿, 巩洪村, 杨杰, 刘潮. 面向 AI4Science 的科学论文图像语义描述框架体系构建研究[J]. 图书馆论坛, 2025.
 
 邓三鸿, 杨杰, 王昊, et al. 多源异构数据视角下的学术评价:内涵、进展与展望 [J]. 科技情报研究, 2023, 5(04): 42-56.
+
 
 Conference papers
 ======
@@ -110,11 +121,11 @@ Hu, H., Yang, A. J., Deng, S., Wang, D.*, Song, M., Shen, S. (2023). A Generativ
 
 Activity
 ======
-Editor board member: Humanities & Social Sciences Communications
+Editor: Humanities & Social Sciences Communications
 
 Editor board member: Information Processing & Management
 
-Reviewer/Referee: Nature Human Behaviour, Journal of the Association for Information Science and Technology, Information Processing & Management, Journal of Informetrics, Scientometrics, Journal of Information Science, etc.
+Reviewer/Referee: Nature Human Behaviour, npj Artificial Intelligence, Journal of the Association for Information Science and Technology, Information Processing & Management, Journal of Informetrics, Scientometrics, Journal of Information Science, Expert Systems With Applications, Archives of Computational Methods in Engineering, Computational and Mathematical Organization Theory, Journal of Global Entrepreneurship Research, Journal of Technology Transfer, Computers in Human Behavior Reports, etc.
 
 
 Grants & Projects
