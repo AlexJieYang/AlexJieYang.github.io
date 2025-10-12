@@ -12,8 +12,11 @@ redirect_from:
 Education
 ======
 2022-present Nanjing University (Ph.D.)
+
 2025-2026 Harvard University (Visiting Scholar)
+
 2024 Cornell University (Visiting Scholar)
+
 2018-2022 East China Normal University (B.S.)
   
 Research Interest
