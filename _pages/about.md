@@ -28,9 +28,9 @@ Yang, A. J.*, Zhao, S. X.*, Deng, S.*, Liu, M., Bu, Y., & Ding, Y. (2025). Quant
 
 Yang, A. J.* (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. [https://doi.org/10.1016/j.ipm.2025.104171](https://doi.org/10.1016/j.ipm.2025.104171)
 
-Yang, A. J., Guo J., Shi Y., Deng S.*, & Zhao S. X. (2025). Repeat collaboration and scientific innovation: evidence from dynamic ego networks of Nobel laureates. Humanities and Social Sciences Communications, forthcoming. 10.1057/s41599-025-05887-5
+Yang, A. J., Guo J., Shi Y., Deng S.*, & Zhao S. X. (2025). Repeat collaboration and scientific innovation: evidence from dynamic ego networks of Nobel laureates. Humanities and Social Sciences Communications, 12(1), 1620. [https://doi.org/10.1057/s41599-025-05887-5](https://doi.org/10.1057/s41599-025-05887-5)
 
-Yang, A. J., Zhao S. X., & Deng S.* (2025). Standing on the shoulder of data: data-driven research boosts scientific innovation. Scientometrics, forthcoming.
+Yang, A. J., Zhao S. X., & Deng S.* (2025). Standing on the shoulder of data: data-driven research boosts scientific innovation. Scientometrics. [https://10.1007/s11192-025-05424-w](https://10.1007/s11192-025-05424-w)
 
 Yang, A. J.*, Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying delayed recognition of scientists. Journal of Informetrics, 19(3), 101688. [https://doi.org/10.1016/j.joi.2025.101688](https://doi.org/10.1016/j.joi.2025.101688)
 
@@ -146,18 +146,15 @@ National Natural Science Foundation Project (71874056) (Participation)
 
 Honors & prizes
 ======
+
+2025 National Scholarship for Graduate Student, Ministry of Education in China
+
+2024 National Scholarship for Graduate Student, Ministry of Education in China
+
+2023 National Scholarship for Graduate Student, Ministry of Education in China
+
 2023 IPM Ph.D. Best paper award winner, IPM & ELSEVIER
 
 2023 Honorable mention of the Eugene Garfield Doctoral Dissertation Scholarship, ISSI
 
 2023 The First "Frontier Discussion on Science and Technology Ethics" Essay Competition (Third Prize), CAST
-
-2024 National Scholarship for Graduate Student, Ministry of Education
-
-2023 National Scholarship for Graduate Student, Ministry of Education
-
-2022 First-class Scholarship, ECNU
-
-2021 National Inspiration Scholarship, Ministry of Education
-
-2021 “Challenge Cup” (National Third Prize), Ministry of Education
