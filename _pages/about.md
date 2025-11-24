@@ -24,7 +24,7 @@ Peer reviewed papers
 ======
 Yang, A. J.* (2025). Text vs. citations: A comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy, 54(8), 105295. [https://doi.org/10.1016/j.respol.2025.105295](https://doi.org/10.1016/j.respol.2025.105295)
 
-Yang, A. J.*, Deng, S., & Freeman, R. B. (2025). China should undertake more risky research to close the Nobel gap. Nature, 647, 40. [https://doi.org/10.1038/d41586-025-03615-2](https://doi.org/10.1038/d41586-025-03615-2)
+Yang, A. J.*, Deng, S., & Freeman, R. B. (2025). China should undertake more risky research to close the Nobel gap. Nature, 647, 40. [https://doi.org/10.1038/d41586-025-03615-2](https://doi.org/10.1038/d41586-025-03615-2) (Correspondence article)
 
 Yang, A. J.*, Zhao, S. X.*, Deng, S.*, Liu, M., Bu, Y., & Ding, Y. (2025). Quantifying the dynamics of research teams' academic diversity. Journal of the Association for Information Science and Technology, 1–17. [https://doi.org/10.1002/asi.70023](https://doi.org/10.1002/asi.70023)
 
@@ -39,6 +39,7 @@ Yang, A. J.*, Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying dela
 Yang, A. J., Wang, F., Shi, Y., Zhang, Y., Wang, H., & Deng, S*. (2025). Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship. Journal of Data and Information Science, 20250029–20250029. [https://doi.org/10.2478/jdis-2025-0029](https://doi.org/10.2478/jdis-2025-0029)
 
 Yang, A. J.*, Yan, X., Hu, H., Hu, H., Kong, J., & Deng, S.* (2025). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology, 76(3), 563-579. [https://doi.org/10.1002/asi.24947](https://doi.org/10.1002/asi.24947)
+
 Featured by [Information Matters](https://informationmatters.org/2024/10/can-disruptive-science-impact-technology-and-society/)
 
 Hu, H., Yang, A. J., Deng, S., Wang, D., & Song, M.* (2025). CoTEL-D3X: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction. Expert Systems with Applications, 273, 126953. [https://doi.org/10.1016/j.eswa.2025.126953](https://doi.org/10.1016/j.eswa.2025.126953)
@@ -102,24 +103,23 @@ Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coeff
 
 Conference papers
 ======
-Yang, A. J.*, Shi Y., Zhao S. X., Zhang Y., and Deng S. (2025) Mining Collective Intelligence and Predicting Disruptive Paradigm Shifts via Human-Aware AI. Proceedings of the Association for Information Science and Technology (ASIST).
+Yang, A. J.*, Shi Y., Zhao S. X., Zhang Y., and Deng S. (2025) Mining Collective Intelligence and Predicting Disruptive Paradigm Shifts via Human-Aware AI. Proceedings of the Association for Information Science and Technology, 62(1), 799–808. [https://doi.org/10.1002/pra2.1298](https://doi.org/10.1002/pra2.1298)
+
+Yang, A. J., Shi, Y., Ma, Y., & Deng, S. (2025). Quantifying Talent Space of Nations Based on Global Patterns of Mobility.Proceedings of The Fifth France's International Conference on Complex Systems. [https://doi.org/10.1007/978-3-032-00206-8_1](https://doi.org/10.1007/978-3-032-00206-8_1)
 
 Yang, A. J.*, Zhao S. X., Bu Y., and Deng S. (2025) Measuring Technology Diffusion Dynamics Using Patent Full-Text Data and Machine Learning. Proceedings of Joint Workshop of the 6th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, ISSI.
 
 Yang Y., Yang, A. J., and Yin Y.*. (2025) Quantifying Ageing Effect in Scientific and Innovative Careers. The 4th International Conference on the Science of Science and Innovation (ICSSI).
 
-Yang, A. J.*, Shi Y., Ma Y., and Deng S. (2025) Quantifying talent space of nations based on global patterns of mobility. The 4th France's International Conference on Complex Systems (FRCCS).
-
-Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference.
+Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference. [https://ceur-ws.org/Vol-3745/paper23.pdf] (https://ceur-ws.org/Vol-3745/paper23.pdf)
 
 Liu, M.*, Yang, A. J., Bu Y., & Ding Y. (2024) Untangling the complex pattern of international talent mobility in science. The 28th International Conference on Science, Technology and Innovation Indicators (STI).
 
-Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI).
+Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI). [https://zenodo.org/records/8253488](https://zenodo.org/records/8253488)
 
-Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers. Proceedings of the Association for Information Science and Technology (ASIST).
+Yang, A.J., Zhao, Y., Wang, H. and Deng, S. (2023), Untangle the Characteristics of Disruptive and Consolidating Citations of Nobel-winning Papers. Proceedings of the Association for Information Science and Technology, 60: 1194-1196.[https://doi.org/10.1002/pra2.989](https://doi.org/10.1002/pra2.989)
 
-Hu, H., Yang, A. J., Deng, S., Wang, D.*, Song, M., Shen, S. (2023). A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models. Proceedings of the Association for Information Science and Technology (ASIST).
-
+Hu, H., Yang, A.J., Deng, S., Wang, D., Song, M. and Shen, S. (2023), A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models. Proceedings of the Association for Information Science and Technology, 60: 980-982. [https://doi.org/10.1002/pra2.918](https://doi.org/10.1002/pra2.918)
 
 Activity
 ======
