@@ -38,7 +38,7 @@ Yang, A. J., Zhao S. X., & Deng S.* (2025). Standing on the shoulder of data: da
 
 Yang, A. J.*, Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying delayed recognition of scientists. Journal of Informetrics, 19(3), 101688. [https://doi.org/10.1016/j.joi.2025.101688](https://doi.org/10.1016/j.joi.2025.101688)
 
-Yang, A. J., Wang, F., Shi, Y., Zhang, Y., Wang, H., & Deng, S*. (2025). Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship. Journal of Data and Information Science, 20250029–20250029. [https://doi.org/10.2478/jdis-2025-0029](https://doi.org/10.2478/jdis-2025-0029)
+Yang, A. J., Wang, F., Shi, Y., Zhang, Y., Wang, H., & Deng, S*. (2025). Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship. Journal of Data and Information Science, 10(3), 7–31. [https://doi.org/10.2478/jdis-2025-0029](https://doi.org/10.2478/jdis-2025-0029)
 
 Yang, A. J.*, Yan, X., Hu, H., Hu, H., Kong, J., & Deng, S.* (2025). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology, 76(3), 563-579. [https://doi.org/10.1002/asi.24947](https://doi.org/10.1002/asi.24947)
 
