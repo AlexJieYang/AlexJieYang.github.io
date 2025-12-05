@@ -20,9 +20,11 @@ Affiliation: [School of Information Management](https://im.nju.edu.cn/imeng/main
 My research interest includes science of science, network science, scientific innovation, and computational social science.
 
 
-Peer reviewed papers
+Published journal articles
 ======
 Yang, A. J.* (2025). Text vs. citations: A comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy, 54(8), 105295. [https://doi.org/10.1016/j.respol.2025.105295](https://doi.org/10.1016/j.respol.2025.105295)
+
+Yang, A. J., Freeman, R. B., & Deng, S. (2025). SAFE Act hinders US-China collaboration. Science, 390(6777), 991–991. [https://doi.org/10.1126/science.aed7998](https://doi.org/10.1126/science.aed7998) (Letter)
 
 Yang, A. J.*, Deng, S., & Freeman, R. B. (2025). China should undertake more risky research to close the Nobel gap. Nature, 647, 40. [https://doi.org/10.1038/d41586-025-03615-2](https://doi.org/10.1038/d41586-025-03615-2) (Correspondence article)
 
