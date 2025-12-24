@@ -134,17 +134,25 @@ Reviewer/Referee: Nature Human Behaviour, npj Artificial Intelligence, Journal o
 
 Grants & Projects
 ======
-2025-2027 National Science Fund Project (#724B2015) (PI)
+2025-2027 National Science Fund Project (724B2015) (PI)
 
-2024 Open Fund for Innovative Evaluation, Fudan University (PI)
+2024-2025 Open Fund for Innovative Evaluation (CSPJ2024004), Fudan University & Clarivate (PI)
 
-2021 National College Students Innovation Training Program, Ministry of Education (PI)
+2025-2026 Jiangsu Provincial Graduate Student Research and Practical Innovation Program Project (KYCX25_0133) (PI)
 
-National Social Science Fund Project (#19BTQ062) (Participation)
+2021 National College Students Innovation Training Program, Ministry of Education (202110269150G) (PI)
 
-National Social Science Fund Project, Major Program (#17ZDA291) (Participation)
+National Social Science Fund Project (25ATQ008) (Participation)
 
-National Natural Science Foundation Project (87874056) (Participation)
+National Social Science Fund Project (19BTQ062) (Participation)
+
+National Social Science Fund Project (23&ZD224) (Participation)
+
+National Social Science Fund Project (25&ZD298) (Participation)
+
+National Social Science Fund Project (17ZDA291) (Participation)
+
+National Natural Science Foundation Project (72374047) (Participation)
 
 National Natural Science Foundation Project (71874056) (Participation)
 
