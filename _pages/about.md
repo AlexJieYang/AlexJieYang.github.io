@@ -28,7 +28,7 @@ Yang, A. J., Freeman, R. B., & Deng, S. (2025). SAFE Act hinders US-China collab
 
 Yang, A. J.*, Deng, S., & Freeman, R. B. (2025). China should undertake more risky research to close the Nobel gap. Nature, 647, 40. [https://doi.org/10.1038/d41586-025-03615-2](https://doi.org/10.1038/d41586-025-03615-2) (Correspondence article)
 
-Yang, A. J.*, Zhao, S. X.*, Deng, S.*, Liu, M., Bu, Y., & Ding, Y. (2025). Quantifying the dynamics of research teams' academic diversity. Journal of the Association for Information Science and Technology, 1–17. [https://doi.org/10.1002/asi.70023](https://doi.org/10.1002/asi.70023)
+Yang, A. J.*, Zhao, S. X.*, Deng, S.*, Liu, M., Bu, Y., & Ding, Y. (2025). Quantifying the dynamics of research teams' academic diversity. Journal of the Association for Information Science and Technology, 76(12), 1719 – 1735. [https://doi.org/10.1002/asi.70023](https://doi.org/10.1002/asi.70023)
 
 Yang, A. J.* (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. [https://doi.org/10.1016/j.ipm.2025.104171](https://doi.org/10.1016/j.ipm.2025.104171)
 
@@ -44,15 +44,17 @@ Yang, A. J.*, Yan, X., Hu, H., Hu, H., Kong, J., & Deng, S.* (2025). Are disrupt
 
 Featured by [Information Matters](https://informationmatters.org/2024/10/can-disruptive-science-impact-technology-and-society/)
 
+Yang, A. J. (2025). Understanding the relationship between interdisciplinary knowledge and disruption in science. Journal of Information Science. [https://doi.org/10.1177/01655515251330614](https://doi.org/10.1177/01655515251330614)
+
 Hu, H., Yang, A. J., Deng, S., Wang, D., & Song, M.* (2025). CoTEL-D3X: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction. Expert Systems with Applications, 273, 126953. [https://doi.org/10.1016/j.eswa.2025.126953](https://doi.org/10.1016/j.eswa.2025.126953)
 
-Yang, A. J., Ding Y, & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 1-17. [https://doi.org/10.1162/qss_a_00335](https://doi.org/10.1162/qss_a_00335)
+Yang, A. J., Ding Y, & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 5(4), 861–881. [https://doi.org/10.1162/qss_a_00335](https://doi.org/10.1162/qss_a_00335)
 
-Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 1-17. [https://doi.org/10.1162/qss_a_00323](https://doi.org/10.1162/qss_a_00323)
+Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 5(4), 1070–1086. [https://doi.org/10.1162/qss_a_00323](https://doi.org/10.1162/qss_a_00323)
 
 Yang, A. J.* (2024). On the temporal diversity of knowledge in science. Journal of Informetrics, 18(4), 101594. [https://doi.org/10.1016/j.joi.2024.101594](https://doi.org/10.1016/j.joi.2024.101594)
 
-Yang, A. J., Xu H., Ding Y., & Liu, M. (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics. [https://doi.org/10.1007/s11192-024-04987-4](https://doi.org/10.1007/s11192-024-04987-4)
+Yang, A. J., Xu H., Ding Y., & Liu, M. (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics, 129(10), 6127–6148. [https://doi.org/10.1007/s11192-024-04987-4](https://doi.org/10.1007/s11192-024-04987-4)
 
 Yang, A. J.*, Zhao, S. X., & Deng, S. (2024). Revisiting delayed recognition in science: a large-scale & comprehensive study. Journal of Information Science. [https://doi.org/10.1177/01655515241244462](https://doi.org/10.1177/01655515241244462)
 
