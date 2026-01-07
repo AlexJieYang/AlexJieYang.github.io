@@ -115,7 +115,7 @@ Yang, A. J.*, Zhao S. X., Bu Y., and Deng S. (2025) Measuring Technology Diffusi
 
 Yang Y., Yang, A. J., and Yin Y.*. (2025) Quantifying Ageing Effect in Scientific and Innovative Careers. The 4th International Conference on the Science of Science and Innovation (ICSSI).
 
-Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference. [https://ceur-ws.org/Vol-3745/paper23.pdf] (https://ceur-ws.org/Vol-3745/paper23.pdf)
+Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference. [https://ceur-ws.org/Vol-3745/paper23.pdf](https://ceur-ws.org/Vol-3745/paper23.pdf)
 
 Liu, M.*, Yang, A. J., Bu Y., & Ding Y. (2024) Untangling the complex pattern of international talent mobility in science. The 28th International Conference on Science, Technology and Innovation Indicators (STI).
 
