@@ -34,7 +34,7 @@ Yang, A. J.* (2025). Unraveling topic switching and innovation in science. Infor
 
 Yang, A. J., Guo J., Shi Y., Deng S.*, & Zhao S. X. (2025). Repeat collaboration and scientific innovation: evidence from dynamic ego networks of Nobel laureates. Humanities and Social Sciences Communications, 12(1), 1620. [https://doi.org/10.1057/s41599-025-05887-5](https://doi.org/10.1057/s41599-025-05887-5)
 
-Yang, A. J., Zhao S. X., & Deng S.* (2025). Standing on the shoulder of data: data-driven research boosts scientific innovation. Scientometrics. [https://doi.org/10.1007/s11192-025-05424-w](https://10.1007/s11192-025-05424-w)
+Yang, A. J., Zhao S. X., & Deng S.* (2025). Standing on the shoulder of data: data-driven research boosts scientific innovation. Scientometrics, 130, 5613–5640. [https://doi.org/10.1007/s11192-025-05424-w](https://10.1007/s11192-025-05424-w)
 
 Yang, A. J.*, Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying delayed recognition of scientists. Journal of Informetrics, 19(3), 101688. [https://doi.org/10.1016/j.joi.2025.101688](https://doi.org/10.1016/j.joi.2025.101688)
 
@@ -84,9 +84,9 @@ Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coeff
 
 杨杰*, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示 [J]. 图书情报工作, 2022, 66(02): 109-116.
 
-柳美君, 杨杰, 杨斯杰, 闵超*. 中国与“一带一路”沿线国家的科技人才流动研究：基于准自然实验的证据 [J]. 科学学研究, 2025, 43(03): 488–506.
+柳美君, 杨杰, 杨斯杰, 闵超*. 中国与“一带一路”沿线国家的科技人才流动研究 [J]. 科学学研究, 2025, 43(03): 488–506.
 
-柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性 [J]. 科学学研究, 2024, 1-19.
+柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性 [J]. 科学学研究, 2025, 43(09), 1924–1937.
 
 张琪, 马瑞敏, 杨杰, et al. 融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法[J/OL].情报理论与实践,1-10.
 
@@ -94,7 +94,7 @@ Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coeff
 
 闫晓慧, 杨杰, 杨文霞, et al. 学者合作网络外部影响力与学术成就的关系研究 [J]. 图书情报工作, 2025, 69(02): 96-107.
 
-张逸勤, 杨杰, 宋欣雨, et al. 基于代表作的科学家学术影响力评价模式研究——以诺贝尔奖得主为例 [J]. 情报理论与实践, 2025.
+张逸勤, 杨杰, 宋欣雨, et al. 基于代表作的科学家学术影响力评价模式研究——以诺贝尔奖得主为例 [J]. 情报理论与实践, 2025, 48(6): 61–8.
 
 巩洪村, 邓三鸿, 杨杰, et al. 组态视角下Y世代移动数字过度使用的影响因素研究 [J]. 图书情报知识, 2024, 41(05): 128-37+49.
 
