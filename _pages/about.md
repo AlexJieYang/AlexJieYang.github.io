@@ -30,7 +30,7 @@ Yang, A. J.*, Deng, S., & Freeman, R. B. (2025). China should undertake more ris
 
 Yang, A. J., Freeman, R. B.*, & Deng, S.* (2026). A semantic atlas of journals: Structure, position, and dispersion. Journal of the Association for Information Science and Technology. [https://doi.org/10.1002/asi.70067](https://doi.org/10.1002/asi.70067)
 
-19.	Wang, Z., Zhao, Z., Yao, Y., Yang, A. J.*, & Deng, S.* (2026). Organizational characteristics and the social impact of UK research: disciplinary patterns from REF 2021. Research Evaluation, 35. [https://doi.org/10.1093/reseval/rvag033](https://doi.org/10.1093/reseval/rvag033)
+Wang, Z., Zhao, Z., Yao, Y., Yang, A. J.*, & Deng, S.* (2026). Organizational characteristics and the social impact of UK research: disciplinary patterns from REF 2021. Research Evaluation, 35. [https://doi.org/10.1093/reseval/rvag033](https://doi.org/10.1093/reseval/rvag033)
 
 Yang, A. J.*, Zhao, S. X.*, Deng, S.*, Liu, M., Bu, Y., & Ding, Y. (2025). Quantifying the dynamics of research teams' academic diversity. Journal of the Association for Information Science and Technology, 76(12), 1719 – 1735. [https://doi.org/10.1002/asi.70023](https://doi.org/10.1002/asi.70023)
 
