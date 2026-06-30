@@ -32,6 +32,8 @@ Yang, A. J., Freeman, R. B.*, & Deng, S.* (2026). A semantic atlas of journals: 
 
 Wang, Z., Zhao, Z., Yao, Y., Yang, A. J.*, & Deng, S.* (2026). Organizational characteristics and the social impact of UK research: disciplinary patterns from REF 2021. Research Evaluation, 35. [https://doi.org/10.1093/reseval/rvag033](https://doi.org/10.1093/reseval/rvag033)
 
+Yang, A. J.*, Shi Y., Wang F., Song X., & Deng, S.* (2026). Distant but bridgeable: how geographic and cognitive distance jointly shape interdisciplinary knowledge production. Journal of Informetrics, 20(3), 101840. [https://doi.org/10.1016/j.joi.2026.101840](https://doi.org/10.1016/j.joi.2026.101840)
+
 Yang, A. J.*, Zhao, S. X.*, Deng, S.*, Liu, M., Bu, Y., & Ding, Y. (2025). Quantifying the dynamics of research teams' academic diversity. Journal of the Association for Information Science and Technology, 76(12), 1719 – 1735. [https://doi.org/10.1002/asi.70023](https://doi.org/10.1002/asi.70023)
 
 Yang, A. J.* (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. [https://doi.org/10.1016/j.ipm.2025.104171](https://doi.org/10.1016/j.ipm.2025.104171)
