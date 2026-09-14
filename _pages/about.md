@@ -23,7 +23,7 @@ My research interest includes science of science, network science, scientific in
 Published journal articles
 ======
 1.	Yang, A. J.* (2025). Text vs. citations: a comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy, 54(8), 105295. https://doi.org/10.1016/j.respol.2025.105295
-2.	Jianming Guo, Mengting Gao, Yue Yang, Haotian Hu, Jia Kong, Alex Jie Yang*, Sanhong Deng* (2026). A U.S. inventor–patent linkage dataset for National Inventors Hall of Fame inductees. Scientific Data, forthcoming.
+2.	Guo J., Gao M., Yang Y., Hu H.,  Kong J., Yang, A. J.*, Deng S. * (2026). A U.S. inventor–patent linkage dataset for National Inventors Hall of Fame inductees. Scientific Data, forthcoming.
 3.	Yang, A. J., Freeman, R. B., & Deng, S. (2025). SAFE Act hinders US-China collaboration. Science, 390(6777), 991–991. https://doi.org/10.1126/science.aed7998 (Letter article)
 4.	Yang, A. J.*, Deng, S., & Freeman, R. B. (2025). China should undertake more risky research to close the Nobel gap. Nature, 647, 40. https://doi.org/10.1038/d41586-025-03615-2 (Correspondence article)
 5.	Yang, A. J., Freeman, R. B.*, & Deng, S.* (2026). A semantic atlas of journals: Structure, position, and dispersion. Journal of the Association for Information Science and Technology. https://doi.org/10.1002/asi.70067
