@@ -22,70 +22,73 @@ My research interest includes science of science, network science, scientific in
 
 Published journal articles
 ======
-1.	Yang, A. J. * (2025). Text vs. citations: a comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy, 54(8), 105295. https://doi.org/10.1016/j.respol.2025.105295
-2.	Guo J., Gao M., Yang Y., Hu H.,  Kong J., Yang, A. J. *, Deng S. * (2026). A U.S. inventor–patent linkage dataset for National Inventors Hall of Fame inductees. Scientific Data, forthcoming.
-3.	Yang, A. J., Freeman, R. B., & Deng, S. (2025). SAFE Act hinders US-China collaboration. Science, 390(6777), 991–991. https://doi.org/10.1126/science.aed7998 (Letter article)
-4.	Yang, A. J. *, Deng, S., & Freeman, R. B. (2025). China should undertake more risky research to close the Nobel gap. Nature, 647, 40. https://doi.org/10.1038/d41586-025-03615-2 (Correspondence article)
-5.	Yang, A. J., Freeman, R. B. *, & Deng, S. * (2026). A semantic atlas of journals: Structure, position, and dispersion. Journal of the Association for Information Science and Technology. https://doi.org/10.1002/asi.70067
-6.	Yang, A. J. *, Zhao, S. X. *, Deng, S. *, Liu, M., Bu, Y., & Ding, Y. (2025). Quantifying the dynamics of research teams' academic diversity. Journal of the Association for Information Science and Technology, 1-17. https://doi.org/10.1002/asi.70023
-7.	Yang, A. J. *, Yan, X., Hu, H., Hu, H., Kong, J., & Deng, S. * (2025). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology, 76(3), 563-579. https://doi.org/10.1002/asi.24947
-8.	Hu, L., Yang, A. J. *, & Deng, S. * (2027). Gender differences in early semantic trajectories and academic career persistence. Information Processing & Management, 64(2), 105142. https://doi.org/10.1016/j.ipm.2026.105142
-9.	Yang, A. J. * (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. https://doi.org/10.1016/j.ipm.2025.104171
-10.	Yang, A. J. *, Hu, H., Zhao, Y., Wang, H., & Deng, S. * (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420 (Best paper award in 2023)[Best paper award in 2023](https://www.sciencedirect.com/special-issue/108GL6W43N5)
-11.	Liu, M. *, Xie, Z., Yang, A. J., Yu C., Xu J., Ding Y., Bu Y. (2024). The prominent and heterogeneous gender disparities in scientific novelty: Evidence from biomedical doctoral theses. Information Processing & Management, 61(4), 103743. https://doi.org/10.1016/j.ipm.2024.103743
-12.	Yang, A. J. *, Shi Y., Wang F., Song X., & Deng, S. * (2026). Distant but bridgeable: how geographic and cognitive distance jointly shape interdisciplinary knowledge production. Journal of Informetrics, 20(3), 101840. https://doi.org/10.1016/j.joi.2026.101840
-13.	Yang, A. J. *, Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying delayed recognition of scientists. Journal of Informetrics, 19(3), 101688. https://doi.org/10.1016/j.joi.2025.101688
-14.	Yang, A. J. * (2024). On the temporal diversity of knowledge in science. Journal of Informetrics, 18(4), 101594. https://doi.org/10.1016/j.joi.2024.101594.
-15.	Yang, A. J. * (2024). Unveiling the impact and dual innovation of funded research. Journal of Informetrics, 18(1), 101480. https://doi.org/10.1016/j.joi.2023.101480 
-16.	Yang, A. J. *, Wu, L., Zhang, Q., Wang, H., & Deng, S. * (2023). The k-step h-index in citation networks at the paper, author, and institution levels. Journal of Informetrics, 17(4), 101456. https://doi.org/10.1016/j.joi.2023.101456
-17.	Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/10.1016/j.joi.2023.101411
-18.	Peng Z., Zhao M., Wang H., Yang, A. J. *, Deng, S. * (2026). Understanding Prolonged Retraction Lag Among Retracted Biomedical Papers: An Explainable Machine-Learning Analysis. Scientometrics. https://doi.org/10.1007/s11192-026-05808-6
-19.	Yang, A. J., Zhao S. X., & Deng S. * (2025). Standing on the shoulder of data: data-driven research boosts scientific innovation. Scientometrics. https://10.1007/s11192-025-05424-w
-20.	Yang, A. J., Xu, H., Ding, Y., & Liu, M. * (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics, 129(10), 6127-6148. https://doi.org/10.1007/s11192-024-04987-4
-21.	Yang, A. J.*, Gong, H., Wang, Y., Zhang, C., & Deng, S.* (2024). Rescaling the disruption index reveals the universality of disruption distributions in science. Scientometrics, 129(1), 561-580. https://doi.org/10.1007/s11192-023-04889-x
-22.	Yang, A. J., Wang, F., Peng, Z., Wang, Z., & Deng, S.* (2026). The paradox of innovation: New concepts and disruptiveness in science. Journal of Information Science, 0(0), 01655515261478897. https://doi.org/10.1177/01655515261478897
-23.	Yang, A. J.* (2025). Understanding the relationship between interdisciplinary knowledge and disruption in science. Journal of Information Science. https://doi.org/10.1177/01655515251330614
-24.	Yang, A. J.*, Zhao, S. X., & Deng, S. (2024). Revisiting delayed recognition in science: a large-scale & comprehensive study. Journal of Information Science. https://doi.org/10.1177/01655515241244462
-25.	Yang, A. J.*, Guo J., Shi Y., Deng S.*, & Zhao S. X. (2025). Repeat collaboration and scientific innovation: evidence from dynamic ego networks of Nobel laureates. Humanities and Social Sciences Communications, 12(1), 1620. https://doi.org/10.1057/s41599-025-05887-5
-26.	Wang, Z., Zhao, Z., Yao, Y., Yang, A. J.*, & Deng, S.* (2026). Organizational characteristics and the social impact of UK research: disciplinary patterns from REF 2021. Research Evaluation, 35. https://doi.org/10.1093/reseval/rvag033
-27.	Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 5(4), 1070–1086. https://doi.org/10.1162/qss_a_00323
-28.	Yang, A. J., Ding, Y., & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 5(4), 861-881. https://doi.org/10.1162/qss_a_00335
-29.	Yang, A. J., Wang, F., Shi, Y., Zhang, Y., Wang, H., & Deng, S*. (2025). Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship. Journal of Data and Information Science, 20250029–20250029. https://doi.org/10.2478/jdis-2025-0029
-30.	Hu, H., Yang, A. J., Deng, S., Wang, D., & Song, M.* (2025). CoTEL-D3X: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction. Expert Systems with Applications, 273, 126953. https://doi.org/10.1016/j.eswa.2025.126953
-31.	杨杰, 柳美君, 步一, 赵星, 邓三鸿*. 组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角 [J]. 情报学报, 2025, 44(03): 325–38.
-32.	杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024, 43(09): 1003-14.
-33.	杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64. 
-34.	杨杰, 孔嘉, 张艺炜, 王昊, 邓三鸿*. 融合论文颠覆性与巩固性的学者二元影响力测度 [J]. 情报学报, 2023, 42(12): 1412-23.
-35.	彭兆祺, 石斌, 杨杰, 邓三鸿*. 基于XGBoost-SHAP框架的科研合作频次归因分析[J]. 情报学报, 2026, 45(03): 332-349.
-36.	郭剑明, 杨杰, 宋欣雨, 刘倩, 邓三鸿*. 基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究[J]. 情报学报, 2026.
-37.	柳美君, 杨杰, 杨斯杰, 闵超*. 中国与“一带一路”沿线国家的科技人才流动研究[J]. 科学学研究, 2025, 43(03): 488–506.
-38.	柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性[J]. 科学学研究, 2025, 43(09), 1924–1937.
-39.	杨杰, 吴琳伟, 邓三鸿*. 颠覆性技术视角下科技伦理的敏捷治理框架探讨 [J]. 中国科学基金, 2023, 37(03): 378-86.
-40.	杨杰*, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示 [J]. 图书情报工作, 2022, 66(02): 109-116.
-41.	胡乐天, 杨杰, 王凡铭, 邓三鸿*. 大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架. 图书情报知识, 2026: 1-15.
-42.	巩洪村, 邓三鸿, 杨杰, 孔嘉, 曹高辉*. 组态视角下Y世代移动数字过度使用的影响因素研究 [J]. 图书情报知识, 2024, 41(05): 128-37+49.
-43.	闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿*. 学者合作网络外部影响力与学术成就的关系研究 [J]. 图书情报工作, 2025, 69(02): 96-107.
-44.	宋欣雨, 杨杰, 郭剑明, 张逸勤, 邓三鸿*. 团队规模、知识基础与学术影响力的协同演化及其学科差异[J/OL]. 图书馆论坛, 2026: 1-13
-45.	宋欣雨, 杨杰, 彭兆祺, 王左戎, 邓三鸿*. 卓越引证指数：基于高被引论文引证效力的影响力评估方法[J/OL]. 图书馆论坛, 2026: 1-11
-46.	张逸勤, 邓三鸿*, 巩洪村, 杨杰, 刘潮. 面向 AI4Science 的科学论文图像语义描述框架体系构建研究[J]. 图书馆论坛, 2026: 1-15.
-47.	张琪, 马瑞敏, 杨杰, 王左戎, 邓三鸿*. 融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法[J]. 情报理论与实践, 2026, 49(2):126-133+81.
-48.	郭剑明, 杨杰, 方静, 邓三鸿*. 基于高阶网络结构的核心专利识别方法研究[J]. 情报理论与实践, 2026, 49(1):106-114+149.
-49.	赵志洋, 杨杰, 吴娜, 王昊, 邓三鸿*. 专利颠覆性潜力识别的双维融合框架：以新型储能技术为例[J/OL]. 情报理论与实践, 2026: 1-13
-50.	张逸勤, 杨杰, 宋欣雨, 邓三鸿*, 赵星. 代表作评价模式的定量探析——基于诺贝尔奖得主的实证 [J]. 情报理论与实践, 2025.
-51.	杨文霞, 邓三鸿*, 杨杰, 张琪, 王昊. 基于非参数检验的文献漏引行为表现特征分析[J].情报科学,2024,42(07):76-83.
-52.	邓三鸿, 杨杰, 王昊, 沈健威. 多源异构数据视角下的学术评价:内涵、进展与展望 [J]. 科技情报研究, 2023, 5(04): 42-56.
+1.	Yang, A. J.*, Freeman, R. B., & Deng, S.* (2026). Scientific team structures behind FDA-approved drugs. Nature Biotechnology, accepted.
+2.	Yang, A. J.* (2025). Text vs. citations: a comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy, 54(8), 105295. https://doi.org/10.1016/j.respol.2025.105295
+3.	Guo, J., Gao, M., Yang, Y., Hu, H., Kong, J., Yang, A. J. *, & Deng, S. * (2026). A U.S. inventor–patent linkage dataset for National Inventors Hall of Fame inductees. Scientific Data. https://doi.org/10.1038/s41597-026-08324-7
+4.	Yang, A. J., Freeman, R. B., & Deng, S. (2025). SAFE Act hinders US-China collaboration. Science, 390(6777), 991–991. https://doi.org/10.1126/science.aed7998 (Letter article)
+5.	Yang, A. J.*, Deng, S., & Freeman, R. B. (2025). China should undertake more risky research to close the Nobel gap. Nature, 647, 40. https://doi.org/10.1038/d41586-025-03615-2 (Correspondence article)
+6.	Yang, A. J., Freeman, R. B.*, & Deng, S.* (2026). A semantic atlas of journals: Structure, position, and dispersion. Journal of the Association for Information Science and Technology. https://doi.org/10.1002/asi.70067
+7.	Yang, A. J.*, Zhao, S. X. *, Deng, S. *, Liu, M., Bu, Y., & Ding, Y. (2025). Quantifying the dynamics of research teams' academic diversity. Journal of the Association for Information Science and Technology, 1-17. https://doi.org/10.1002/asi.70023
+8.	Yang, A. J.*, Yan, X., Hu, H., Hu, H., Kong, J., & Deng, S.* (2025). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology, 76(3), 563-579. https://doi.org/10.1002/asi.24947
+9.	Hu, L., Yang, A. J.*, & Deng, S.* (2027). Gender differences in early semantic trajectories and academic career persistence. Information Processing & Management, 64(2), 105142. https://doi.org/10.1016/j.ipm.2026.105142
+10.	Yang, A. J.* (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. https://doi.org/10.1016/j.ipm.2025.104171
+11.	Yang, A. J.*, Hu, H., Zhao, Y., Wang, H., & Deng, S.* (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420 (Best paper award in 2023)
+12.	Liu, M.*, Xie, Z., Yang, A. J., Yu C., Xu J., Ding Y., Bu Y. (2024). The prominent and heterogeneous gender disparities in scientific novelty: Evidence from biomedical doctoral theses. Information Processing & Management, 61(4), 103743. https://doi.org/10.1016/j.ipm.2024.103743
+13.	Yang, A. J.*, Shi Y., Wang F., Song X., & Deng, S.* (2026). Distant but bridgeable: how geographic and cognitive distance jointly shape interdisciplinary knowledge production. Journal of Informetrics, 20(3), 101840. https://doi.org/10.1016/j.joi.2026.101840
+14.	Yang, A. J.*, Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying delayed recognition of scientists. Journal of Informetrics, 19(3), 101688. https://doi.org/10.1016/j.joi.2025.101688
+15.	Yang, A. J.* (2024). On the temporal diversity of knowledge in science. Journal of Informetrics, 18(4), 101594. https://doi.org/10.1016/j.joi.2024.101594.
+16.	Yang, A. J.* (2024). Unveiling the impact and dual innovation of funded research. Journal of Informetrics, 18(1), 101480. https://doi.org/10.1016/j.joi.2023.101480 
+17.	Yang, A. J.*, Wu, L., Zhang, Q., Wang, H., & Deng, S.* (2023). The k-step h-index in citation networks at the paper, author, and institution levels. Journal of Informetrics, 17(4), 101456. https://doi.org/10.1016/j.joi.2023.101456
+18.	Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/10.1016/j.joi.2023.101411
+19.	Peng Z., Zhao M., Wang H., Yang, A. J.*, Deng, S.* (2026). Understanding Prolonged Retraction Lag Among Retracted Biomedical Papers: An Explainable Machine-Learning Analysis. Scientometrics. https://doi.org/10.1007/s11192-026-05808-6
+20.	Yang, A. J., Zhao S. X., & Deng S.* (2025). Standing on the shoulder of data: data-driven research boosts scientific innovation. Scientometrics. https://10.1007/s11192-025-05424-w
+21.	Yang, A. J., Xu, H., Ding, Y., & Liu, M.* (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics, 129(10), 6127-6148. https://doi.org/10.1007/s11192-024-04987-4
+22.	Yang, A. J.*, Gong, H., Wang, Y., Zhang, C., & Deng, S.* (2024). Rescaling the disruption index reveals the universality of disruption distributions in science. Scientometrics, 129(1), 561-580. https://doi.org/10.1007/s11192-023-04889-x
+23.	Yang, A. J., Peng, Z., Hu, H., & Deng, S. (2026). Cognitive distance in scientific teams and innovative research outcomes. Journal of Information Science. https://doi.org/10.1177/01655515261498142
+24.	Yang, A. J., Wang, F., Peng, Z., Wang, Z., & Deng, S.* (2026). The paradox of innovation: New concepts and disruptiveness in science. Journal of Information Science, 0(0), 01655515261478897. https://doi.org/10.1177/01655515261478897
+25.	Yang, A. J.* (2025). Understanding the relationship between interdisciplinary knowledge and disruption in science. Journal of Information Science. https://doi.org/10.1177/01655515251330614
+26.	Yang, A. J.*, Zhao, S. X., & Deng, S. (2024). Revisiting delayed recognition in science: a large-scale & comprehensive study. Journal of Information Science. https://doi.org/10.1177/01655515241244462
+27.	Yang, A. J.*, Guo J., Shi Y., Deng S.*, & Zhao S. X. (2025). Repeat collaboration and scientific innovation: evidence from dynamic ego networks of Nobel laureates. Humanities and Social Sciences Communications, 12(1), 1620. https://doi.org/10.1057/s41599-025-05887-5
+28.	Wang, Z., Zhao, Z., Yao, Y., Yang, A. J.*, & Deng, S.* (2026). Organizational characteristics and the social impact of UK research: disciplinary patterns from REF 2021. Research Evaluation, 35. https://doi.org/10.1093/reseval/rvag033
+29.	Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 5(4), 1070–1086. https://doi.org/10.1162/qss_a_00323
+30.	Yang, A. J., Ding, Y., & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 5(4), 861-881. https://doi.org/10.1162/qss_a_00335
+31.	Yang, A. J., Wang, F., Shi, Y., Zhang, Y., Wang, H., & Deng, S*. (2025). Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship. Journal of Data and Information Science, 20250029–20250029. https://doi.org/10.2478/jdis-2025-0029
+32.	Hu, H., Yang, A. J., Deng, S., Wang, D., & Song, M.* (2025). CoTEL-D3X: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction. Expert Systems with Applications, 273, 126953. https://doi.org/10.1016/j.eswa.2025.126953
+33.	杨杰, 柳美君, 步一, 赵星, 邓三鸿*. 组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角 [J]. 情报学报, 2025, 44(03): 325–38.
+34.	杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024, 43(09): 1003-14.
+35.	杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64. 
+36.	杨杰, 孔嘉, 张艺炜, 王昊, 邓三鸿*. 融合论文颠覆性与巩固性的学者二元影响力测度 [J]. 情报学报, 2023, 42(12): 1412-23.
+37.	彭兆祺, 石斌, 杨杰, 邓三鸿*. 基于XGBoost-SHAP框架的科研合作频次归因分析[J]. 情报学报, 2026, 45(03): 332-349.
+38.	郭剑明, 杨杰, 宋欣雨, 刘倩, 邓三鸿*. 基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究[J]. 情报学报, 2026.
+39.	柳美君, 杨杰, 杨斯杰, 闵超*. 中国与“一带一路”沿线国家的科技人才流动研究[J]. 科学学研究, 2025, 43(03): 488–506.
+40.	柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性[J]. 科学学研究, 2025, 43(09), 1924–1937.
+41.	杨杰, 吴琳伟, 邓三鸿*. 颠覆性技术视角下科技伦理的敏捷治理框架探讨 [J]. 中国科学基金, 2023, 37(03): 378-86.
+42.	杨杰*, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示 [J]. 图书情报工作, 2022, 66(02): 109-116.
+43.	王浩, 陈鑫, 彭兆祺, 杨杰, 邓三鸿*.融合引文多元关系与双维模型的学科关键知识路径分析——以信息资源管理学科为例[J/OL].图书情报工作,1-10.
+44.	闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿*. 学者合作网络外部影响力与学术成就的关系研究 [J]. 图书情报工作, 2025, 69(02): 96-107.
+45.	胡乐天, 杨杰, 王凡铭, 邓三鸿*. 大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架. 图书情报知识, 2026: 1-15.
+46.	巩洪村, 邓三鸿, 杨杰, 孔嘉, 曹高辉*. 组态视角下Y世代移动数字过度使用的影响因素研究 [J]. 图书情报知识, 2024, 41(05): 128-37+49.
+47.	宋欣雨, 杨杰, 郭剑明, 张逸勤, 邓三鸿*. 团队规模、知识基础与学术影响力的协同演化及其学科差异[J/OL]. 图书馆论坛, 2026: 1-13
+48.	宋欣雨, 杨杰, 彭兆祺, 王左戎, 邓三鸿*. 卓越引证指数：基于高被引论文引证效力的影响力评估方法[J/OL]. 图书馆论坛, 2026: 1-11
+49.	张逸勤, 邓三鸿*, 巩洪村, 杨杰, 刘潮. 面向 AI4Science 的科学论文图像语义描述框架体系构建研究[J]. 图书馆论坛, 2026: 1-15.
+50.	张琪, 马瑞敏, 杨杰, 王左戎, 邓三鸿*. 融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法[J]. 情报理论与实践, 2026, 49(2):126-133+81.
+51.	郭剑明, 杨杰, 方静, 邓三鸿*. 基于高阶网络结构的核心专利识别方法研究[J]. 情报理论与实践, 2026, 49(1):106-114+149.
+52.	赵志洋, 杨杰, 吴娜, 王昊, 邓三鸿*. 专利颠覆性潜力识别的双维融合框架：以新型储能技术为例[J/OL]. 情报理论与实践, 2026: 1-13
+53.	张逸勤, 杨杰, 宋欣雨, 邓三鸿*, 赵星. 代表作评价模式的定量探析——基于诺贝尔奖得主的实证 [J]. 情报理论与实践, 2025.
+54.	杨文霞, 邓三鸿*, 杨杰, 张琪, 王昊. 基于非参数检验的文献漏引行为表现特征分析[J].情报科学,2024,42(07):76-83.
+55.	邓三鸿, 杨杰, 王昊, 沈健威. 多源异构数据视角下的学术评价:内涵、进展与展望 [J]. 科技情报研究, 2023, 5(04): 42-56.
 
 Conference papers
 ======
-53.	Yang, A. J.*, Shi Y., Zhao S. X., Zhang Y., and Deng S. (2025) Mining Collective Intelligence and Predicting Disruptive Paradigm Shifts via Human-Aware AI. Proceedings of the Association for Information Science and Technology (ASIST).
-54.	Yang, A. J.*, Zhao S. X., Bu Y., and Deng S. (2025) Measuring Technology Diffusion Dynamics Using Patent Full-Text Data and Machine Learning. Proceedings of Joint Workshop of the 6th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, ISSI.
-55.	Yang Y., Yang, A. J., and Yin Y.*. (2025) Quantifying Ageing Effect in Scientific and Innovative Careers. The 4th International Conference on the Science of Science and Innovation (ICSSI).
-56.	Yang, A. J.*, Shi Y., Ma Y., and Deng S. (2025) Quantifying talent space of nations based on global patterns of mobility. The 4th France's International Conference on Complex Systems (FRCCS).
-57.	Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference.
-58.	Liu, M.*, Yang, A. J., Bu Y., & Ding Y. (2024) Untangling the complex pattern of international talent mobility in science. The 28th International Conference on Science, Technology and Innovation Indicators (STI).
-59.	Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI).
-60.	Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers. Proceedings of the Association for Information Science and Technology (ASIST).
-61.	Hu, H., Yang, A. J., Deng, S., Wang, D.*, Song, M., Shen, S. (2023). A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models. Proceedings of the Association for Information Science and Technology (ASIST).
+56.	Yang, A. J.*, Shi Y., Zhao S. X., Zhang Y., and Deng S. (2025) Mining Collective Intelligence and Predicting Disruptive Paradigm Shifts via Human-Aware AI. Proceedings of the Association for Information Science and Technology (ASIST).
+57.	Yang, A. J.*, Zhao S. X., Bu Y., and Deng S. (2025) Measuring Technology Diffusion Dynamics Using Patent Full-Text Data and Machine Learning. Proceedings of Joint Workshop of the 6th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, ISSI.
+58.	Yang Y., Yang, A. J., and Yin Y.*. (2025) Quantifying Ageing Effect in Scientific and Innovative Careers. The 4th International Conference on the Science of Science and Innovation (ICSSI).
+59.	Yang, A. J.*, Shi Y., Ma Y., and Deng S. (2025) Quantifying talent space of nations based on global patterns of mobility. The 4th France's International Conference on Complex Systems (FRCCS).
+60.	Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference.
+61.	Liu, M.*, Yang, A. J., Bu Y., & Ding Y. (2024) Untangling the complex pattern of international talent mobility in science. The 28th International Conference on Science, Technology and Innovation Indicators (STI).
+62.	Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI).
+63.	Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers. Proceedings of the Association for Information Science and Technology (ASIST).
+64.	Hu, H., Yang, A. J., Deng, S., Wang, D.*, Song, M., Shen, S. (2023). A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models. Proceedings of the Association for Information Science and Technology (ASIST).
 
 Activity
 ======
@@ -123,18 +126,16 @@ National Natural Science Foundation Project (71874056) (Participation)
 Honors & prizes
 ======
 
-2026 中国社会科学博士论文文库 (博士论文入选)
-
-2026 上海科学技术情报成果一等奖 (主要完成人)
-
-2025 National Scholarship for Graduate Student, Ministry of Education in China
-
-2024 National Scholarship for Graduate Student, Ministry of Education in China
-
-2023 National Scholarship for Graduate Student, Ministry of Education in China
-
-2023 IPM Ph.D. Best paper award winner, IPM & ELSEVIER
-
-2023 Honorable mention of the Eugene Garfield Doctoral Dissertation Scholarship, ISSI
-
-2023 The First "Frontier Discussion on Science and Technology Ethics" Essay Competition (Third Prize), CAST
+	2026“中国社会科学博士论文文库” (博士论文入选)
+	2026 入选全球前2%顶尖科学家年度榜单 (斯坦福&爱思唯尔)
+	2026 上海科学技术情报成果一等奖
+	2026 华东地区科学技术情报成果奖二等奖
+	2023 IPM Ph.D. Best paper award winner, IPM & ELSEVIER
+	2023 Honorable mention of the Eugene Garfield Doctoral Dissertation Scholarship, ISSI
+	2023 The First "Frontier Discussion on Science and Technology Ethics" Essay Competition (Third Prize), CAST
+	2025 National Scholarship for Graduate Student, Ministry of Education 
+	2024 National Scholarship for Graduate Student, Ministry of Education 
+	2023 National Scholarship for Graduate Student, Ministry of Education
+	2022 First-class Scholarship, ECNU
+	2021 National Inspiration Scholarship, Ministry of Education
+	2021 “Challenge Cup” (National Third Prize), Ministry of Education
