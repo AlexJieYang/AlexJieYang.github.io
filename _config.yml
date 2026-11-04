@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "cn-China"
+locale                   : "en-US"
 title                    : "Alex Jie Yang (杨杰)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://alexjieyang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Alex Jie Yang"
+description              : &description "Alex Jie Yang studies science of science, scientific innovation, research teams, and knowledge networks at Nanjing University."
+url                      : https://alexjieyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "AlexJieYang/AlexJieYang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -67,8 +67,11 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  name                   : "Alex Jie Yang"
+  links:
+    - "https://github.com/AlexJieYang"
+    - "https://www.researchgate.net/profile/Alex-Yang-36"
+    - "https://orcid.org/0000-0002-1276-0483"
 
 
 # Analytics
@@ -84,8 +87,8 @@ author:
   avatar           : "profile.png"
   bio              : ""
   location         : "Nanjing, China"
-  employer         :
-  email            :
+  employer         : "Nanjing University"
+  email            : "alexjieyang@outlook.com"
   researchgate     :  "https://www.researchgate.net/profile/Alex-Yang-36"
   uri              :
   bitbucket        :
@@ -94,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://alexjieyang.github.io/"
+  github           : "AlexJieYang"
   google_plus      :
   keybase          :
   instagram        :
@@ -253,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

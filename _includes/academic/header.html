@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Alex Jie Yang — home"><span class="brand-mark" aria-hidden="true">ay.</span><span>Alex Jie Yang <span class="brand-cn" lang="zh">杨杰</span></span></a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}"{% if page.home %} aria-current="page"{% endif %}>About</a>
+      <a href="{{ '/' | relative_url }}#research">Research</a>
+      <a href="{{ '/publications/' | relative_url }}"{% if page.url == '/publications/' %} aria-current="page"{% endif %}>Publications</a>
+      <a href="{{ '/cv/' | relative_url }}"{% if page.url == '/cv/' %} aria-current="page"{% endif %}>CV</a>
+      <a href="{{ '/' | relative_url }}#contact">Contact <span aria-hidden="true">↗</span></a>
+    </nav>
+  </div>
+</header>

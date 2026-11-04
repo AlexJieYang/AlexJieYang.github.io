@@ -1,0 +1,2 @@
+<ul class="plain-list honors-list">{% for honor in site.data.profile.honors limit:6 %}<li>{{ honor | escape }}</li>{% endfor %}</ul>
+<details class="disclosure"><summary>More honors & scholarships</summary><ul class="plain-list">{% for honor in site.data.profile.honors offset:6 %}<li>{{ honor | escape }}</li>{% endfor %}</ul></details>

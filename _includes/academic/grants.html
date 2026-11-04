@@ -1,0 +1,2 @@
+<ul class="plain-list grant-list">{% for grant in site.data.profile.grants limit:4 %}<li>{{ grant | escape }}</li>{% endfor %}</ul>
+<details class="disclosure"><summary>Additional project participation</summary><ul class="plain-list">{% for grant in site.data.profile.grants offset:4 %}<li>{{ grant | escape }}</li>{% endfor %}</ul></details>

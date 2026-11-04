@@ -1,0 +1,10 @@
+---
+layout: null
+permalink: /files/publications.txt
+---
+Alex Jie Yang (杨杰) — Publications
+{{ site.url }}/publications/
+
+{% assign papers = site.data.publications | sort: 'year' | reverse %}{% for paper in papers %}{{ paper.citation }}
+
+{% endfor %}

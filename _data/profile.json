@@ -1,0 +1,104 @@
+{
+  "name": "Alex Jie Yang",
+  "chinese_name": "杨杰",
+  "email": "alexjieyang@outlook.com",
+  "phone": "+86 180 1112 9689",
+  "orcid": "0000-0002-1276-0483",
+  "github": "https://github.com/AlexJieYang",
+  "researchgate": "https://www.researchgate.net/profile/Alex-Yang-36",
+  "institution": "Nanjing University",
+  "school": "School of Information Management",
+  "institution_url": "https://njunju.nju.edu.cn/EN/main.htm",
+  "school_url": "https://im.nju.edu.cn/imeng/main.htm",
+  "location": "Nanjing, China",
+  "intro": "I study how knowledge, people, and research teams shape scientific innovation. My research connects science of science, network science, and computational social science.",
+  "selected_publications": [
+    "pub-01",
+    "pub-02",
+    "pub-06",
+    "pub-04",
+    "pub-05",
+    "pub-11"
+  ],
+  "topics": [
+    {
+      "number": "01",
+      "title": "Scientific innovation",
+      "description": "Measuring novelty, disruption, and breakthroughs in science and technology.",
+      "query": "disruption"
+    },
+    {
+      "number": "02",
+      "title": "Teams & collaboration",
+      "description": "Understanding how team structures, diversity, and collaboration relate to innovation.",
+      "query": "team"
+    },
+    {
+      "number": "03",
+      "title": "Knowledge & networks",
+      "description": "Mapping knowledge spaces, citation networks, and the evolution of scientific ideas.",
+      "query": "knowledge"
+    }
+  ],
+  "education": [
+    {
+      "dates": "2022–present",
+      "institution": "Nanjing University",
+      "detail": "Ph.D."
+    },
+    {
+      "dates": "2025–2026",
+      "institution": "Harvard University",
+      "detail": "Visiting Scholar"
+    },
+    {
+      "dates": "2024",
+      "institution": "Cornell University",
+      "detail": "Visiting Scholar"
+    },
+    {
+      "dates": "2018–2022",
+      "institution": "East China Normal University",
+      "detail": "B.S."
+    }
+  ],
+  "service": [
+    {
+      "role": "Editor",
+      "venue": "Humanities & Social Sciences Communications"
+    },
+    {
+      "role": "Editorial board member",
+      "venue": "Information Processing & Management"
+    }
+  ],
+  "reviewing": "Nature Human Behaviour, npj Artificial Intelligence, Journal of the Association for Information Science and Technology, Information Processing & Management, Journal of Informetrics, Scientometrics, Journal of Information Science, Expert Systems With Applications, Archives of Computational Methods in Engineering, Computational and Mathematical Organization Theory, Journal of Global Entrepreneurship Research, Journal of Technology Transfer, Computers in Human Behavior Reports, etc.",
+  "grants": [
+    "2025-2027 National Science Fund Project (724B2015) (PI)",
+    "2024-2025 Open Fund for Innovative Evaluation (CSPJ2024004), Fudan University & Clarivate (PI)",
+    "2025-2026 Jiangsu Provincial Graduate Student Research and Practical Innovation Program Project (KYCX25_0133) (PI)",
+    "2021 National College Students Innovation Training Program, Ministry of Education (202110269150G) (PI)",
+    "National Social Science Fund Project (25ATQ008) (Participation)",
+    "National Social Science Fund Project (19BTQ062) (Participation)",
+    "National Social Science Fund Project (23&ZD224) (Participation)",
+    "National Social Science Fund Project (25&ZD298) (Participation)",
+    "National Social Science Fund Project (17ZDA291) (Participation)",
+    "National Natural Science Foundation Project (72374047) (Participation)",
+    "National Natural Science Foundation Project (71874056) (Participation)"
+  ],
+  "honors": [
+    "2026“中国社会科学博士论文文库” (博士论文入选)",
+    "2026 入选全球前2%顶尖科学家年度榜单 (斯坦福&爱思唯尔)",
+    "2026 上海科学技术情报成果一等奖",
+    "2026 华东地区科学技术情报成果奖二等奖",
+    "2023 IPM Ph.D. Best paper award winner, IPM & ELSEVIER",
+    "2023 Honorable mention of the Eugene Garfield Doctoral Dissertation Scholarship, ISSI",
+    "2023 The First \"Frontier Discussion on Science and Technology Ethics\" Essay Competition (Third Prize), CAST",
+    "2025 National Scholarship for Graduate Student, Ministry of Education",
+    "2024 National Scholarship for Graduate Student, Ministry of Education",
+    "2023 National Scholarship for Graduate Student, Ministry of Education",
+    "2022 First-class Scholarship, ECNU",
+    "2021 National Inspiration Scholarship, Ministry of Education",
+    "2021 “Challenge Cup” (National Third Prize), Ministry of Education"
+  ]
+}

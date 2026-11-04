@@ -1,0 +1,10 @@
+<li class="publication" id="{{ include.prefix }}{{ include.paper.id }}" data-publication data-year="{{ include.paper.year }}" data-type="{{ include.paper.type }}"{% if include.paper.language == 'Chinese' %} lang="zh"{% endif %}>
+  <div class="publication-year">{% if include.paper.year > 0 %}{{ include.paper.year }}{% else %}<abbr title="Year not specified">n.d.</abbr>{% endif %}</div>
+  <article class="publication-body" aria-labelledby="{{ include.prefix }}{{ include.paper.id }}-title">
+    <div class="publication-labels"><span>{{ include.paper.kind }}</span>{% if include.paper.status %}<span class="status-label">{{ include.paper.status }}</span>{% endif %}{% if include.paper.award %}<span class="award-label">{{ include.paper.award }}</span>{% endif %}</div>
+    <h2 id="{{ include.prefix }}{{ include.paper.id }}-title" class="publication-title">{% if include.paper.doi != '' %}<a href="https://doi.org/{{ include.paper.doi }}">{{ include.paper.title | escape }}</a>{% else %}{{ include.paper.title | escape }}{% endif %}</h2>
+    <p class="publication-authors">{{ include.paper.authors | escape }}</p>
+    <p class="publication-reference">{{ include.paper.reference | escape }}</p>
+    {% if include.paper.doi != '' %}<a class="doi-link" href="https://doi.org/{{ include.paper.doi }}" aria-label="DOI for {{ include.paper.title | escape }}">DOI <span aria-hidden="true">↗</span></a>{% endif %}
+  </article>
+</li>

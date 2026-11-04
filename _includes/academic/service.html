@@ -1,0 +1,2 @@
+<dl class="service-list">{% for item in site.data.profile.service %}<div><dt>{{ item.role | escape }}</dt><dd>{{ item.venue | escape }}</dd></div>{% endfor %}</dl>
+<details class="disclosure"><summary>Peer review & refereeing</summary><p>{{ site.data.profile.reviewing | escape }}</p></details>
