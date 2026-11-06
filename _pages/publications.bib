@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /files/publications.bib
+---
+{% assign papers = site.data.publications | sort: 'year' | reverse %}{% for paper in papers %}{{ paper.bibtex }}
+
+{% endfor %}

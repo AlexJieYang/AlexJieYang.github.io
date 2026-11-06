@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: /files/doi-audit.json
+---
+{{ site.data.doi_audit | jsonify }}

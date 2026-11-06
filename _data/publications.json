@@ -9,8 +9,12 @@
     "title": "Scientific team structures behind FDA-approved drugs",
     "reference": "Nature Biotechnology, accepted",
     "doi": "",
-    "citation": "Yang, A. J.*, Freeman, R. B., & Deng, S.* (2026). Scientific team structures behind FDA-approved drugs. Nature Biotechnology, accepted.",
-    "status": "Accepted"
+    "citation": "Yang, A. J., Freeman, R. B., & Deng, S. (2026). Scientific team structures behind FDA-approved drugs. Nature Biotechnology, accepted.",
+    "status": "Accepted",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub01_2026,\n  author = {Yang, A. J. and Freeman, R. B. and Deng, S.},\n  title = {{Scientific team structures behind FDA-approved drugs}},\n  journal = {Nature Biotechnology},\n  year = {2026},\n  note = {Accepted}\n}"
   },
   {
     "id": "pub-02",
@@ -19,10 +23,14 @@
     "kind": "Journal article",
     "language": "English",
     "authors": "Yang, A. J.*",
-    "title": "Text vs. citations: a comparative analysis of breakthrough and disruption metrics in patent innovation",
+    "title": "Text vs. citations: A comparative analysis of breakthrough and disruption metrics in patent innovation",
     "reference": "Research Policy, 54(8), 105295",
     "doi": "10.1016/j.respol.2025.105295",
-    "citation": "Yang, A. J.* (2025). Text vs. citations: a comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy, 54(8), 105295. https://doi.org/10.1016/j.respol.2025.105295"
+    "citation": "Yang, A. J. (2025). Text vs. citations: A comparative analysis of breakthrough and disruption metrics in patent innovation. Research Policy, 54(8), 105295. https://doi.org/10.1016/j.respol.2025.105295",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub02_2025,\n  author = {Yang, Alex J.},\n  title = {{Text vs. citations: A comparative analysis of breakthrough and disruption metrics in patent innovation}},\n  journal = {Research Policy},\n  year = {2025},\n  volume = {54},\n  number = {8},\n  pages = {105295},\n  doi = {10.1016/j.respol.2025.105295},\n  url = {https://doi.org/10.1016/j.respol.2025.105295}\n}"
   },
   {
     "id": "pub-03",
@@ -32,9 +40,13 @@
     "language": "English",
     "authors": "Guo, J., Gao, M., Yang, Y., Hu, H., Kong, J., Yang, A. J. *, & Deng, S. *",
     "title": "A U.S. inventor–patent linkage dataset for National Inventors Hall of Fame inductees",
-    "reference": "Scientific Data",
+    "reference": "Scientific Data. Advance online publication",
     "doi": "10.1038/s41597-026-08324-7",
-    "citation": "Guo, J., Gao, M., Yang, Y., Hu, H., Kong, J., Yang, A. J. *, & Deng, S. * (2026). A U.S. inventor–patent linkage dataset for National Inventors Hall of Fame inductees. Scientific Data. https://doi.org/10.1038/s41597-026-08324-7"
+    "citation": "Guo, J., Gao, M., Yang, Y., Hu, H., Kong, J., Yang, A. J., & Deng, S. (2026). A U.S. inventor–patent linkage dataset for National Inventors Hall of Fame inductees. Scientific Data. Advance online publication. https://doi.org/10.1038/s41597-026-08324-7",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub03_2026,\n  author = {Guo, Jianming and Gao, Mengting and Yang, Yue and Hu, Haotian and Kong, Jia and Yang, Alex Jie and Deng, Sanhong},\n  title = {{A U.S. inventor–patent linkage dataset for National Inventors Hall of Fame inductees}},\n  journal = {Scientific Data},\n  year = {2026},\n  doi = {10.1038/s41597-026-08324-7},\n  url = {https://doi.org/10.1038/s41597-026-08324-7},\n  note = {Advance online publication}\n}"
   },
   {
     "id": "pub-04",
@@ -44,10 +56,14 @@
     "language": "English",
     "authors": "Yang, A. J., Freeman, R. B., & Deng, S",
     "title": "SAFE Act hinders US-China collaboration",
-    "reference": "Science, 390(6777), 991–991",
+    "reference": "Science, 390(6777), 991",
     "doi": "10.1126/science.aed7998",
-    "citation": "Yang, A. J., Freeman, R. B., & Deng, S. (2025). SAFE Act hinders US-China collaboration. Science, 390(6777), 991–991. https://doi.org/10.1126/science.aed7998 (Letter article)",
-    "note": "Letter article"
+    "citation": "Yang, A. J., Freeman, R. B., & Deng, S. (2025). SAFE Act hinders US-China collaboration. Science, 390(6777), 991. https://doi.org/10.1126/science.aed7998",
+    "note": "Letter article",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub04_2025,\n  author = {Yang, Alex J. and Freeman, Richard B. and Deng, Sanhong},\n  title = {{SAFE Act hinders US-China collaboration}},\n  journal = {Science},\n  year = {2025},\n  volume = {390},\n  number = {6777},\n  pages = {991},\n  doi = {10.1126/science.aed7998},\n  url = {https://doi.org/10.1126/science.aed7998}\n}"
   },
   {
     "id": "pub-05",
@@ -57,10 +73,14 @@
     "language": "English",
     "authors": "Yang, A. J.*, Deng, S., & Freeman, R. B",
     "title": "China should undertake more risky research to close the Nobel gap",
-    "reference": "Nature, 647, 40",
+    "reference": "Nature, 647(8088), 40",
     "doi": "10.1038/d41586-025-03615-2",
-    "citation": "Yang, A. J.*, Deng, S., & Freeman, R. B. (2025). China should undertake more risky research to close the Nobel gap. Nature, 647, 40. https://doi.org/10.1038/d41586-025-03615-2 (Correspondence article)",
-    "note": "Correspondence article"
+    "citation": "Yang, A. J., Deng, S., & Freeman, R. B. (2025). China should undertake more risky research to close the Nobel gap. Nature, 647(8088), 40. https://doi.org/10.1038/d41586-025-03615-2",
+    "note": "Correspondence article",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub05_2025,\n  author = {Yang, Alex J. and Deng, Sanhong and Freeman, Richard B.},\n  title = {{China should undertake more risky research to close the Nobel gap}},\n  journal = {Nature},\n  year = {2025},\n  volume = {647},\n  number = {8088},\n  pages = {40},\n  doi = {10.1038/d41586-025-03615-2},\n  url = {https://doi.org/10.1038/d41586-025-03615-2}\n}"
   },
   {
     "id": "pub-06",
@@ -70,9 +90,13 @@
     "language": "English",
     "authors": "Yang, A. J., Freeman, R. B.*, & Deng, S.*",
     "title": "A semantic atlas of journals: Structure, position, and dispersion",
-    "reference": "Journal of the Association for Information Science and Technology",
+    "reference": "Journal of the Association for Information Science and Technology, 77(6), 831–847",
     "doi": "10.1002/asi.70067",
-    "citation": "Yang, A. J., Freeman, R. B.*, & Deng, S.* (2026). A semantic atlas of journals: Structure, position, and dispersion. Journal of the Association for Information Science and Technology. https://doi.org/10.1002/asi.70067"
+    "citation": "Yang, A. J., Freeman, R. B., & Deng, S. (2026). A semantic atlas of journals: Structure, position, and dispersion. Journal of the Association for Information Science and Technology, 77(6), 831–847. https://doi.org/10.1002/asi.70067",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub06_2026,\n  author = {Yang, Alex J. and Freeman, Richard B. and Deng, Sanhong},\n  title = {{A semantic atlas of journals: Structure, position, and dispersion}},\n  journal = {Journal of the Association for Information Science and Technology},\n  year = {2026},\n  volume = {77},\n  number = {6},\n  pages = {831--847},\n  doi = {10.1002/asi.70067},\n  url = {https://doi.org/10.1002/asi.70067}\n}"
   },
   {
     "id": "pub-07",
@@ -82,9 +106,13 @@
     "language": "English",
     "authors": "Yang, A. J.*, Zhao, S. X. *, Deng, S. *, Liu, M., Bu, Y., & Ding, Y",
     "title": "Quantifying the dynamics of research teams' academic diversity",
-    "reference": "Journal of the Association for Information Science and Technology, 1-17",
+    "reference": "Journal of the Association for Information Science and Technology, 76(12), 1719–1735",
     "doi": "10.1002/asi.70023",
-    "citation": "Yang, A. J.*, Zhao, S. X. *, Deng, S. *, Liu, M., Bu, Y., & Ding, Y. (2025). Quantifying the dynamics of research teams' academic diversity. Journal of the Association for Information Science and Technology, 1-17. https://doi.org/10.1002/asi.70023"
+    "citation": "Yang, A. J., Zhao, S. X., Deng, S., Liu, M., Bu, Y., & Ding, Y. (2025). Quantifying the dynamics of research teams' academic diversity. Journal of the Association for Information Science and Technology, 76(12), 1719–1735. https://doi.org/10.1002/asi.70023",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub07_2025,\n  author = {Yang, Alex J. and Zhao, Star X. and Deng, Sanhong and Liu, Meijun and Bu, Yi and Ding, Ying},\n  title = {{Quantifying the dynamics of research teams' academic diversity}},\n  journal = {Journal of the Association for Information Science and Technology},\n  year = {2025},\n  volume = {76},\n  number = {12},\n  pages = {1719--1735},\n  doi = {10.1002/asi.70023},\n  url = {https://doi.org/10.1002/asi.70023}\n}"
   },
   {
     "id": "pub-08",
@@ -94,9 +122,13 @@
     "language": "English",
     "authors": "Yang, A. J.*, Yan, X., Hu, H., Hu, H., Kong, J., & Deng, S.*",
     "title": "Are disruptive papers more likely to impact technology and society?",
-    "reference": "Journal of the Association for Information Science and Technology, 76(3), 563-579",
+    "reference": "Journal of the Association for Information Science and Technology, 76(3), 563–579",
     "doi": "10.1002/asi.24947",
-    "citation": "Yang, A. J.*, Yan, X., Hu, H., Hu, H., Kong, J., & Deng, S.* (2025). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology, 76(3), 563-579. https://doi.org/10.1002/asi.24947"
+    "citation": "Yang, A. J., Yan, X., Hu, H., Hu, H., Kong, J., & Deng, S. (2025). Are disruptive papers more likely to impact technology and society? Journal of the Association for Information Science and Technology, 76(3), 563–579. https://doi.org/10.1002/asi.24947",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub08_2025,\n  author = {Yang, Alex J. and Yan, Xiaohui and Hu, Haotian and Hu, Hanlin and Kong, Jia and Deng, Sanhong},\n  title = {{Are disruptive papers more likely to impact technology and society?}},\n  journal = {Journal of the Association for Information Science and Technology},\n  year = {2025},\n  volume = {76},\n  number = {3},\n  pages = {563--579},\n  doi = {10.1002/asi.24947},\n  url = {https://doi.org/10.1002/asi.24947}\n}"
   },
   {
     "id": "pub-09",
@@ -108,7 +140,11 @@
     "title": "Gender differences in early semantic trajectories and academic career persistence",
     "reference": "Information Processing & Management, 64(2), 105142",
     "doi": "10.1016/j.ipm.2026.105142",
-    "citation": "Hu, L., Yang, A. J.*, & Deng, S.* (2027). Gender differences in early semantic trajectories and academic career persistence. Information Processing & Management, 64(2), 105142. https://doi.org/10.1016/j.ipm.2026.105142"
+    "citation": "Hu, L., Yang, A. J., & Deng, S. (2027). Gender differences in early semantic trajectories and academic career persistence. Information Processing & Management, 64(2), 105142. https://doi.org/10.1016/j.ipm.2026.105142",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub09_2027,\n  author = {Hu, Letian and Yang, Alex J. and Deng, Sanhong},\n  title = {{Gender differences in early semantic trajectories and academic career persistence}},\n  journal = {Information Processing \\& Management},\n  year = {2027},\n  volume = {64},\n  number = {2},\n  pages = {105142},\n  doi = {10.1016/j.ipm.2026.105142},\n  url = {https://doi.org/10.1016/j.ipm.2026.105142}\n}"
   },
   {
     "id": "pub-10",
@@ -120,7 +156,11 @@
     "title": "Unraveling topic switching and innovation in science",
     "reference": "Information Processing & Management, 62(4), 104171",
     "doi": "10.1016/j.ipm.2025.104171",
-    "citation": "Yang, A. J.* (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. https://doi.org/10.1016/j.ipm.2025.104171"
+    "citation": "Yang, A. J. (2025). Unraveling topic switching and innovation in science. Information Processing & Management, 62(4), 104171. https://doi.org/10.1016/j.ipm.2025.104171",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub10_2025,\n  author = {Yang, Alex J.},\n  title = {{Unraveling topic switching and innovation in science}},\n  journal = {Information Processing \\& Management},\n  year = {2025},\n  volume = {62},\n  number = {4},\n  pages = {104171},\n  doi = {10.1016/j.ipm.2025.104171},\n  url = {https://doi.org/10.1016/j.ipm.2025.104171}\n}"
   },
   {
     "id": "pub-11",
@@ -132,8 +172,12 @@
     "title": "From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates",
     "reference": "Information Processing & Management, 60(5), 103420",
     "doi": "10.1016/j.ipm.2023.103420",
-    "citation": "Yang, A. J.*, Hu, H., Zhao, Y., Wang, H., & Deng, S.* (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420 (Best paper award in 2023)",
-    "award": "IPM Ph.D. Best Paper Award 2023"
+    "citation": "Yang, A. J., Hu, H., Zhao, Y., Wang, H., & Deng, S. (2023). From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates. Information Processing & Management, 60(5), 103420. https://doi.org/10.1016/j.ipm.2023.103420",
+    "award": "IPM Ph.D. Best Paper Award 2023",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub11_2023,\n  author = {Yang, Alex J. and Hu, Haotian and Zhao, Yuehua and Wang, Hao and Deng, Sanhong},\n  title = {{From consolidation to disruption: A novel way to measure the impact of scientists and identify laureates}},\n  journal = {Information Processing \\& Management},\n  year = {2023},\n  volume = {60},\n  number = {5},\n  pages = {103420},\n  doi = {10.1016/j.ipm.2023.103420},\n  url = {https://doi.org/10.1016/j.ipm.2023.103420}\n}"
   },
   {
     "id": "pub-12",
@@ -145,7 +189,11 @@
     "title": "The prominent and heterogeneous gender disparities in scientific novelty: Evidence from biomedical doctoral theses",
     "reference": "Information Processing & Management, 61(4), 103743",
     "doi": "10.1016/j.ipm.2024.103743",
-    "citation": "Liu, M.*, Xie, Z., Yang, A. J., Yu C., Xu J., Ding Y., Bu Y. (2024). The prominent and heterogeneous gender disparities in scientific novelty: Evidence from biomedical doctoral theses. Information Processing & Management, 61(4), 103743. https://doi.org/10.1016/j.ipm.2024.103743"
+    "citation": "Liu, M., Xie, Z., Yang, A. J., Yu, C., Xu, J., Ding, Y., & Bu, Y. (2024). The prominent and heterogeneous gender disparities in scientific novelty: Evidence from biomedical doctoral theses. Information Processing & Management, 61(4), 103743. https://doi.org/10.1016/j.ipm.2024.103743",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub12_2024,\n  author = {Liu, Meijun and Xie, Zihan and Yang, Alex Jie and Yu, Chao and Xu, Jian and Ding, Ying and Bu, Yi},\n  title = {{The prominent and heterogeneous gender disparities in scientific novelty: Evidence from biomedical doctoral theses}},\n  journal = {Information Processing \\& Management},\n  year = {2024},\n  volume = {61},\n  number = {4},\n  pages = {103743},\n  doi = {10.1016/j.ipm.2024.103743},\n  url = {https://doi.org/10.1016/j.ipm.2024.103743}\n}"
   },
   {
     "id": "pub-13",
@@ -157,7 +205,11 @@
     "title": "Distant but bridgeable: how geographic and cognitive distance jointly shape interdisciplinary knowledge production",
     "reference": "Journal of Informetrics, 20(3), 101840",
     "doi": "10.1016/j.joi.2026.101840",
-    "citation": "Yang, A. J.*, Shi Y., Wang F., Song X., & Deng, S.* (2026). Distant but bridgeable: how geographic and cognitive distance jointly shape interdisciplinary knowledge production. Journal of Informetrics, 20(3), 101840. https://doi.org/10.1016/j.joi.2026.101840"
+    "citation": "Yang, A. J., Shi, Y., Wang, F., Song, X., & Deng, S. (2026). Distant but bridgeable: how geographic and cognitive distance jointly shape interdisciplinary knowledge production. Journal of Informetrics, 20(3), 101840. https://doi.org/10.1016/j.joi.2026.101840",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub13_2026,\n  author = {Yang, Alex J. and Shi, Yujie and Wang, Fanming and Song, Xinyu and Deng, Sanhong},\n  title = {{Distant but bridgeable: how geographic and cognitive distance jointly shape interdisciplinary knowledge production}},\n  journal = {Journal of Informetrics},\n  year = {2026},\n  volume = {20},\n  number = {3},\n  pages = {101840},\n  doi = {10.1016/j.joi.2026.101840},\n  url = {https://doi.org/10.1016/j.joi.2026.101840}\n}"
   },
   {
     "id": "pub-14",
@@ -169,7 +221,11 @@
     "title": "Quantifying delayed recognition of scientists",
     "reference": "Journal of Informetrics, 19(3), 101688",
     "doi": "10.1016/j.joi.2025.101688",
-    "citation": "Yang, A. J.*, Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying delayed recognition of scientists. Journal of Informetrics, 19(3), 101688. https://doi.org/10.1016/j.joi.2025.101688"
+    "citation": "Yang, A. J., Zhang, Y., Wang, Z., Wang, H., & Deng, S. (2025). Quantifying delayed recognition of scientists. Journal of Informetrics, 19(3), 101688. https://doi.org/10.1016/j.joi.2025.101688",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub14_2025,\n  author = {Yang, Alex J. and Zhang, Yiqin and Wang, Zuorong and Wang, Hao and Deng, Sanhong},\n  title = {{Quantifying delayed recognition of scientists}},\n  journal = {Journal of Informetrics},\n  year = {2025},\n  volume = {19},\n  number = {3},\n  pages = {101688},\n  doi = {10.1016/j.joi.2025.101688},\n  url = {https://doi.org/10.1016/j.joi.2025.101688}\n}"
   },
   {
     "id": "pub-15",
@@ -181,7 +237,11 @@
     "title": "On the temporal diversity of knowledge in science",
     "reference": "Journal of Informetrics, 18(4), 101594",
     "doi": "10.1016/j.joi.2024.101594",
-    "citation": "Yang, A. J.* (2024). On the temporal diversity of knowledge in science. Journal of Informetrics, 18(4), 101594. https://doi.org/10.1016/j.joi.2024.101594."
+    "citation": "Yang, A. J. (2024). On the temporal diversity of knowledge in science. Journal of Informetrics, 18(4), 101594. https://doi.org/10.1016/j.joi.2024.101594",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub15_2024,\n  author = {Yang, Alex J.},\n  title = {{On the temporal diversity of knowledge in science}},\n  journal = {Journal of Informetrics},\n  year = {2024},\n  volume = {18},\n  number = {4},\n  pages = {101594},\n  doi = {10.1016/j.joi.2024.101594},\n  url = {https://doi.org/10.1016/j.joi.2024.101594}\n}"
   },
   {
     "id": "pub-16",
@@ -193,7 +253,11 @@
     "title": "Unveiling the impact and dual innovation of funded research",
     "reference": "Journal of Informetrics, 18(1), 101480",
     "doi": "10.1016/j.joi.2023.101480",
-    "citation": "Yang, A. J.* (2024). Unveiling the impact and dual innovation of funded research. Journal of Informetrics, 18(1), 101480. https://doi.org/10.1016/j.joi.2023.101480"
+    "citation": "Yang, A. J. (2024). Unveiling the impact and dual innovation of funded research. Journal of Informetrics, 18(1), 101480. https://doi.org/10.1016/j.joi.2023.101480",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub16_2024,\n  author = {Yang, Alex J.},\n  title = {{Unveiling the impact and dual innovation of funded research}},\n  journal = {Journal of Informetrics},\n  year = {2024},\n  volume = {18},\n  number = {1},\n  pages = {101480},\n  doi = {10.1016/j.joi.2023.101480},\n  url = {https://doi.org/10.1016/j.joi.2023.101480}\n}"
   },
   {
     "id": "pub-17",
@@ -205,7 +269,11 @@
     "title": "The k-step h-index in citation networks at the paper, author, and institution levels",
     "reference": "Journal of Informetrics, 17(4), 101456",
     "doi": "10.1016/j.joi.2023.101456",
-    "citation": "Yang, A. J.*, Wu, L., Zhang, Q., Wang, H., & Deng, S.* (2023). The k-step h-index in citation networks at the paper, author, and institution levels. Journal of Informetrics, 17(4), 101456. https://doi.org/10.1016/j.joi.2023.101456"
+    "citation": "Yang, A. J., Wu, L., Zhang, Q., Wang, H., & Deng, S. (2023). The k-step h-index in citation networks at the paper, author, and institution levels. Journal of Informetrics, 17(4), 101456. https://doi.org/10.1016/j.joi.2023.101456",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub17_2023,\n  author = {Yang, Alex Jie and Wu, Linwei and Zhang, Qi and Wang, Hao and Deng, Sanhong},\n  title = {{The k-step h-index in citation networks at the paper, author, and institution levels}},\n  journal = {Journal of Informetrics},\n  year = {2023},\n  volume = {17},\n  number = {4},\n  pages = {101456},\n  doi = {10.1016/j.joi.2023.101456},\n  url = {https://doi.org/10.1016/j.joi.2023.101456}\n}"
   },
   {
     "id": "pub-18",
@@ -217,7 +285,11 @@
     "title": "Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks",
     "reference": "Journal of Informetrics, 17(3), 101411",
     "doi": "10.1016/j.joi.2023.101411",
-    "citation": "Yang, A. J., Deng, S.*, Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/10.1016/j.joi.2023.101411"
+    "citation": "Yang, A. J., Deng, S., Wang, H., Zhang, Y., & Yang, W. (2023). Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks. Journal of Informetrics, 17(3), 101411. https://doi.org/10.1016/j.joi.2023.101411",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub18_2023,\n  author = {Yang, Alex J. and Deng, Sanhong and Wang, Hao and Zhang, Yiqin and Yang, Wenxia},\n  title = {{Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks}},\n  journal = {Journal of Informetrics},\n  year = {2023},\n  volume = {17},\n  number = {3},\n  pages = {101411},\n  doi = {10.1016/j.joi.2023.101411},\n  url = {https://doi.org/10.1016/j.joi.2023.101411}\n}"
   },
   {
     "id": "pub-19",
@@ -226,10 +298,14 @@
     "kind": "Journal article",
     "language": "English",
     "authors": "Peng Z., Zhao M., Wang H., Yang, A. J.*, Deng, S.*",
-    "title": "Understanding Prolonged Retraction Lag Among Retracted Biomedical Papers: An Explainable Machine-Learning Analysis",
-    "reference": "Scientometrics",
+    "title": "Understanding prolonged retraction lag among retracted biomedical papers: an explainable machine-learning analysis",
+    "reference": "Scientometrics, 131(10), 7661–7693",
     "doi": "10.1007/s11192-026-05808-6",
-    "citation": "Peng Z., Zhao M., Wang H., Yang, A. J.*, Deng, S.* (2026). Understanding Prolonged Retraction Lag Among Retracted Biomedical Papers: An Explainable Machine-Learning Analysis. Scientometrics. https://doi.org/10.1007/s11192-026-05808-6"
+    "citation": "Peng, Z., Zhao, M., Wang, H., Yang, A. J., & Deng, S. (2026). Understanding prolonged retraction lag among retracted biomedical papers: an explainable machine-learning analysis. Scientometrics, 131(10), 7661–7693. https://doi.org/10.1007/s11192-026-05808-6",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub19_2026,\n  author = {Peng, Zhaoqi and Zhao, Mengfan and Wang, Hao and Yang, Alex Jie and Deng, Sanhong},\n  title = {{Understanding prolonged retraction lag among retracted biomedical papers: an explainable machine-learning analysis}},\n  journal = {Scientometrics},\n  year = {2026},\n  volume = {131},\n  number = {10},\n  pages = {7661--7693},\n  doi = {10.1007/s11192-026-05808-6},\n  url = {https://doi.org/10.1007/s11192-026-05808-6}\n}"
   },
   {
     "id": "pub-20",
@@ -239,9 +315,13 @@
     "language": "English",
     "authors": "Yang, A. J., Zhao S. X., & Deng S.*",
     "title": "Standing on the shoulder of data: data-driven research boosts scientific innovation",
-    "reference": "Scientometrics",
+    "reference": "Scientometrics, 130(10), 5613–5640",
     "doi": "10.1007/s11192-025-05424-w",
-    "citation": "Yang, A. J., Zhao S. X., & Deng S.* (2025). Standing on the shoulder of data: data-driven research boosts scientific innovation. Scientometrics. https://doi.org/10.1007/s11192-025-05424-w"
+    "citation": "Yang, A. J., Zhao, S. X., & Deng, S. (2025). Standing on the shoulder of data: data-driven research boosts scientific innovation. Scientometrics, 130(10), 5613–5640. https://doi.org/10.1007/s11192-025-05424-w",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub20_2025,\n  author = {Yang, Alex J. and Zhao, Star X. and Deng, Sanhong},\n  title = {{Standing on the shoulder of data: data-driven research boosts scientific innovation}},\n  journal = {Scientometrics},\n  year = {2025},\n  volume = {130},\n  number = {10},\n  pages = {5613--5640},\n  doi = {10.1007/s11192-025-05424-w},\n  url = {https://doi.org/10.1007/s11192-025-05424-w}\n}"
   },
   {
     "id": "pub-21",
@@ -251,9 +331,13 @@
     "language": "English",
     "authors": "Yang, A. J., Xu, H., Ding, Y., & Liu, M.*",
     "title": "Unveiling the dynamics of team age structure and its impact on scientific innovation",
-    "reference": "Scientometrics, 129(10), 6127-6148",
+    "reference": "Scientometrics, 129(10), 6127–6148",
     "doi": "10.1007/s11192-024-04987-4",
-    "citation": "Yang, A. J., Xu, H., Ding, Y., & Liu, M.* (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics, 129(10), 6127-6148. https://doi.org/10.1007/s11192-024-04987-4"
+    "citation": "Yang, A. J., Xu, H., Ding, Y., & Liu, M. (2024). Unveiling the dynamics of team age structure and its impact on scientific innovation. Scientometrics, 129(10), 6127–6148. https://doi.org/10.1007/s11192-024-04987-4",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub21_2024,\n  author = {Yang, Alex J. and Xu, Huimin and Ding, Ying and Liu, Meijun},\n  title = {{Unveiling the dynamics of team age structure and its impact on scientific innovation}},\n  journal = {Scientometrics},\n  year = {2024},\n  volume = {129},\n  number = {10},\n  pages = {6127--6148},\n  doi = {10.1007/s11192-024-04987-4},\n  url = {https://doi.org/10.1007/s11192-024-04987-4}\n}"
   },
   {
     "id": "pub-22",
@@ -263,9 +347,13 @@
     "language": "English",
     "authors": "Yang, A. J.*, Gong, H., Wang, Y., Zhang, C., & Deng, S.*",
     "title": "Rescaling the disruption index reveals the universality of disruption distributions in science",
-    "reference": "Scientometrics, 129(1), 561-580",
+    "reference": "Scientometrics, 129(1), 561–580",
     "doi": "10.1007/s11192-023-04889-x",
-    "citation": "Yang, A. J.*, Gong, H., Wang, Y., Zhang, C., & Deng, S.* (2024). Rescaling the disruption index reveals the universality of disruption distributions in science. Scientometrics, 129(1), 561-580. https://doi.org/10.1007/s11192-023-04889-x"
+    "citation": "Yang, A. J., Gong, H., Wang, Y., Zhang, C., & Deng, S. (2024). Rescaling the disruption index reveals the universality of disruption distributions in science. Scientometrics, 129(1), 561–580. https://doi.org/10.1007/s11192-023-04889-x",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub22_2024,\n  author = {Yang, Alex J. and Gong, Hongcun and Wang, Yuhao and Zhang, Chao and Deng, Sanhong},\n  title = {{Rescaling the disruption index reveals the universality of disruption distributions in science}},\n  journal = {Scientometrics},\n  year = {2024},\n  volume = {129},\n  number = {1},\n  pages = {561--580},\n  doi = {10.1007/s11192-023-04889-x},\n  url = {https://doi.org/10.1007/s11192-023-04889-x}\n}"
   },
   {
     "id": "pub-23",
@@ -275,9 +363,13 @@
     "language": "English",
     "authors": "Yang, A. J., Peng, Z., Hu, H., & Deng, S",
     "title": "Cognitive distance in scientific teams and innovative research outcomes",
-    "reference": "Journal of Information Science",
+    "reference": "Journal of Information Science. Advance online publication",
     "doi": "10.1177/01655515261498142",
-    "citation": "Yang, A. J., Peng, Z., Hu, H., & Deng, S. (2026). Cognitive distance in scientific teams and innovative research outcomes. Journal of Information Science. https://doi.org/10.1177/01655515261498142"
+    "citation": "Yang, A. J., Peng, Z., Hu, H., & Deng, S. (2026). Cognitive distance in scientific teams and innovative research outcomes. Journal of Information Science. Advance online publication. https://doi.org/10.1177/01655515261498142",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub23_2026,\n  author = {Yang, Alex J. and Peng, Zhaoqi and Hu, Haotian and Deng, Sanhong},\n  title = {{Cognitive distance in scientific teams and innovative research outcomes}},\n  journal = {Journal of Information Science},\n  year = {2026},\n  doi = {10.1177/01655515261498142},\n  url = {https://doi.org/10.1177/01655515261498142},\n  note = {Advance online publication}\n}"
   },
   {
     "id": "pub-24",
@@ -287,9 +379,13 @@
     "language": "English",
     "authors": "Yang, A. J., Wang, F., Peng, Z., Wang, Z., & Deng, S.*",
     "title": "The paradox of innovation: New concepts and disruptiveness in science",
-    "reference": "Journal of Information Science, 0(0), 01655515261478897",
+    "reference": "Journal of Information Science. Advance online publication",
     "doi": "10.1177/01655515261478897",
-    "citation": "Yang, A. J., Wang, F., Peng, Z., Wang, Z., & Deng, S.* (2026). The paradox of innovation: New concepts and disruptiveness in science. Journal of Information Science, 0(0), 01655515261478897. https://doi.org/10.1177/01655515261478897"
+    "citation": "Yang, A. J., Wang, F., Peng, Z., Wang, Z., & Deng, S. (2026). The paradox of innovation: New concepts and disruptiveness in science. Journal of Information Science. Advance online publication. https://doi.org/10.1177/01655515261478897",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub24_2026,\n  author = {Yang, Alex J. and Wang, Fanming and Peng, Zhaoqi and Wang, Zuorong and Deng, Sanhong},\n  title = {{The paradox of innovation: New concepts and disruptiveness in science}},\n  journal = {Journal of Information Science},\n  year = {2026},\n  doi = {10.1177/01655515261478897},\n  url = {https://doi.org/10.1177/01655515261478897},\n  note = {Advance online publication}\n}"
   },
   {
     "id": "pub-25",
@@ -299,9 +395,13 @@
     "language": "English",
     "authors": "Yang, A. J.*",
     "title": "Understanding the relationship between interdisciplinary knowledge and disruption in science",
-    "reference": "Journal of Information Science",
+    "reference": "Journal of Information Science. Advance online publication",
     "doi": "10.1177/01655515251330614",
-    "citation": "Yang, A. J.* (2025). Understanding the relationship between interdisciplinary knowledge and disruption in science. Journal of Information Science. https://doi.org/10.1177/01655515251330614"
+    "citation": "Yang, A. J. (2025). Understanding the relationship between interdisciplinary knowledge and disruption in science. Journal of Information Science. Advance online publication. https://doi.org/10.1177/01655515251330614",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub25_2025,\n  author = {Yang, Alex J},\n  title = {{Understanding the relationship between interdisciplinary knowledge and disruption in science}},\n  journal = {Journal of Information Science},\n  year = {2025},\n  doi = {10.1177/01655515251330614},\n  url = {https://doi.org/10.1177/01655515251330614},\n  note = {Advance online publication}\n}"
   },
   {
     "id": "pub-26",
@@ -310,10 +410,14 @@
     "kind": "Journal article",
     "language": "English",
     "authors": "Yang, A. J.*, Zhao, S. X., & Deng, S",
-    "title": "Revisiting delayed recognition in science: a large-scale & comprehensive study",
-    "reference": "Journal of Information Science",
+    "title": "Revisiting delayed recognition in science: A large-scale and comprehensive study",
+    "reference": "Journal of Information Science. Advance online publication",
     "doi": "10.1177/01655515241244462",
-    "citation": "Yang, A. J.*, Zhao, S. X., & Deng, S. (2024). Revisiting delayed recognition in science: a large-scale & comprehensive study. Journal of Information Science. https://doi.org/10.1177/01655515241244462"
+    "citation": "Yang, A. J., Zhao, S. X., & Deng, S. (2024). Revisiting delayed recognition in science: A large-scale and comprehensive study. Journal of Information Science. Advance online publication. https://doi.org/10.1177/01655515241244462",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub26_2024,\n  author = {Yang, Alex J and Zhao, Star X and Deng, Sanhong},\n  title = {{Revisiting delayed recognition in science: A large-scale and comprehensive study}},\n  journal = {Journal of Information Science},\n  year = {2024},\n  doi = {10.1177/01655515241244462},\n  url = {https://doi.org/10.1177/01655515241244462},\n  note = {Advance online publication}\n}"
   },
   {
     "id": "pub-27",
@@ -325,7 +429,11 @@
     "title": "Repeat collaboration and scientific innovation: evidence from dynamic ego networks of Nobel laureates",
     "reference": "Humanities and Social Sciences Communications, 12(1), 1620",
     "doi": "10.1057/s41599-025-05887-5",
-    "citation": "Yang, A. J.*, Guo J., Shi Y., Deng S.*, & Zhao S. X. (2025). Repeat collaboration and scientific innovation: evidence from dynamic ego networks of Nobel laureates. Humanities and Social Sciences Communications, 12(1), 1620. https://doi.org/10.1057/s41599-025-05887-5"
+    "citation": "Yang, A. J., Guo, J., Shi, Y., Deng, S., & Zhao, S. X. (2025). Repeat collaboration and scientific innovation: evidence from dynamic ego networks of Nobel laureates. Humanities and Social Sciences Communications, 12(1), 1620. https://doi.org/10.1057/s41599-025-05887-5",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub27_2025,\n  author = {Yang, Alex Jie and Guo, Jianming and Shi, Yujie and Deng, Sanhong and Zhao, Star X.},\n  title = {{Repeat collaboration and scientific innovation: evidence from dynamic ego networks of Nobel laureates}},\n  journal = {Humanities and Social Sciences Communications},\n  year = {2025},\n  volume = {12},\n  number = {1},\n  pages = {1620},\n  doi = {10.1057/s41599-025-05887-5},\n  url = {https://doi.org/10.1057/s41599-025-05887-5}\n}"
   },
   {
     "id": "pub-28",
@@ -335,9 +443,13 @@
     "language": "English",
     "authors": "Wang, Z., Zhao, Z., Yao, Y., Yang, A. J.*, & Deng, S.*",
     "title": "Organizational characteristics and the social impact of UK research: disciplinary patterns from REF 2021",
-    "reference": "Research Evaluation, 35",
+    "reference": "Research Evaluation, 35, rvag033",
     "doi": "10.1093/reseval/rvag033",
-    "citation": "Wang, Z., Zhao, Z., Yao, Y., Yang, A. J.*, & Deng, S.* (2026). Organizational characteristics and the social impact of UK research: disciplinary patterns from REF 2021. Research Evaluation, 35. https://doi.org/10.1093/reseval/rvag033"
+    "citation": "Wang, Z., Zhao, Z., Yao, Y., Yang, A. J., & Deng, S. (2026). Organizational characteristics and the social impact of UK research: disciplinary patterns from REF 2021. Research Evaluation, 35, rvag033. https://doi.org/10.1093/reseval/rvag033",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub28_2026,\n  author = {Wang, Zuorong and Zhao, Zhiyang and Yao, Yuxi and Yang, Alex Jie and Deng, Sanhong},\n  title = {{Organizational characteristics and the social impact of UK research: disciplinary patterns from REF 2021}},\n  journal = {Research Evaluation},\n  year = {2026},\n  volume = {35},\n  pages = {rvag033},\n  doi = {10.1093/reseval/rvag033},\n  url = {https://doi.org/10.1093/reseval/rvag033}\n}"
   },
   {
     "id": "pub-29",
@@ -349,7 +461,11 @@
     "title": "Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs",
     "reference": "Quantitative Science Studies, 5(4), 1070–1086",
     "doi": "10.1162/qss_a_00323",
-    "citation": "Yang, A. J.*, Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 5(4), 1070–1086. https://doi.org/10.1162/qss_a_00323"
+    "citation": "Yang, A. J., & Deng, S. (2024). Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs. Quantitative Science Studies, 5(4), 1070–1086. https://doi.org/10.1162/qss_a_00323",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub29_2024,\n  author = {Yang, Alex J. and Deng, Sanhong},\n  title = {{Dynamic patterns of the disruptive and consolidating knowledge flows in Nobel-winning scientific breakthroughs}},\n  journal = {Quantitative Science Studies},\n  year = {2024},\n  volume = {5},\n  number = {4},\n  pages = {1070--1086},\n  doi = {10.1162/qss_a_00323},\n  url = {https://doi.org/10.1162/qss_a_00323}\n}"
   },
   {
     "id": "pub-30",
@@ -359,9 +475,13 @@
     "language": "English",
     "authors": "Yang, A. J., Ding, Y., & Liu, M.*",
     "title": "Female-led teams produce more innovative ideas yet receive less scientific impact",
-    "reference": "Quantitative Science Studies, 5(4), 861-881",
+    "reference": "Quantitative Science Studies, 5(4), 861–881",
     "doi": "10.1162/qss_a_00335",
-    "citation": "Yang, A. J., Ding, Y., & Liu, M.* (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 5(4), 861-881. https://doi.org/10.1162/qss_a_00335"
+    "citation": "Yang, A. J., Ding, Y., & Liu, M. (2024). Female-led teams produce more innovative ideas yet receive less scientific impact. Quantitative Science Studies, 5(4), 861–881. https://doi.org/10.1162/qss_a_00335",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub30_2024,\n  author = {Yang, Alex J. and Ding, Ying and Liu, Meijun},\n  title = {{Female-led teams produce more innovative ideas yet receive less scientific impact}},\n  journal = {Quantitative Science Studies},\n  year = {2024},\n  volume = {5},\n  number = {4},\n  pages = {861--881},\n  doi = {10.1162/qss_a_00335},\n  url = {https://doi.org/10.1162/qss_a_00335}\n}"
   },
   {
     "id": "pub-31",
@@ -371,9 +491,13 @@
     "language": "English",
     "authors": "Yang, A. J., Wang, F., Shi, Y., Zhang, Y., Wang, H., & Deng, S*",
     "title": "Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship",
-    "reference": "Journal of Data and Information Science, 20250029–20250029",
+    "reference": "Journal of Data and Information Science, 10(3), 7–31",
     "doi": "10.2478/jdis-2025-0029",
-    "citation": "Yang, A. J., Wang, F., Shi, Y., Zhang, Y., Wang, H., & Deng, S*. (2025). Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship. Journal of Data and Information Science, 20250029–20250029. https://doi.org/10.2478/jdis-2025-0029"
+    "citation": "Yang, A. J., Wang, F., Shi, Y., Zhang, Y., Wang, H., & Deng, S. (2025). Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship. Journal of Data and Information Science, 10(3), 7–31. https://doi.org/10.2478/jdis-2025-0029",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub31_2025,\n  author = {Yang, Alex J. and Wang, Fanming and Shi, Yujie and Zhang, Yiqin and Wang, Hao and Deng, Sanhong},\n  title = {{Beyond surface correlations: Reference behavior mediates the disruptiveness-citation relationship}},\n  journal = {Journal of Data and Information Science},\n  year = {2025},\n  volume = {10},\n  number = {3},\n  pages = {7--31},\n  doi = {10.2478/jdis-2025-0029},\n  url = {https://doi.org/10.2478/jdis-2025-0029}\n}"
   },
   {
     "id": "pub-32",
@@ -385,7 +509,11 @@
     "title": "CoTEL-D3X: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction",
     "reference": "Expert Systems with Applications, 273, 126953",
     "doi": "10.1016/j.eswa.2025.126953",
-    "citation": "Hu, H., Yang, A. J., Deng, S., Wang, D., & Song, M.* (2025). CoTEL-D3X: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction. Expert Systems with Applications, 273, 126953. https://doi.org/10.1016/j.eswa.2025.126953"
+    "citation": "Hu, H., Yang, A. J., Deng, S., Wang, D., & Song, M. (2025). CoTEL-D3X: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction. Expert Systems with Applications, 273, 126953. https://doi.org/10.1016/j.eswa.2025.126953",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub32_2025,\n  author = {Hu, Haotian and Yang, Alex Jie and Deng, Sanhong and Wang, Dongbo and Song, Min},\n  title = {{CoTEL-D3X: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction}},\n  journal = {Expert Systems with Applications},\n  year = {2025},\n  volume = {273},\n  pages = {126953},\n  doi = {10.1016/j.eswa.2025.126953},\n  url = {https://doi.org/10.1016/j.eswa.2025.126953}\n}"
   },
   {
     "id": "pub-33",
@@ -395,9 +523,13 @@
     "language": "Chinese",
     "authors": "杨杰, 柳美君, 步一, 赵星, 邓三鸿*",
     "title": "组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角",
-    "reference": "情报学报, 2025, 44(03): 325–38",
-    "doi": "",
-    "citation": "杨杰, 柳美君, 步一, 赵星, 邓三鸿*. 组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角 [J]. 情报学报, 2025, 44(03): 325–38."
+    "reference": "情报学报, 2025, 44(3): 325-338",
+    "doi": "10.3772/j.issn.1000-0135.2025.03.006",
+    "citation": "杨杰, 柳美君, 步一, 赵星, 邓三鸿. 组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角[J]. 情报学报, 2025, 44(3): 325-338. https://doi.org/10.3772/j.issn.1000-0135.2025.03.006",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub33_2025,\n  author = {{杨杰} and {柳美君} and {步一} and {赵星} and {邓三鸿}},\n  title = {{组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角}},\n  journal = {情报学报},\n  year = {2025},\n  volume = {44},\n  number = {3},\n  pages = {325--338},\n  doi = {10.3772/j.issn.1000-0135.2025.03.006},\n  url = {https://doi.org/10.3772/j.issn.1000-0135.2025.03.006}\n}"
   },
   {
     "id": "pub-34",
@@ -407,9 +539,13 @@
     "language": "Chinese",
     "authors": "杨杰, 王左戎, 邓三鸿*, 王昊, 章学周",
     "title": "基于参考文献的论文跨学科性、跨时域性及其影响力研究",
-    "reference": "情报学报, 2024, 43(09): 1003-14",
-    "doi": "",
-    "citation": "杨杰, 王左戎, 邓三鸿*, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究 [J]. 情报学报, 2024, 43(09): 1003-14."
+    "reference": "情报学报, 2024, 43(9): 1003-1014",
+    "doi": "10.3772/j.issn.1000-0135.2024.09.001",
+    "citation": "杨杰, 王左戎, 邓三鸿, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究[J]. 情报学报, 2024, 43(9): 1003-1014. doi: 10.3772/j.issn.1000-0135.2024.09.001. https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2024.09.001",
+    "doi_status": "unresolved",
+    "doi_checked": "2026-11-06",
+    "url": "https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2024.09.001",
+    "bibtex": "@article{pub34_2024,\n  author = {{杨杰} and {王左戎} and {邓三鸿} and {王昊} and {章学周}},\n  title = {{基于参考文献的论文跨学科性、跨时域性及其影响力研究}},\n  journal = {情报学报},\n  year = {2024},\n  volume = {43},\n  number = {9},\n  pages = {1003--1014},\n  doi = {10.3772/j.issn.1000-0135.2024.09.001},\n  url = {https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2024.09.001}\n}"
   },
   {
     "id": "pub-35",
@@ -419,9 +555,13 @@
     "language": "Chinese",
     "authors": "杨杰, 邓三鸿*, 王昊",
     "title": "科学研究的颠覆性创新测度——相对颠覆性指数",
-    "reference": "情报学报, 2023, 42(09): 1052-64",
-    "doi": "",
-    "citation": "杨杰, 邓三鸿*, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数 [J]. 情报学报, 2023, 42(09): 1052-64."
+    "reference": "情报学报, 2023, 42(9): 1052-1064",
+    "doi": "10.3772/j.issn.1000-0135.2023.09.005",
+    "citation": "杨杰, 邓三鸿, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数[J]. 情报学报, 2023, 42(9): 1052-1064. https://doi.org/10.3772/j.issn.1000-0135.2023.09.005",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub35_2023,\n  author = {{杨杰} and {邓三鸿} and {王昊}},\n  title = {{科学研究的颠覆性创新测度——相对颠覆性指数}},\n  journal = {情报学报},\n  year = {2023},\n  volume = {42},\n  number = {9},\n  pages = {1052--1064},\n  doi = {10.3772/j.issn.1000-0135.2023.09.005},\n  url = {https://doi.org/10.3772/j.issn.1000-0135.2023.09.005}\n}"
   },
   {
     "id": "pub-36",
@@ -431,9 +571,13 @@
     "language": "Chinese",
     "authors": "杨杰, 孔嘉, 张艺炜, 王昊, 邓三鸿*",
     "title": "融合论文颠覆性与巩固性的学者二元影响力测度",
-    "reference": "情报学报, 2023, 42(12): 1412-23",
-    "doi": "",
-    "citation": "杨杰, 孔嘉, 张艺炜, 王昊, 邓三鸿*. 融合论文颠覆性与巩固性的学者二元影响力测度 [J]. 情报学报, 2023, 42(12): 1412-23."
+    "reference": "情报学报, 2023, 42(12): 1412-1423",
+    "doi": "10.3772/j.issn.1000-0135.2023.12.002",
+    "citation": "杨杰, 孔嘉, 张艺炜, 王昊, 邓三鸿. 融合论文颠覆性与巩固性的学者二元影响力测度[J]. 情报学报, 2023, 42(12): 1412-1423. https://doi.org/10.3772/j.issn.1000-0135.2023.12.002",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub36_2023,\n  author = {{杨杰} and {孔嘉} and {张艺炜} and {王昊} and {邓三鸿}},\n  title = {{融合论文颠覆性与巩固性的学者二元影响力测度}},\n  journal = {情报学报},\n  year = {2023},\n  volume = {42},\n  number = {12},\n  pages = {1412--1423},\n  doi = {10.3772/j.issn.1000-0135.2023.12.002},\n  url = {https://doi.org/10.3772/j.issn.1000-0135.2023.12.002}\n}"
   },
   {
     "id": "pub-37",
@@ -443,9 +587,13 @@
     "language": "Chinese",
     "authors": "彭兆祺, 石斌, 杨杰, 邓三鸿*",
     "title": "基于XGBoost-SHAP框架的科研合作频次归因分析",
-    "reference": "情报学报, 2026, 45(03): 332-349",
-    "doi": "",
-    "citation": "彭兆祺, 石斌, 杨杰, 邓三鸿*. 基于XGBoost-SHAP框架的科研合作频次归因分析[J]. 情报学报, 2026, 45(03): 332-349."
+    "reference": "情报学报, 2026, 45(3): 332-349",
+    "doi": "10.3772/j.issn.1000-0135.2026.03.002",
+    "citation": "彭兆祺, 石斌, 杨杰, 邓三鸿. 基于XGBoost-SHAP框架的科研合作频次归因分析[J]. 情报学报, 2026, 45(3): 332-349. doi: 10.3772/j.issn.1000-0135.2026.03.002. https://qbxb.istic.ac.cn/CN/abstract/abstract995.shtml",
+    "doi_status": "unresolved",
+    "doi_checked": "2026-11-06",
+    "url": "https://qbxb.istic.ac.cn/CN/abstract/abstract995.shtml",
+    "bibtex": "@article{pub37_2026,\n  author = {{彭兆祺} and {石斌} and {杨杰} and {邓三鸿}},\n  title = {{基于XGBoost-SHAP框架的科研合作频次归因分析}},\n  journal = {情报学报},\n  year = {2026},\n  volume = {45},\n  number = {3},\n  pages = {332--349},\n  doi = {10.3772/j.issn.1000-0135.2026.03.002},\n  url = {https://qbxb.istic.ac.cn/CN/abstract/abstract995.shtml}\n}"
   },
   {
     "id": "pub-38",
@@ -455,9 +603,13 @@
     "language": "Chinese",
     "authors": "郭剑明, 杨杰, 宋欣雨, 刘倩, 邓三鸿*",
     "title": "基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究",
-    "reference": "情报学报, 2026",
-    "doi": "",
-    "citation": "郭剑明, 杨杰, 宋欣雨, 刘倩, 邓三鸿*. 基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究[J]. 情报学报, 2026."
+    "reference": "情报学报, 2026, 45(8): 1092-1105",
+    "doi": "10.3772/j.issn.1000-0135.2026.08.002",
+    "citation": "郭剑明, 杨杰, 宋欣雨, 刘倩, 邓三鸿. 基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究[J]. 情报学报, 2026, 45(8): 1092-1105. doi: 10.3772/j.issn.1000-0135.2026.08.002. https://qbxb.istic.ac.cn/CN/Y2026/V45/I8/1092",
+    "doi_status": "unresolved",
+    "doi_checked": "2026-11-06",
+    "url": "https://qbxb.istic.ac.cn/CN/Y2026/V45/I8/1092",
+    "bibtex": "@article{pub38_2026,\n  author = {{郭剑明} and {杨杰} and {宋欣雨} and {刘倩} and {邓三鸿}},\n  title = {{基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究}},\n  journal = {情报学报},\n  year = {2026},\n  volume = {45},\n  number = {8},\n  pages = {1092--1105},\n  doi = {10.3772/j.issn.1000-0135.2026.08.002},\n  url = {https://qbxb.istic.ac.cn/CN/Y2026/V45/I8/1092}\n}"
   },
   {
     "id": "pub-39",
@@ -467,9 +619,13 @@
     "language": "Chinese",
     "authors": "柳美君, 杨杰, 杨斯杰, 闵超*",
     "title": "中国与“一带一路”沿线国家的科技人才流动研究",
-    "reference": "科学学研究, 2025, 43(03): 488–506",
-    "doi": "",
-    "citation": "柳美君, 杨杰, 杨斯杰, 闵超*. 中国与“一带一路”沿线国家的科技人才流动研究[J]. 科学学研究, 2025, 43(03): 488–506."
+    "reference": "科学学研究, 2025, 43(3): 488-506",
+    "doi": "10.16192/j.cnki.1003-2053.20240417.001",
+    "citation": "柳美君, 杨杰, 杨斯杰, 闵超. 中国与“一带一路”沿线国家的科技人才流动研究[J]. 科学学研究, 2025, 43(3): 488-506. https://doi.org/10.16192/j.cnki.1003-2053.20240417.001",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub39_2025,\n  author = {{柳美君} and {杨杰} and {杨斯杰} and {闵超}},\n  title = {{中国与“一带一路”沿线国家的科技人才流动研究}},\n  journal = {科学学研究},\n  year = {2025},\n  volume = {43},\n  number = {3},\n  pages = {488--506},\n  doi = {10.16192/j.cnki.1003-2053.20240417.001},\n  url = {https://doi.org/10.16192/j.cnki.1003-2053.20240417.001}\n}"
   },
   {
     "id": "pub-40",
@@ -479,9 +635,13 @@
     "language": "Chinese",
     "authors": "柳美君, 杨杰, 石静, 步一*",
     "title": "中国内地科技人才跨境流动网络多样性与互惠性",
-    "reference": "科学学研究, 2025, 43(09), 1924–1937",
-    "doi": "",
-    "citation": "柳美君, 杨杰, 石静, 步一*. 中国内地科技人才跨境流动网络多样性与互惠性[J]. 科学学研究, 2025, 43(09), 1924–1937."
+    "reference": "科学学研究, 2025, 43(9): 1924-1937",
+    "doi": "10.16192/j.cnki.1003-2053.20240725.002",
+    "citation": "柳美君, 杨杰, 石静, 步一. 中国内地科技人才跨境流动网络多样性与互惠性[J]. 科学学研究, 2025, 43(9): 1924-1937. https://doi.org/10.16192/j.cnki.1003-2053.20240725.002",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub40_2025,\n  author = {{柳美君} and {杨杰} and {石静} and {步一}},\n  title = {{中国内地科技人才跨境流动网络多样性与互惠性}},\n  journal = {科学学研究},\n  year = {2025},\n  volume = {43},\n  number = {9},\n  pages = {1924--1937},\n  doi = {10.16192/j.cnki.1003-2053.20240725.002},\n  url = {https://doi.org/10.16192/j.cnki.1003-2053.20240725.002}\n}"
   },
   {
     "id": "pub-41",
@@ -491,9 +651,13 @@
     "language": "Chinese",
     "authors": "杨杰, 吴琳伟, 邓三鸿*",
     "title": "颠覆性技术视角下科技伦理的敏捷治理框架探讨",
-    "reference": "中国科学基金, 2023, 37(03): 378-86",
-    "doi": "",
-    "citation": "杨杰, 吴琳伟, 邓三鸿*. 颠覆性技术视角下科技伦理的敏捷治理框架探讨 [J]. 中国科学基金, 2023, 37(03): 378-86."
+    "reference": "中国科学基金, 2023, 37(3): 378-386",
+    "doi": "10.16262/j.cnki.1000-8217.2023.03.005",
+    "citation": "杨杰, 吴琳伟, 邓三鸿. 颠覆性技术视角下科技伦理的敏捷治理框架探讨[J]. 中国科学基金, 2023, 37(3): 378-386. https://doi.org/10.16262/j.cnki.1000-8217.2023.03.005",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub41_2023,\n  author = {{杨杰} and {吴琳伟} and {邓三鸿}},\n  title = {{颠覆性技术视角下科技伦理的敏捷治理框架探讨}},\n  journal = {中国科学基金},\n  year = {2023},\n  volume = {37},\n  number = {3},\n  pages = {378--386},\n  doi = {10.16262/j.cnki.1000-8217.2023.03.005},\n  url = {https://doi.org/10.16262/j.cnki.1000-8217.2023.03.005}\n}"
   },
   {
     "id": "pub-42",
@@ -503,21 +667,30 @@
     "language": "Chinese",
     "authors": "杨杰*, 赵星",
     "title": "大数据专业培养内容的主题分析及对图情档学科的启示",
-    "reference": "图书情报工作, 2022, 66(02): 109-116",
-    "doi": "",
-    "citation": "杨杰*, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示 [J]. 图书情报工作, 2022, 66(02): 109-116."
+    "reference": "图书情报工作, 2022, 66(2): 109-116",
+    "doi": "10.13266/j.issn.0252-3116.2022.02.012",
+    "citation": "杨杰, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示[J]. 图书情报工作, 2022, 66(2): 109-116. https://doi.org/10.13266/j.issn.0252-3116.2022.02.012",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub42_2022,\n  author = {{杨杰} and {赵星}},\n  title = {{大数据专业培养内容的主题分析及对图情档学科的启示}},\n  journal = {图书情报工作},\n  year = {2022},\n  volume = {66},\n  number = {2},\n  pages = {109--116},\n  doi = {10.13266/j.issn.0252-3116.2022.02.012},\n  url = {https://doi.org/10.13266/j.issn.0252-3116.2022.02.012}\n}"
   },
   {
     "id": "pub-43",
-    "year": 0,
+    "year": 2026,
     "type": "journal",
     "kind": "Journal article",
     "language": "Chinese",
     "authors": "王浩, 陈鑫, 彭兆祺, 杨杰, 邓三鸿*",
     "title": "融合引文多元关系与双维模型的学科关键知识路径分析——以信息资源管理学科为例",
-    "reference": "图书情报工作,1-10",
+    "reference": "图书情报工作, 2026: 1-10 (advance online publication)",
     "doi": "",
-    "citation": "王浩, 陈鑫, 彭兆祺, 杨杰, 邓三鸿*.融合引文多元关系与双维模型的学科关键知识路径分析——以信息资源管理学科为例[J/OL].图书情报工作,1-10."
+    "citation": "王浩, 陈鑫, 彭兆祺, 杨杰, 邓三鸿. 融合引文多元关系与双维模型的学科关键知识路径分析——以信息资源管理学科为例[J/OL]. 图书情报工作, 2026: 1-10 (advance online publication). https://link.cnki.net/urlid/11.1541.G2.20260915.1009.010",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "https://link.cnki.net/urlid/11.1541.G2.20260915.1009.010",
+    "status": "Advance online publication",
+    "bibtex": "@article{pub43_2026,\n  author = {{王浩} and {陈鑫} and {彭兆祺} and {杨杰} and {邓三鸿}},\n  title = {{融合引文多元关系与双维模型的学科关键知识路径分析——以信息资源管理学科为例}},\n  journal = {图书情报工作},\n  year = {2026},\n  pages = {1--10},\n  url = {https://link.cnki.net/urlid/11.1541.G2.20260915.1009.010},\n  note = {Advance online publication}\n}"
   },
   {
     "id": "pub-44",
@@ -527,9 +700,13 @@
     "language": "Chinese",
     "authors": "闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿*",
     "title": "学者合作网络外部影响力与学术成就的关系研究",
-    "reference": "图书情报工作, 2025, 69(02): 96-107",
-    "doi": "",
-    "citation": "闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿*. 学者合作网络外部影响力与学术成就的关系研究 [J]. 图书情报工作, 2025, 69(02): 96-107."
+    "reference": "图书情报工作, 2025, 69(2): 96-107",
+    "doi": "10.13266/j.issn.0252-3116.2025.02.009",
+    "citation": "闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿. 学者合作网络外部影响力与学术成就的关系研究[J]. 图书情报工作, 2025, 69(2): 96-107. https://doi.org/10.13266/j.issn.0252-3116.2025.02.009",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub44_2025,\n  author = {{闫晓慧} and {杨杰} and {杨文霞} and {王昊} and {邓三鸿}},\n  title = {{学者合作网络外部影响力与学术成就的关系研究}},\n  journal = {图书情报工作},\n  year = {2025},\n  volume = {69},\n  number = {2},\n  pages = {96--107},\n  doi = {10.13266/j.issn.0252-3116.2025.02.009},\n  url = {https://doi.org/10.13266/j.issn.0252-3116.2025.02.009}\n}"
   },
   {
     "id": "pub-45",
@@ -539,9 +716,13 @@
     "language": "Chinese",
     "authors": "胡乐天, 杨杰, 王凡铭, 邓三鸿*",
     "title": "大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架",
-    "reference": "图书情报知识, 2026: 1-15",
-    "doi": "",
-    "citation": "胡乐天, 杨杰, 王凡铭, 邓三鸿*. 大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架. 图书情报知识, 2026: 1-15."
+    "reference": "图书情报知识, 2026, 43(4): 28-42",
+    "doi": "10.13366/j.dik.2026.04.028",
+    "citation": "胡乐天, 杨杰, 王凡铭, 邓三鸿. 大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架[J]. 图书情报知识, 2026, 43(4): 28-42. https://doi.org/10.13366/j.dik.2026.04.028",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub45_2026,\n  author = {{胡乐天} and {杨杰} and {王凡铭} and {邓三鸿}},\n  title = {{大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架}},\n  journal = {图书情报知识},\n  year = {2026},\n  volume = {43},\n  number = {4},\n  pages = {28--42},\n  doi = {10.13366/j.dik.2026.04.028},\n  url = {https://doi.org/10.13366/j.dik.2026.04.028}\n}"
   },
   {
     "id": "pub-46",
@@ -551,9 +732,13 @@
     "language": "Chinese",
     "authors": "巩洪村, 邓三鸿, 杨杰, 孔嘉, 曹高辉*",
     "title": "组态视角下Y世代移动数字过度使用的影响因素研究",
-    "reference": "图书情报知识, 2024, 41(05): 128-37+49",
-    "doi": "",
-    "citation": "巩洪村, 邓三鸿, 杨杰, 孔嘉, 曹高辉*. 组态视角下Y世代移动数字过度使用的影响因素研究 [J]. 图书情报知识, 2024, 41(05): 128-37+49."
+    "reference": "图书情报知识, 2024, 41(5): 128-137,149",
+    "doi": "10.13366/j.dik.2024.05.128",
+    "citation": "巩洪村, 邓三鸿, 杨杰, 孔嘉, 曹高辉. 组态视角下Y世代移动数字过度使用的影响因素研究[J]. 图书情报知识, 2024, 41(5): 128-137,149. https://doi.org/10.13366/j.dik.2024.05.128",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub46_2024,\n  author = {{巩洪村} and {邓三鸿} and {杨杰} and {孔嘉} and {曹高辉}},\n  title = {{组态视角下Y世代移动数字过度使用的影响因素研究}},\n  journal = {图书情报知识},\n  year = {2024},\n  volume = {41},\n  number = {5},\n  pages = {128--137,149},\n  doi = {10.13366/j.dik.2024.05.128},\n  url = {https://doi.org/10.13366/j.dik.2024.05.128}\n}"
   },
   {
     "id": "pub-47",
@@ -565,7 +750,12 @@
     "title": "团队规模、知识基础与学术影响力的协同演化及其学科差异",
     "reference": "图书馆论坛, 2026: 1-13",
     "doi": "",
-    "citation": "宋欣雨, 杨杰, 郭剑明, 张逸勤, 邓三鸿*. 团队规模、知识基础与学术影响力的协同演化及其学科差异[J/OL]. 图书馆论坛, 2026: 1-13"
+    "citation": "宋欣雨, 杨杰, 郭剑明, 张逸勤, 邓三鸿. 团队规模、知识基础与学术影响力的协同演化及其学科差异[J/OL]. 图书馆论坛, 2026: 1-13. https://link.cnki.net/urlid/44.1306.G2.20260727.1832.006",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "https://link.cnki.net/urlid/44.1306.G2.20260727.1832.006",
+    "status": "Advance online publication",
+    "bibtex": "@article{pub47_2026,\n  author = {{宋欣雨} and {杨杰} and {郭剑明} and {张逸勤} and {邓三鸿}},\n  title = {{团队规模、知识基础与学术影响力的协同演化及其学科差异}},\n  journal = {图书馆论坛},\n  year = {2026},\n  pages = {1--13},\n  url = {https://link.cnki.net/urlid/44.1306.G2.20260727.1832.006},\n  note = {Advance online publication}\n}"
   },
   {
     "id": "pub-48",
@@ -577,7 +767,12 @@
     "title": "卓越引证指数：基于高被引论文引证效力的影响力评估方法",
     "reference": "图书馆论坛, 2026: 1-11",
     "doi": "",
-    "citation": "宋欣雨, 杨杰, 彭兆祺, 王左戎, 邓三鸿*. 卓越引证指数：基于高被引论文引证效力的影响力评估方法[J/OL]. 图书馆论坛, 2026: 1-11"
+    "citation": "宋欣雨, 杨杰, 彭兆祺, 王左戎, 邓三鸿. 卓越引证指数：基于高被引论文引证效力的影响力评估方法[J/OL]. 图书馆论坛, 2026: 1-11. https://link.cnki.net/urlid/44.1306.G2.20260727.1508.004",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "https://link.cnki.net/urlid/44.1306.G2.20260727.1508.004",
+    "status": "Advance online publication",
+    "bibtex": "@article{pub48_2026,\n  author = {{宋欣雨} and {杨杰} and {彭兆祺} and {王左戎} and {邓三鸿}},\n  title = {{卓越引证指数：基于高被引论文引证效力的影响力评估方法}},\n  journal = {图书馆论坛},\n  year = {2026},\n  pages = {1--11},\n  url = {https://link.cnki.net/urlid/44.1306.G2.20260727.1508.004},\n  note = {Advance online publication}\n}"
   },
   {
     "id": "pub-49",
@@ -585,11 +780,15 @@
     "type": "journal",
     "kind": "Journal article",
     "language": "Chinese",
-    "authors": "张逸勤, 邓三鸿*, 巩洪村, 杨杰, 刘潮",
-    "title": "面向 AI4Science 的科学论文图像语义描述框架体系构建研究",
-    "reference": "图书馆论坛, 2026: 1-15",
+    "authors": "张逸勤, 邓三鸿, 巩洪村, 杨杰, 刘浏",
+    "title": "面向AI4Science的科学论文图像语义描述框架体系构建研究",
+    "reference": "图书馆杂志, 2026, 45(5): 15-26",
     "doi": "",
-    "citation": "张逸勤, 邓三鸿*, 巩洪村, 杨杰, 刘潮. 面向 AI4Science 的科学论文图像语义描述框架体系构建研究[J]. 图书馆论坛, 2026: 1-15."
+    "citation": "张逸勤, 邓三鸿, 巩洪村, 杨杰, 刘浏. 面向AI4Science的科学论文图像语义描述框架体系构建研究[J]. 图书馆杂志, 2026, 45(5): 15-26. https://www.libraryjournal.com.cn/CN/abstract/abstract3130.shtml",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "https://www.libraryjournal.com.cn/CN/abstract/abstract3130.shtml",
+    "bibtex": "@article{pub49_2026,\n  author = {{张逸勤} and {邓三鸿} and {巩洪村} and {杨杰} and {刘浏}},\n  title = {{面向AI4Science的科学论文图像语义描述框架体系构建研究}},\n  journal = {图书馆杂志},\n  year = {2026},\n  volume = {45},\n  number = {5},\n  pages = {15--26},\n  url = {https://www.libraryjournal.com.cn/CN/abstract/abstract3130.shtml}\n}"
   },
   {
     "id": "pub-50",
@@ -601,7 +800,11 @@
     "title": "融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法",
     "reference": "情报理论与实践, 2026, 49(2):126-133+81",
     "doi": "",
-    "citation": "张琪, 马瑞敏, 杨杰, 王左戎, 邓三鸿*. 融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法[J]. 情报理论与实践, 2026, 49(2):126-133+81."
+    "citation": "张琪, 马瑞敏, 杨杰, 王左戎, 邓三鸿. 融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法[J]. 情报理论与实践, 2026, 49(2):126-133+81.",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub50_2026,\n  author = {{张琪} and {马瑞敏} and {杨杰} and {王左戎} and {邓三鸿}},\n  title = {{融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法}},\n  journal = {情报理论与实践},\n  year = {2026},\n  volume = {49},\n  number = {2},\n  pages = {126--133,81}\n}"
   },
   {
     "id": "pub-51",
@@ -613,7 +816,11 @@
     "title": "基于高阶网络结构的核心专利识别方法研究",
     "reference": "情报理论与实践, 2026, 49(1):106-114+149",
     "doi": "",
-    "citation": "郭剑明, 杨杰, 方静, 邓三鸿*. 基于高阶网络结构的核心专利识别方法研究[J]. 情报理论与实践, 2026, 49(1):106-114+149."
+    "citation": "郭剑明, 杨杰, 方静, 邓三鸿. 基于高阶网络结构的核心专利识别方法研究[J]. 情报理论与实践, 2026, 49(1):106-114+149.",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub51_2026,\n  author = {{郭剑明} and {杨杰} and {方静} and {邓三鸿}},\n  title = {{基于高阶网络结构的核心专利识别方法研究}},\n  journal = {情报理论与实践},\n  year = {2026},\n  volume = {49},\n  number = {1},\n  pages = {106--114,149}\n}"
   },
   {
     "id": "pub-52",
@@ -625,7 +832,11 @@
     "title": "专利颠覆性潜力识别的双维融合框架：以新型储能技术为例",
     "reference": "情报理论与实践, 2026: 1-13",
     "doi": "",
-    "citation": "赵志洋, 杨杰, 吴娜, 王昊, 邓三鸿*. 专利颠覆性潜力识别的双维融合框架：以新型储能技术为例[J/OL]. 情报理论与实践, 2026: 1-13"
+    "citation": "赵志洋, 杨杰, 吴娜, 王昊, 邓三鸿. 专利颠覆性潜力识别的双维融合框架：以新型储能技术为例[J/OL]. 情报理论与实践, 2026: 1-13.",
+    "doi_status": "unverified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub52_2026,\n  author = {{赵志洋} and {杨杰} and {吴娜} and {王昊} and {邓三鸿}},\n  title = {{专利颠覆性潜力识别的双维融合框架：以新型储能技术为例}},\n  journal = {情报理论与实践},\n  year = {2026}\n}"
   },
   {
     "id": "pub-53",
@@ -637,7 +848,11 @@
     "title": "代表作评价模式的定量探析——基于诺贝尔奖得主的实证",
     "reference": "情报理论与实践, 2025",
     "doi": "",
-    "citation": "张逸勤, 杨杰, 宋欣雨, 邓三鸿*, 赵星. 代表作评价模式的定量探析——基于诺贝尔奖得主的实证 [J]. 情报理论与实践, 2025."
+    "citation": "张逸勤, 杨杰, 宋欣雨, 邓三鸿, 赵星. 代表作评价模式的定量探析——基于诺贝尔奖得主的实证[J]. 情报理论与实践, 2025.",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub53_2025,\n  author = {{张逸勤} and {杨杰} and {宋欣雨} and {邓三鸿} and {赵星}},\n  title = {{代表作评价模式的定量探析——基于诺贝尔奖得主的实证}},\n  journal = {情报理论与实践},\n  year = {2025}\n}"
   },
   {
     "id": "pub-54",
@@ -649,7 +864,11 @@
     "title": "基于非参数检验的文献漏引行为表现特征分析",
     "reference": "情报科学,2024,42(07):76-83",
     "doi": "",
-    "citation": "杨文霞, 邓三鸿*, 杨杰, 张琪, 王昊. 基于非参数检验的文献漏引行为表现特征分析[J].情报科学,2024,42(07):76-83."
+    "citation": "杨文霞, 邓三鸿, 杨杰, 张琪, 王昊. 基于非参数检验的文献漏引行为表现特征分析[J]. 情报科学,2024,42(07):76-83.",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub54_2024,\n  author = {{杨文霞} and {邓三鸿} and {杨杰} and {张琪} and {王昊}},\n  title = {{基于非参数检验的文献漏引行为表现特征分析}},\n  journal = {情报科学},\n  year = {2024},\n  volume = {42},\n  number = {07},\n  pages = {76--83}\n}"
   },
   {
     "id": "pub-55",
@@ -660,8 +879,12 @@
     "authors": "邓三鸿, 杨杰, 王昊, 沈健威",
     "title": "多源异构数据视角下的学术评价:内涵、进展与展望",
     "reference": "科技情报研究, 2023, 5(04): 42-56",
-    "doi": "",
-    "citation": "邓三鸿, 杨杰, 王昊, 沈健威. 多源异构数据视角下的学术评价:内涵、进展与展望 [J]. 科技情报研究, 2023, 5(04): 42-56."
+    "doi": "10.19809/j.cnki.kjqbyj.2023.04.004",
+    "citation": "邓三鸿, 杨杰, 王昊, 沈健威. 多源异构数据视角下的学术评价:内涵、进展与展望[J]. 科技情报研究, 2023, 5(04): 42-56. https://doi.org/10.19809/j.cnki.kjqbyj.2023.04.004",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@article{pub55_2023,\n  author = {{邓三鸿} and {杨杰} and {王昊} and {沈健威}},\n  title = {{多源异构数据视角下的学术评价:内涵、进展与展望}},\n  journal = {科技情报研究},\n  year = {2023},\n  volume = {5},\n  number = {4},\n  pages = {42--56},\n  doi = {10.19809/j.cnki.kjqbyj.2023.04.004},\n  url = {https://doi.org/10.19809/j.cnki.kjqbyj.2023.04.004}\n}"
   },
   {
     "id": "pub-56",
@@ -669,11 +892,15 @@
     "type": "conference",
     "kind": "Conference paper",
     "language": "English",
-    "authors": "Yang, A. J.*, Shi Y., Zhao S. X., Zhang Y., and Deng S",
+    "authors": "Yang, A. J., Shi, Y., Zhao, S. X., Zhang, Y., & Deng, S.",
     "title": "Mining Collective Intelligence and Predicting Disruptive Paradigm Shifts via Human-Aware AI",
-    "reference": "Proceedings of the Association for Information Science and Technology (ASIST)",
-    "doi": "",
-    "citation": "Yang, A. J.*, Shi Y., Zhao S. X., Zhang Y., and Deng S. (2025) Mining Collective Intelligence and Predicting Disruptive Paradigm Shifts via Human-Aware AI. Proceedings of the Association for Information Science and Technology (ASIST)."
+    "reference": "Proceedings of the Association for Information Science and Technology, 62(1), 799–808",
+    "doi": "10.1002/pra2.1298",
+    "citation": "Yang, A. J., Shi, Y., Zhao, S. X., Zhang, Y., & Deng, S. (2025). Mining Collective Intelligence and Predicting Disruptive Paradigm Shifts via Human-Aware AI. Proceedings of the Association for Information Science and Technology, 62(1), 799–808. https://doi.org/10.1002/pra2.1298",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@inproceedings{pub56_2025,\n  author = {Yang, A. J. and Shi, Y. and Zhao, S. X. and Zhang, Y. and Deng, S.},\n  title = {{Mining Collective Intelligence and Predicting Disruptive Paradigm Shifts via Human-Aware AI}},\n  booktitle = {Proceedings of the Association for Information Science and Technology},\n  year = {2025},\n  volume = {62},\n  number = {1},\n  pages = {799--808},\n  doi = {10.1002/pra2.1298},\n  url = {https://doi.org/10.1002/pra2.1298}\n}"
   },
   {
     "id": "pub-57",
@@ -685,7 +912,11 @@
     "title": "Measuring Technology Diffusion Dynamics Using Patent Full-Text Data and Machine Learning",
     "reference": "Proceedings of Joint Workshop of the 6th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, ISSI",
     "doi": "",
-    "citation": "Yang, A. J.*, Zhao S. X., Bu Y., and Deng S. (2025) Measuring Technology Diffusion Dynamics Using Patent Full-Text Data and Machine Learning. Proceedings of Joint Workshop of the 6th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, ISSI."
+    "citation": "Yang, A. J., Zhao, S. X., Bu, Y., & Deng, S. (2025). Measuring Technology Diffusion Dynamics Using Patent Full-Text Data and Machine Learning. Proceedings of Joint Workshop of the 6th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, ISSI.",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@inproceedings{pub57_2025,\n  author = {Yang, A. J. and Zhao, S. X. and Bu, Y. and Deng, S.},\n  title = {{Measuring Technology Diffusion Dynamics Using Patent Full-Text Data and Machine Learning}},\n  booktitle = {Proceedings of Joint Workshop of the 6th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, ISSI},\n  year = {2025}\n}"
   },
   {
     "id": "pub-58",
@@ -697,7 +928,11 @@
     "title": "Quantifying Ageing Effect in Scientific and Innovative Careers",
     "reference": "The 4th International Conference on the Science of Science and Innovation (ICSSI)",
     "doi": "",
-    "citation": "Yang Y., Yang, A. J., and Yin Y.*. (2025) Quantifying Ageing Effect in Scientific and Innovative Careers. The 4th International Conference on the Science of Science and Innovation (ICSSI)."
+    "citation": "Yang, Y., Yang, A. J., & Yin, Y. (2025). Quantifying Ageing Effect in Scientific and Innovative Careers. The 4th International Conference on the Science of Science and Innovation (ICSSI).",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@inproceedings{pub58_2025,\n  author = {Yang, Y. and Yang, A. J. and Yin, Y.},\n  title = {{Quantifying Ageing Effect in Scientific and Innovative Careers}},\n  booktitle = {The 4th International Conference on the Science of Science and Innovation (ICSSI)},\n  year = {2025}\n}"
   },
   {
     "id": "pub-59",
@@ -705,11 +940,15 @@
     "type": "conference",
     "kind": "Conference paper",
     "language": "English",
-    "authors": "Yang, A. J.*, Shi Y., Ma Y., and Deng S",
+    "authors": "Yang, A. J., Shi, Y., Ma, Y., & Deng, S.",
     "title": "Quantifying talent space of nations based on global patterns of mobility",
-    "reference": "The 4th France's International Conference on Complex Systems (FRCCS)",
-    "doi": "",
-    "citation": "Yang, A. J.*, Shi Y., Ma Y., and Deng S. (2025) Quantifying talent space of nations based on global patterns of mobility. The 4th France's International Conference on Complex Systems (FRCCS)."
+    "reference": "Proceedings of The Fifth France’s International Conference on Complex Systems (FRCCS 2025), Studies in Systems, Decision and Control, 615, 3–11",
+    "doi": "10.1007/978-3-032-00206-8_1",
+    "citation": "Yang, A. J., Shi, Y., Ma, Y., & Deng, S. (2025). Quantifying talent space of nations based on global patterns of mobility. Proceedings of The Fifth France’s International Conference on Complex Systems (FRCCS 2025), Studies in Systems, Decision and Control, 615, 3–11. https://doi.org/10.1007/978-3-032-00206-8_1",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@inproceedings{pub59_2025,\n  author = {Yang, A. J. and Shi, Y. and Ma, Y. and Deng, S.},\n  title = {{Quantifying talent space of nations based on global patterns of mobility}},\n  booktitle = {Proceedings of The Fifth France’s International Conference on Complex Systems (FRCCS 2025)},\n  year = {2025},\n  volume = {615},\n  pages = {3--11},\n  series = {Studies in Systems, Decision and Control},\n  publisher = {Springer},\n  doi = {10.1007/978-3-032-00206-8_1},\n  url = {https://doi.org/10.1007/978-3-032-00206-8_1}\n}"
   },
   {
     "id": "pub-60",
@@ -717,11 +956,15 @@
     "type": "conference",
     "kind": "Conference paper",
     "language": "English",
-    "authors": "Yang, A. J., Bu Y., Ding Y., & Liu, M.*",
+    "authors": "Yang, A. J., Bu, Y., Ding, Y., & Liu, M.",
     "title": "Quantifying scientific novelty of doctoral theses with Bio-BERT model",
-    "reference": "Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference",
+    "reference": "Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 4th AI + Informetrics (EEKE-AII 2024), CEUR Workshop Proceedings, 3745, 145–149",
     "doi": "",
-    "citation": "Yang, A. J., Bu Y., Ding Y., & Liu, M.* (2024) Quantifying scientific novelty of doctoral theses with Bio-BERT model. Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Document and the 4th AI + Informetrics, iConference."
+    "citation": "Yang, A. J., Bu, Y., Ding, Y., & Liu, M. (2024). Quantifying scientific novelty of doctoral theses with Bio-BERT model. Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 4th AI + Informetrics (EEKE-AII 2024), CEUR Workshop Proceedings, 3745, 145–149. https://ceur-ws.org/Vol-3745/paper23.pdf",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "https://ceur-ws.org/Vol-3745/paper23.pdf",
+    "bibtex": "@inproceedings{pub60_2024,\n  author = {Yang, A. J. and Bu, Y. and Ding, Y. and Liu, M.},\n  title = {{Quantifying scientific novelty of doctoral theses with Bio-BERT model}},\n  booktitle = {Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 4th AI + Informetrics (EEKE-AII 2024)},\n  year = {2024},\n  volume = {3745},\n  pages = {145--149},\n  publisher = {CEUR Workshop Proceedings},\n  url = {https://ceur-ws.org/Vol-3745/paper23.pdf}\n}"
   },
   {
     "id": "pub-61",
@@ -733,7 +976,11 @@
     "title": "Untangling the complex pattern of international talent mobility in science",
     "reference": "The 28th International Conference on Science, Technology and Innovation Indicators (STI)",
     "doi": "",
-    "citation": "Liu, M.*, Yang, A. J., Bu Y., & Ding Y. (2024) Untangling the complex pattern of international talent mobility in science. The 28th International Conference on Science, Technology and Innovation Indicators (STI)."
+    "citation": "Liu, M., Yang, A. J., Bu, Y., & Ding, Y. (2024). Untangling the complex pattern of international talent mobility in science. The 28th International Conference on Science, Technology and Innovation Indicators (STI).",
+    "doi_status": "no-doi-found",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@inproceedings{pub61_2024,\n  author = {Liu, M. and Yang, A. J. and Bu, Y. and Ding, Y.},\n  title = {{Untangling the complex pattern of international talent mobility in science}},\n  booktitle = {The 28th International Conference on Science, Technology and Innovation Indicators (STI)},\n  year = {2024}\n}"
   },
   {
     "id": "pub-62",
@@ -741,11 +988,15 @@
     "type": "conference",
     "kind": "Conference paper",
     "language": "English",
-    "authors": "Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D",
+    "authors": "Yang, A. J., Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Deng, S.",
     "title": "The global disruption index (GDI): an incorporation of citation cascades in the disruptive index",
-    "reference": "Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI)",
-    "doi": "",
-    "citation": "Yang, A. J.*, Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Sanhong, D. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of 19th International Society of Scientometrics and Informetrics Conference (ISSI)."
+    "reference": "Proceedings of ISSI 2023 — the 19th International Conference of the International Society for Scientometrics and Informetrics, 1, 685–700",
+    "doi": "10.5281/zenodo.8253488",
+    "citation": "Yang, A. J., Wang, Y., Kong, J., Zhang, Q., Hu, H., Wang, H., & Deng, S. (2023). The global disruption index (GDI): an incorporation of citation cascades in the disruptive index. Proceedings of ISSI 2023 — the 19th International Conference of the International Society for Scientometrics and Informetrics, 1, 685–700. https://doi.org/10.5281/zenodo.8253488",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@inproceedings{pub62_2023,\n  author = {Yang, A. J. and Wang, Y. and Kong, J. and Zhang, Q. and Hu, H. and Wang, H. and Deng, S.},\n  title = {{The global disruption index (GDI): an incorporation of citation cascades in the disruptive index}},\n  booktitle = {Proceedings of ISSI 2023 — the 19th International Conference of the International Society for Scientometrics and Informetrics},\n  year = {2023},\n  volume = {1},\n  pages = {685--700},\n  doi = {10.5281/zenodo.8253488},\n  url = {https://doi.org/10.5281/zenodo.8253488}\n}"
   },
   {
     "id": "pub-63",
@@ -753,11 +1004,15 @@
     "type": "conference",
     "kind": "Conference paper",
     "language": "English",
-    "authors": "Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S",
+    "authors": "Yang, A. J., Zhao, Y., Wang, H., & Deng, S.",
     "title": "Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers",
-    "reference": "Proceedings of the Association for Information Science and Technology (ASIST)",
-    "doi": "",
-    "citation": "Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers. Proceedings of the Association for Information Science and Technology (ASIST)."
+    "reference": "Proceedings of the Association for Information Science and Technology, 60(1), 1194–1196",
+    "doi": "10.1002/pra2.989",
+    "citation": "Yang, A. J., Zhao, Y., Wang, H., & Deng, S. (2023). Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers. Proceedings of the Association for Information Science and Technology, 60(1), 1194–1196. https://doi.org/10.1002/pra2.989",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@inproceedings{pub63_2023,\n  author = {Yang, A. J. and Zhao, Y. and Wang, H. and Deng, S.},\n  title = {{Untangle the characteristics of disruptive and consolidating citations of Nobel-winning papers}},\n  booktitle = {Proceedings of the Association for Information Science and Technology},\n  year = {2023},\n  volume = {60},\n  number = {1},\n  pages = {1194--1196},\n  doi = {10.1002/pra2.989},\n  url = {https://doi.org/10.1002/pra2.989}\n}"
   },
   {
     "id": "pub-64",
@@ -765,10 +1020,14 @@
     "type": "conference",
     "kind": "Conference paper",
     "language": "English",
-    "authors": "Hu, H., Yang, A. J., Deng, S., Wang, D.*, Song, M., Shen, S",
+    "authors": "Hu, H., Yang, A. J., Deng, S., Wang, D., Song, M., & Shen, S.",
     "title": "A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models",
-    "reference": "Proceedings of the Association for Information Science and Technology (ASIST)",
-    "doi": "",
-    "citation": "Hu, H., Yang, A. J., Deng, S., Wang, D.*, Song, M., Shen, S. (2023). A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models. Proceedings of the Association for Information Science and Technology (ASIST)."
+    "reference": "Proceedings of the Association for Information Science and Technology, 60(1), 980–982",
+    "doi": "10.1002/pra2.918",
+    "citation": "Hu, H., Yang, A. J., Deng, S., Wang, D., Song, M., & Shen, S. (2023). A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models. Proceedings of the Association for Information Science and Technology, 60(1), 980–982. https://doi.org/10.1002/pra2.918",
+    "doi_status": "verified",
+    "doi_checked": "2026-11-06",
+    "url": "",
+    "bibtex": "@inproceedings{pub64_2023,\n  author = {Hu, H. and Yang, A. J. and Deng, S. and Wang, D. and Song, M. and Shen, S.},\n  title = {{A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models}},\n  booktitle = {Proceedings of the Association for Information Science and Technology},\n  year = {2023},\n  volume = {60},\n  number = {1},\n  pages = {980--982},\n  doi = {10.1002/pra2.918},\n  url = {https://doi.org/10.1002/pra2.918}\n}"
   }
 ]

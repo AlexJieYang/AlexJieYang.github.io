@@ -18,6 +18,72 @@
     detailStates.clear();
   });
 
+  function copyWithSelection(text) {
+    const active = document.activeElement;
+    const selection = window.getSelection();
+    const ranges = [];
+    if (selection) {
+      for (let i = 0; i < selection.rangeCount; i += 1) ranges.push(selection.getRangeAt(i));
+    }
+    const field = document.createElement('textarea');
+    field.value = text;
+    field.readOnly = true;
+    field.className = 'clipboard-field';
+    field.setAttribute('aria-label', 'Citation to copy');
+    document.body.appendChild(field);
+    try {
+      field.focus({ preventScroll: true });
+      field.select();
+      field.setSelectionRange(0, field.value.length);
+      return typeof document.execCommand === 'function' && document.execCommand('copy');
+    } finally {
+      field.remove();
+      if (active && typeof active.focus === 'function') active.focus({ preventScroll: true });
+      if (selection) {
+        selection.removeAllRanges();
+        ranges.forEach((range) => selection.addRange(range));
+      }
+    }
+  }
+
+  document.querySelectorAll('[data-copy-target]').forEach((button) => {
+    const target = document.getElementById(button.dataset.copyTarget);
+    const status = button.closest('.citation-block').querySelector('.copy-status');
+    if (!target) return;
+    button.hidden = false;
+    button.addEventListener('click', async () => {
+      const text = target.textContent.trim();
+      button.disabled = true;
+      status.textContent = '';
+      let copied = false;
+      try {
+        if (navigator.clipboard && typeof navigator.clipboard.writeText === 'function') {
+          await navigator.clipboard.writeText(text);
+          copied = true;
+        }
+      } catch (error) {
+        // Some browsers deny clipboard access; try the selectable-text fallback.
+      }
+      if (!copied) {
+        try { copied = copyWithSelection(text); } catch (error) { copied = false; }
+      }
+      button.disabled = false;
+      if (copied) {
+        status.textContent = 'Copied to clipboard.';
+      } else {
+        target.focus({ preventScroll: true });
+        const selection = window.getSelection();
+        if (selection) {
+          const range = document.createRange();
+          range.selectNodeContents(target);
+          selection.removeAllRanges();
+          selection.addRange(range);
+        }
+        status.textContent = 'Select and copy the reference above, or press Ctrl+C / ⌘C.';
+      }
+    });
+  });
+
   const form = document.querySelector('[data-publication-filters]');
   if (!form) return;
 
@@ -30,7 +96,7 @@
   const normalize = (value) => value.normalize('NFKC').toLocaleLowerCase().replace(/\s+/g, ' ').trim();
   const papers = Array.from(document.querySelectorAll('#publication-list [data-publication]'), (element) => ({
     element,
-    text: normalize(element.textContent),
+    text: normalize(Array.from(element.querySelectorAll('.publication-title, .publication-authors, .publication-reference, .publication-year, .publication-labels'), (part) => part.textContent).join(' ')),
     year: element.dataset.year,
     type: element.dataset.type,
   }));

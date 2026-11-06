@@ -2,9 +2,23 @@
   <div class="publication-year">{% if include.paper.year > 0 %}{{ include.paper.year }}{% else %}<abbr title="Year not specified">n.d.</abbr>{% endif %}</div>
   <article class="publication-body" aria-labelledby="{{ include.prefix }}{{ include.paper.id }}-title">
     <div class="publication-labels"><span>{{ include.paper.kind }}</span>{% if include.paper.status %}<span class="status-label">{{ include.paper.status }}</span>{% endif %}{% if include.paper.award %}<span class="award-label">{{ include.paper.award }}</span>{% endif %}</div>
-    <h2 id="{{ include.prefix }}{{ include.paper.id }}-title" class="publication-title">{% if include.paper.doi != '' %}<a href="https://doi.org/{{ include.paper.doi }}">{{ include.paper.title | escape }}</a>{% else %}{{ include.paper.title | escape }}{% endif %}</h2>
+    {% assign publication_heading = include.heading_level | default: 2 %}{% assign publication_doi = include.paper.doi | default: '' %}{% assign publication_url = include.paper.url | default: '' %}{% if publication_doi != '' and include.paper.doi_status != 'unresolved' %}{% capture publication_url %}https://doi.org/{{ publication_doi }}{% endcapture %}{% endif %}<h{{ publication_heading }} id="{{ include.prefix }}{{ include.paper.id }}-title" class="publication-title">{% if publication_url != '' %}<a href="{{ publication_url | escape }}">{{ include.paper.title | escape }}</a>{% else %}{{ include.paper.title | escape }}{% endif %}</h{{ publication_heading }}>
     <p class="publication-authors">{{ include.paper.authors | escape }}</p>
     <p class="publication-reference">{{ include.paper.reference | escape }}</p>
-    {% if include.paper.doi != '' %}<a class="doi-link" href="https://doi.org/{{ include.paper.doi }}" aria-label="DOI for {{ include.paper.title | escape }}">DOI <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if include.paper.doi_status == 'unresolved' %}{% if publication_url != '' %}<a class="doi-link" href="{{ publication_url | escape }}" aria-label="Publisher page for {{ include.paper.title | escape }}">Publisher page <span aria-hidden="true">↗</span></a>{% endif %}<span class="doi-status" lang="en">DOI: {{ publication_doi | escape }} · DOI resolution unavailable</span>{% elsif publication_doi != '' %}<a class="doi-link" href="{{ publication_url | escape }}" aria-label="DOI for {{ include.paper.title | escape }}">DOI <span aria-hidden="true">↗</span></a>{% elsif publication_url != '' %}<a class="doi-link" href="{{ publication_url | escape }}" aria-label="Paper: {{ include.paper.title | escape }}">Paper <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if include.paper.doi_status == 'unverified' %}<span class="doi-status" lang="en">DOI not yet verified</span>{% elsif include.paper.doi_status == 'no-doi-found' and publication_url == '' %}<span class="doi-status" lang="en">DOI not found</span>{% endif %}
+    <details class="citation-details" lang="en">
+      <summary>Cite this paper<span class="sr-only">: {{ include.paper.title | escape }}</span></summary>
+      <div class="citation-block">
+        <div class="citation-heading"><span>Formatted reference</span><button type="button" class="copy-citation" data-copy-target="{{ include.prefix }}{{ include.paper.id }}-citation" aria-label="Copy reference for {{ include.paper.title | escape }}" hidden>Copy reference</button></div>
+        <p id="{{ include.prefix }}{{ include.paper.id }}-citation" class="citation-text" tabindex="0">{{ include.paper.citation | escape }}</p>
+        <p class="copy-status" role="status" aria-live="polite" aria-atomic="true"></p>
+      </div>
+      {% if include.paper.bibtex and include.paper.bibtex != '' %}<div class="citation-block">
+        <div class="citation-heading"><span>BibTeX</span><button type="button" class="copy-citation" data-copy-target="{{ include.prefix }}{{ include.paper.id }}-bibtex" aria-label="Copy BibTeX for {{ include.paper.title | escape }}" hidden>Copy BibTeX</button></div>
+        <pre id="{{ include.prefix }}{{ include.paper.id }}-bibtex" class="citation-text bibtex-text" tabindex="0"><code>{{ include.paper.bibtex | escape }}</code></pre>
+        <p class="copy-status" role="status" aria-live="polite" aria-atomic="true"></p>
+      </div>{% endif %}
+    </details>
   </article>
 </li>
