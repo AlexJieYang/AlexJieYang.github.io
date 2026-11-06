@@ -83,7 +83,6 @@ figcaption > span:last-child { color:#7a8378; }
 .publication-reference { display:inline; color:#4e6253; font-size:13px; font-style:italic; }
 .doi-link { display:inline-block; margin-left:14px; color:var(--accent); font-size:10px; font-weight:650; letter-spacing:.6px; text-decoration:none; white-space:nowrap; }
 .doi-link:hover { text-decoration:underline; }
-.doi-status { display:inline-block; margin-left:12px; color:var(--muted); font-size:11px; }
 .publication-downloads { display:flex; flex-wrap:wrap; gap:16px 28px; margin:24px 0; }
 .citation-details { margin-top:16px; color:var(--muted); font-size:12px; }
 .citation-details > summary { width:fit-content; padding:5px 0; color:var(--accent); cursor:pointer; }
