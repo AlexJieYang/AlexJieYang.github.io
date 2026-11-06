@@ -11,7 +11,7 @@ A lightweight academic website built with Jekyll and GitHub Pages.
 - `_pages/about.md`, `_pages/publications.md`, and `_pages/cv.md`: the homepage, publications page, and CV.
 - `_layouts/academic.html` and `_includes/academic/`: the shared layout and components.
 - `assets/css/academic.css` and `assets/js/academic.js`: responsive styles, filters, citation copying, and printing.
-- `images/profile.png` and `images/monogram.svg`: the portrait and site icon.
+- `images/profile.jpg` and `images/monogram.svg`: the portrait and site icon.
 
 Each publication stores display fields plus a copyable `citation` and UTF-8 `bibtex` entry. Update these together. Keep corresponding-author asterisks out of citations and BibTeX. Optional `status`, `award`, and `abstract` fields preserve accepted status, awards, and available abstracts. Letter and correspondence items retain their explicit `kind` values. Chinese BibTeX entries preserve names as literal names; use a Unicode-capable bibliography workflow.
 

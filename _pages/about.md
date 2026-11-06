@@ -18,7 +18,7 @@ redirect_from:
       <div class="hero-actions"><a class="button" href="#selected-publications">Browse publications <span aria-hidden="true">↓</span></a><a class="text-link" href="{{ '/cv/' | relative_url }}">Curriculum vitae <span aria-hidden="true">→</span></a></div>
       <div class="profile-links" aria-label="Academic profiles"><span class="email-text">{{ site.data.profile.email | escape }}</span><span aria-hidden="true">/</span><a href="https://orcid.org/{{ site.data.profile.orcid }}">ORCID</a><span aria-hidden="true">/</span><a href="{{ site.data.profile.researchgate }}">ResearchGate</a><span aria-hidden="true">/</span><a href="{{ site.data.profile.github }}">GitHub</a></div>
     </div>
-    <figure class="hero-photo"><div class="photo-frame"><img src="{{ '/images/profile.png' | relative_url }}" width="1224" height="921" alt="Alex Jie Yang standing in an art gallery" fetchpriority="high" decoding="async"></div><figcaption><span>Alex Jie Yang <span lang="zh">/ 杨杰</span></span><span>Science · People · Ideas</span></figcaption></figure>
+    <figure class="hero-photo"><div class="photo-frame"><img src="{{ '/images/profile.jpg' | relative_url }}" width="1365" height="2047" alt="Portrait of Alex Jie Yang" fetchpriority="high" decoding="async"></div><figcaption><span>Alex Jie Yang <span lang="zh">/ 杨杰</span></span><span>Science · People · Ideas</span></figcaption></figure>
   </section>
   <section id="research" class="research-section" aria-labelledby="research-title">
     <div class="section-heading"><p class="eyebrow">Research interests</p><h2 id="research-title">How does science advance?</h2><p class="section-description">Studying the structures and dynamics behind scientific discovery.</p></div>
