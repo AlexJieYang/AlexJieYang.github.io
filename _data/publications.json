@@ -289,7 +289,8 @@
     "doi_status": "verified",
     "doi_checked": "2026-11-06",
     "url": "",
-    "bibtex": "@article{pub18_2023,\n  author = {Yang, Alex J. and Deng, Sanhong and Wang, Hao and Zhang, Yiqin and Yang, Wenxia},\n  title = {{Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks}},\n  journal = {Journal of Informetrics},\n  year = {2023},\n  volume = {17},\n  number = {3},\n  pages = {101411},\n  doi = {10.1016/j.joi.2023.101411},\n  url = {https://doi.org/10.1016/j.joi.2023.101411}\n}"
+    "bibtex": "@article{pub18_2023,\n  author = {Yang, Alex J. and Deng, Sanhong and Wang, Hao and Zhang, Yiqin and Yang, Wenxia},\n  title = {{Disruptive coefficient and 2-step disruptive coefficient: Novel measures for identifying vital nodes in complex networks}},\n  journal = {Journal of Informetrics},\n  year = {2023},\n  volume = {17},\n  number = {3},\n  pages = {101411},\n  doi = {10.1016/j.joi.2023.101411},\n  url = {https://doi.org/10.1016/j.joi.2023.101411}\n}",
+    "abstract": "The identification and ranking of vital nodes in complex networks have been a critical issue for a long time. In this paper, we present an extension of existing disruptive metrics and introduce new ones, namely the disruptive coefficient (D) and 2-step disruptive coefficient (2-step D), as innovative tools for identifying critical nodes in complex networks. Our approach emphasizes the importance of disruptiveness in characterizing nodes within the network and detecting their criticality. Our new measures take into account both prior and posterior information of the focal nodes, by evaluating their ability to disrupt the previous network paradigm, setting them apart from traditional measures. We conduct an empirical analysis of four real-world networks to compare the rankings or identification of nodes using D and 2stepD with those obtained from four renowned benchmark measures, namely, degree, h-index, PageRank, and the CD index. Our analysis reveals significant differences between the nodes identified by D and 2stepD and those identified by the benchmark measures. We also examine the correlation coefficient and efficiency of the metrics and find that D and 2stepD have significant correlations with the CD index, but have weak correlations with the benchmark measures. Furthermore, we show that D and 2stepD outperform CD index and random ways in intentional attacks. We find power law distributions for D, 2stepD, and CD, indicating a small number of highly disruptive nodes and a large number of less disruptive nodes in the networks. Our results suggest that D and 2stepD are capable of providing valuable and distinct insights for identifying critical nodes in complex networks."
   },
   {
     "id": "pub-19",
@@ -524,12 +525,9 @@
     "authors": "杨杰, 柳美君, 步一, 赵星, 邓三鸿*",
     "title": "组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角",
     "reference": "情报学报, 2025, 44(3): 325-338",
-    "doi": "10.3772/j.issn.1000-0135.2025.03.006",
-    "citation": "杨杰, 柳美君, 步一, 赵星, 邓三鸿. 组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角[J]. 情报学报, 2025, 44(3): 325-338. https://doi.org/10.3772/j.issn.1000-0135.2025.03.006",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "杨杰, 柳美君, 步一, 赵星, 邓三鸿. 组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角[J]. 情报学报, 2025, 44(3): 325-338.",
     "url": "",
-    "bibtex": "@article{pub33_2025,\n  author = {{杨杰} and {柳美君} and {步一} and {赵星} and {邓三鸿}},\n  title = {{组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角}},\n  journal = {情报学报},\n  year = {2025},\n  volume = {44},\n  number = {3},\n  pages = {325--338},\n  doi = {10.3772/j.issn.1000-0135.2025.03.006},\n  url = {https://doi.org/10.3772/j.issn.1000-0135.2025.03.006}\n}"
+    "bibtex": "@article{pub33_2025,\n  author = {{杨杰} and {柳美君} and {步一} and {赵星} and {邓三鸿}},\n  title = {{组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角}},\n  journal = {情报学报},\n  year = {2025},\n  volume = {44},\n  number = {3},\n  pages = {325--338}\n}"
   },
   {
     "id": "pub-34",
@@ -540,12 +538,9 @@
     "authors": "杨杰, 王左戎, 邓三鸿*, 王昊, 章学周",
     "title": "基于参考文献的论文跨学科性、跨时域性及其影响力研究",
     "reference": "情报学报, 2024, 43(9): 1003-1014",
-    "doi": "10.3772/j.issn.1000-0135.2024.09.001",
-    "citation": "杨杰, 王左戎, 邓三鸿, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究[J]. 情报学报, 2024, 43(9): 1003-1014. doi: 10.3772/j.issn.1000-0135.2024.09.001. https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2024.09.001",
-    "doi_status": "unresolved",
-    "doi_checked": "2026-11-06",
-    "url": "https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2024.09.001",
-    "bibtex": "@article{pub34_2024,\n  author = {{杨杰} and {王左戎} and {邓三鸿} and {王昊} and {章学周}},\n  title = {{基于参考文献的论文跨学科性、跨时域性及其影响力研究}},\n  journal = {情报学报},\n  year = {2024},\n  volume = {43},\n  number = {9},\n  pages = {1003--1014},\n  doi = {10.3772/j.issn.1000-0135.2024.09.001},\n  url = {https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2024.09.001}\n}"
+    "citation": "杨杰, 王左戎, 邓三鸿, 王昊, 章学周. 基于参考文献的论文跨学科性、跨时域性及其影响力研究[J]. 情报学报, 2024, 43(9): 1003-1014.",
+    "url": "",
+    "bibtex": "@article{pub34_2024,\n  author = {{杨杰} and {王左戎} and {邓三鸿} and {王昊} and {章学周}},\n  title = {{基于参考文献的论文跨学科性、跨时域性及其影响力研究}},\n  journal = {情报学报},\n  year = {2024},\n  volume = {43},\n  number = {9},\n  pages = {1003--1014}\n}"
   },
   {
     "id": "pub-35",
@@ -556,12 +551,9 @@
     "authors": "杨杰, 邓三鸿*, 王昊",
     "title": "科学研究的颠覆性创新测度——相对颠覆性指数",
     "reference": "情报学报, 2023, 42(9): 1052-1064",
-    "doi": "10.3772/j.issn.1000-0135.2023.09.005",
-    "citation": "杨杰, 邓三鸿, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数[J]. 情报学报, 2023, 42(9): 1052-1064. https://doi.org/10.3772/j.issn.1000-0135.2023.09.005",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "杨杰, 邓三鸿, 王昊. 科学研究的颠覆性创新测度——相对颠覆性指数[J]. 情报学报, 2023, 42(9): 1052-1064.",
     "url": "",
-    "bibtex": "@article{pub35_2023,\n  author = {{杨杰} and {邓三鸿} and {王昊}},\n  title = {{科学研究的颠覆性创新测度——相对颠覆性指数}},\n  journal = {情报学报},\n  year = {2023},\n  volume = {42},\n  number = {9},\n  pages = {1052--1064},\n  doi = {10.3772/j.issn.1000-0135.2023.09.005},\n  url = {https://doi.org/10.3772/j.issn.1000-0135.2023.09.005}\n}"
+    "bibtex": "@article{pub35_2023,\n  author = {{杨杰} and {邓三鸿} and {王昊}},\n  title = {{科学研究的颠覆性创新测度——相对颠覆性指数}},\n  journal = {情报学报},\n  year = {2023},\n  volume = {42},\n  number = {9},\n  pages = {1052--1064}\n}"
   },
   {
     "id": "pub-36",
@@ -572,12 +564,9 @@
     "authors": "杨杰, 孔嘉, 张艺炜, 王昊, 邓三鸿*",
     "title": "融合论文颠覆性与巩固性的学者二元影响力测度",
     "reference": "情报学报, 2023, 42(12): 1412-1423",
-    "doi": "10.3772/j.issn.1000-0135.2023.12.002",
-    "citation": "杨杰, 孔嘉, 张艺炜, 王昊, 邓三鸿. 融合论文颠覆性与巩固性的学者二元影响力测度[J]. 情报学报, 2023, 42(12): 1412-1423. https://doi.org/10.3772/j.issn.1000-0135.2023.12.002",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "杨杰, 孔嘉, 张艺炜, 王昊, 邓三鸿. 融合论文颠覆性与巩固性的学者二元影响力测度[J]. 情报学报, 2023, 42(12): 1412-1423.",
     "url": "",
-    "bibtex": "@article{pub36_2023,\n  author = {{杨杰} and {孔嘉} and {张艺炜} and {王昊} and {邓三鸿}},\n  title = {{融合论文颠覆性与巩固性的学者二元影响力测度}},\n  journal = {情报学报},\n  year = {2023},\n  volume = {42},\n  number = {12},\n  pages = {1412--1423},\n  doi = {10.3772/j.issn.1000-0135.2023.12.002},\n  url = {https://doi.org/10.3772/j.issn.1000-0135.2023.12.002}\n}"
+    "bibtex": "@article{pub36_2023,\n  author = {{杨杰} and {孔嘉} and {张艺炜} and {王昊} and {邓三鸿}},\n  title = {{融合论文颠覆性与巩固性的学者二元影响力测度}},\n  journal = {情报学报},\n  year = {2023},\n  volume = {42},\n  number = {12},\n  pages = {1412--1423}\n}"
   },
   {
     "id": "pub-37",
@@ -588,12 +577,9 @@
     "authors": "彭兆祺, 石斌, 杨杰, 邓三鸿*",
     "title": "基于XGBoost-SHAP框架的科研合作频次归因分析",
     "reference": "情报学报, 2026, 45(3): 332-349",
-    "doi": "10.3772/j.issn.1000-0135.2026.03.002",
-    "citation": "彭兆祺, 石斌, 杨杰, 邓三鸿. 基于XGBoost-SHAP框架的科研合作频次归因分析[J]. 情报学报, 2026, 45(3): 332-349. doi: 10.3772/j.issn.1000-0135.2026.03.002. https://qbxb.istic.ac.cn/CN/abstract/abstract995.shtml",
-    "doi_status": "unresolved",
-    "doi_checked": "2026-11-06",
+    "citation": "彭兆祺, 石斌, 杨杰, 邓三鸿. 基于XGBoost-SHAP框架的科研合作频次归因分析[J]. 情报学报, 2026, 45(3): 332-349. https://qbxb.istic.ac.cn/CN/abstract/abstract995.shtml",
     "url": "https://qbxb.istic.ac.cn/CN/abstract/abstract995.shtml",
-    "bibtex": "@article{pub37_2026,\n  author = {{彭兆祺} and {石斌} and {杨杰} and {邓三鸿}},\n  title = {{基于XGBoost-SHAP框架的科研合作频次归因分析}},\n  journal = {情报学报},\n  year = {2026},\n  volume = {45},\n  number = {3},\n  pages = {332--349},\n  doi = {10.3772/j.issn.1000-0135.2026.03.002},\n  url = {https://qbxb.istic.ac.cn/CN/abstract/abstract995.shtml}\n}"
+    "bibtex": "@article{pub37_2026,\n  author = {{彭兆祺} and {石斌} and {杨杰} and {邓三鸿}},\n  title = {{基于XGBoost-SHAP框架的科研合作频次归因分析}},\n  journal = {情报学报},\n  year = {2026},\n  volume = {45},\n  number = {3},\n  pages = {332--349},\n  url = {https://qbxb.istic.ac.cn/CN/abstract/abstract995.shtml}\n}"
   },
   {
     "id": "pub-38",
@@ -604,12 +590,9 @@
     "authors": "郭剑明, 杨杰, 宋欣雨, 刘倩, 邓三鸿*",
     "title": "基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究",
     "reference": "情报学报, 2026, 45(8): 1092-1105",
-    "doi": "10.3772/j.issn.1000-0135.2026.08.002",
-    "citation": "郭剑明, 杨杰, 宋欣雨, 刘倩, 邓三鸿. 基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究[J]. 情报学报, 2026, 45(8): 1092-1105. doi: 10.3772/j.issn.1000-0135.2026.08.002. https://qbxb.istic.ac.cn/CN/Y2026/V45/I8/1092",
-    "doi_status": "unresolved",
-    "doi_checked": "2026-11-06",
+    "citation": "郭剑明, 杨杰, 宋欣雨, 刘倩, 邓三鸿. 基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究[J]. 情报学报, 2026, 45(8): 1092-1105. https://qbxb.istic.ac.cn/CN/Y2026/V45/I8/1092",
     "url": "https://qbxb.istic.ac.cn/CN/Y2026/V45/I8/1092",
-    "bibtex": "@article{pub38_2026,\n  author = {{郭剑明} and {杨杰} and {宋欣雨} and {刘倩} and {邓三鸿}},\n  title = {{基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究}},\n  journal = {情报学报},\n  year = {2026},\n  volume = {45},\n  number = {8},\n  pages = {1092--1105},\n  doi = {10.3772/j.issn.1000-0135.2026.08.002},\n  url = {https://qbxb.istic.ac.cn/CN/Y2026/V45/I8/1092}\n}"
+    "bibtex": "@article{pub38_2026,\n  author = {{郭剑明} and {杨杰} and {宋欣雨} and {刘倩} and {邓三鸿}},\n  title = {{基于单纯形的专利合作高阶拓扑结构测度及创新产出关系研究}},\n  journal = {情报学报},\n  year = {2026},\n  volume = {45},\n  number = {8},\n  pages = {1092--1105},\n  url = {https://qbxb.istic.ac.cn/CN/Y2026/V45/I8/1092}\n}"
   },
   {
     "id": "pub-39",
@@ -620,12 +603,9 @@
     "authors": "柳美君, 杨杰, 杨斯杰, 闵超*",
     "title": "中国与“一带一路”沿线国家的科技人才流动研究",
     "reference": "科学学研究, 2025, 43(3): 488-506",
-    "doi": "10.16192/j.cnki.1003-2053.20240417.001",
-    "citation": "柳美君, 杨杰, 杨斯杰, 闵超. 中国与“一带一路”沿线国家的科技人才流动研究[J]. 科学学研究, 2025, 43(3): 488-506. https://doi.org/10.16192/j.cnki.1003-2053.20240417.001",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "柳美君, 杨杰, 杨斯杰, 闵超. 中国与“一带一路”沿线国家的科技人才流动研究[J]. 科学学研究, 2025, 43(3): 488-506.",
     "url": "",
-    "bibtex": "@article{pub39_2025,\n  author = {{柳美君} and {杨杰} and {杨斯杰} and {闵超}},\n  title = {{中国与“一带一路”沿线国家的科技人才流动研究}},\n  journal = {科学学研究},\n  year = {2025},\n  volume = {43},\n  number = {3},\n  pages = {488--506},\n  doi = {10.16192/j.cnki.1003-2053.20240417.001},\n  url = {https://doi.org/10.16192/j.cnki.1003-2053.20240417.001}\n}"
+    "bibtex": "@article{pub39_2025,\n  author = {{柳美君} and {杨杰} and {杨斯杰} and {闵超}},\n  title = {{中国与“一带一路”沿线国家的科技人才流动研究}},\n  journal = {科学学研究},\n  year = {2025},\n  volume = {43},\n  number = {3},\n  pages = {488--506}\n}"
   },
   {
     "id": "pub-40",
@@ -636,12 +616,9 @@
     "authors": "柳美君, 杨杰, 石静, 步一*",
     "title": "中国内地科技人才跨境流动网络多样性与互惠性",
     "reference": "科学学研究, 2025, 43(9): 1924-1937",
-    "doi": "10.16192/j.cnki.1003-2053.20240725.002",
-    "citation": "柳美君, 杨杰, 石静, 步一. 中国内地科技人才跨境流动网络多样性与互惠性[J]. 科学学研究, 2025, 43(9): 1924-1937. https://doi.org/10.16192/j.cnki.1003-2053.20240725.002",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "柳美君, 杨杰, 石静, 步一. 中国内地科技人才跨境流动网络多样性与互惠性[J]. 科学学研究, 2025, 43(9): 1924-1937.",
     "url": "",
-    "bibtex": "@article{pub40_2025,\n  author = {{柳美君} and {杨杰} and {石静} and {步一}},\n  title = {{中国内地科技人才跨境流动网络多样性与互惠性}},\n  journal = {科学学研究},\n  year = {2025},\n  volume = {43},\n  number = {9},\n  pages = {1924--1937},\n  doi = {10.16192/j.cnki.1003-2053.20240725.002},\n  url = {https://doi.org/10.16192/j.cnki.1003-2053.20240725.002}\n}"
+    "bibtex": "@article{pub40_2025,\n  author = {{柳美君} and {杨杰} and {石静} and {步一}},\n  title = {{中国内地科技人才跨境流动网络多样性与互惠性}},\n  journal = {科学学研究},\n  year = {2025},\n  volume = {43},\n  number = {9},\n  pages = {1924--1937}\n}"
   },
   {
     "id": "pub-41",
@@ -652,12 +629,9 @@
     "authors": "杨杰, 吴琳伟, 邓三鸿*",
     "title": "颠覆性技术视角下科技伦理的敏捷治理框架探讨",
     "reference": "中国科学基金, 2023, 37(3): 378-386",
-    "doi": "10.16262/j.cnki.1000-8217.2023.03.005",
-    "citation": "杨杰, 吴琳伟, 邓三鸿. 颠覆性技术视角下科技伦理的敏捷治理框架探讨[J]. 中国科学基金, 2023, 37(3): 378-386. https://doi.org/10.16262/j.cnki.1000-8217.2023.03.005",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "杨杰, 吴琳伟, 邓三鸿. 颠覆性技术视角下科技伦理的敏捷治理框架探讨[J]. 中国科学基金, 2023, 37(3): 378-386.",
     "url": "",
-    "bibtex": "@article{pub41_2023,\n  author = {{杨杰} and {吴琳伟} and {邓三鸿}},\n  title = {{颠覆性技术视角下科技伦理的敏捷治理框架探讨}},\n  journal = {中国科学基金},\n  year = {2023},\n  volume = {37},\n  number = {3},\n  pages = {378--386},\n  doi = {10.16262/j.cnki.1000-8217.2023.03.005},\n  url = {https://doi.org/10.16262/j.cnki.1000-8217.2023.03.005}\n}"
+    "bibtex": "@article{pub41_2023,\n  author = {{杨杰} and {吴琳伟} and {邓三鸿}},\n  title = {{颠覆性技术视角下科技伦理的敏捷治理框架探讨}},\n  journal = {中国科学基金},\n  year = {2023},\n  volume = {37},\n  number = {3},\n  pages = {378--386}\n}"
   },
   {
     "id": "pub-42",
@@ -668,12 +642,9 @@
     "authors": "杨杰*, 赵星",
     "title": "大数据专业培养内容的主题分析及对图情档学科的启示",
     "reference": "图书情报工作, 2022, 66(2): 109-116",
-    "doi": "10.13266/j.issn.0252-3116.2022.02.012",
-    "citation": "杨杰, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示[J]. 图书情报工作, 2022, 66(2): 109-116. https://doi.org/10.13266/j.issn.0252-3116.2022.02.012",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "杨杰, 赵星. 大数据专业培养内容的主题分析及对图情档学科的启示[J]. 图书情报工作, 2022, 66(2): 109-116.",
     "url": "",
-    "bibtex": "@article{pub42_2022,\n  author = {{杨杰} and {赵星}},\n  title = {{大数据专业培养内容的主题分析及对图情档学科的启示}},\n  journal = {图书情报工作},\n  year = {2022},\n  volume = {66},\n  number = {2},\n  pages = {109--116},\n  doi = {10.13266/j.issn.0252-3116.2022.02.012},\n  url = {https://doi.org/10.13266/j.issn.0252-3116.2022.02.012}\n}"
+    "bibtex": "@article{pub42_2022,\n  author = {{杨杰} and {赵星}},\n  title = {{大数据专业培养内容的主题分析及对图情档学科的启示}},\n  journal = {图书情报工作},\n  year = {2022},\n  volume = {66},\n  number = {2},\n  pages = {109--116}\n}"
   },
   {
     "id": "pub-43",
@@ -684,10 +655,7 @@
     "authors": "王浩, 陈鑫, 彭兆祺, 杨杰, 邓三鸿*",
     "title": "融合引文多元关系与双维模型的学科关键知识路径分析——以信息资源管理学科为例",
     "reference": "图书情报工作, 2026: 1-10 (advance online publication)",
-    "doi": "",
     "citation": "王浩, 陈鑫, 彭兆祺, 杨杰, 邓三鸿. 融合引文多元关系与双维模型的学科关键知识路径分析——以信息资源管理学科为例[J/OL]. 图书情报工作, 2026: 1-10 (advance online publication). https://link.cnki.net/urlid/11.1541.G2.20260915.1009.010",
-    "doi_status": "no-doi-found",
-    "doi_checked": "2026-11-06",
     "url": "https://link.cnki.net/urlid/11.1541.G2.20260915.1009.010",
     "status": "Advance online publication",
     "bibtex": "@article{pub43_2026,\n  author = {{王浩} and {陈鑫} and {彭兆祺} and {杨杰} and {邓三鸿}},\n  title = {{融合引文多元关系与双维模型的学科关键知识路径分析——以信息资源管理学科为例}},\n  journal = {图书情报工作},\n  year = {2026},\n  pages = {1--10},\n  url = {https://link.cnki.net/urlid/11.1541.G2.20260915.1009.010},\n  note = {Advance online publication}\n}"
@@ -701,12 +669,9 @@
     "authors": "闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿*",
     "title": "学者合作网络外部影响力与学术成就的关系研究",
     "reference": "图书情报工作, 2025, 69(2): 96-107",
-    "doi": "10.13266/j.issn.0252-3116.2025.02.009",
-    "citation": "闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿. 学者合作网络外部影响力与学术成就的关系研究[J]. 图书情报工作, 2025, 69(2): 96-107. https://doi.org/10.13266/j.issn.0252-3116.2025.02.009",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "闫晓慧, 杨杰, 杨文霞, 王昊, 邓三鸿. 学者合作网络外部影响力与学术成就的关系研究[J]. 图书情报工作, 2025, 69(2): 96-107.",
     "url": "",
-    "bibtex": "@article{pub44_2025,\n  author = {{闫晓慧} and {杨杰} and {杨文霞} and {王昊} and {邓三鸿}},\n  title = {{学者合作网络外部影响力与学术成就的关系研究}},\n  journal = {图书情报工作},\n  year = {2025},\n  volume = {69},\n  number = {2},\n  pages = {96--107},\n  doi = {10.13266/j.issn.0252-3116.2025.02.009},\n  url = {https://doi.org/10.13266/j.issn.0252-3116.2025.02.009}\n}"
+    "bibtex": "@article{pub44_2025,\n  author = {{闫晓慧} and {杨杰} and {杨文霞} and {王昊} and {邓三鸿}},\n  title = {{学者合作网络外部影响力与学术成就的关系研究}},\n  journal = {图书情报工作},\n  year = {2025},\n  volume = {69},\n  number = {2},\n  pages = {96--107}\n}"
   },
   {
     "id": "pub-45",
@@ -717,12 +682,9 @@
     "authors": "胡乐天, 杨杰, 王凡铭, 邓三鸿*",
     "title": "大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架",
     "reference": "图书情报知识, 2026, 43(4): 28-42",
-    "doi": "10.13366/j.dik.2026.04.028",
-    "citation": "胡乐天, 杨杰, 王凡铭, 邓三鸿. 大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架[J]. 图书情报知识, 2026, 43(4): 28-42. https://doi.org/10.13366/j.dik.2026.04.028",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "胡乐天, 杨杰, 王凡铭, 邓三鸿. 大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架[J]. 图书情报知识, 2026, 43(4): 28-42.",
     "url": "",
-    "bibtex": "@article{pub45_2026,\n  author = {{胡乐天} and {杨杰} and {王凡铭} and {邓三鸿}},\n  title = {{大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架}},\n  journal = {图书情报知识},\n  year = {2026},\n  volume = {43},\n  number = {4},\n  pages = {28--42},\n  doi = {10.13366/j.dik.2026.04.028},\n  url = {https://doi.org/10.13366/j.dik.2026.04.028}\n}"
+    "bibtex": "@article{pub45_2026,\n  author = {{胡乐天} and {杨杰} and {王凡铭} and {邓三鸿}},\n  title = {{大语言模型在学术写作中的渗透程度及其结构特征——基于群体文本词汇分布的测度框架}},\n  journal = {图书情报知识},\n  year = {2026},\n  volume = {43},\n  number = {4},\n  pages = {28--42}\n}"
   },
   {
     "id": "pub-46",
@@ -733,12 +695,9 @@
     "authors": "巩洪村, 邓三鸿, 杨杰, 孔嘉, 曹高辉*",
     "title": "组态视角下Y世代移动数字过度使用的影响因素研究",
     "reference": "图书情报知识, 2024, 41(5): 128-137,149",
-    "doi": "10.13366/j.dik.2024.05.128",
-    "citation": "巩洪村, 邓三鸿, 杨杰, 孔嘉, 曹高辉. 组态视角下Y世代移动数字过度使用的影响因素研究[J]. 图书情报知识, 2024, 41(5): 128-137,149. https://doi.org/10.13366/j.dik.2024.05.128",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "巩洪村, 邓三鸿, 杨杰, 孔嘉, 曹高辉. 组态视角下Y世代移动数字过度使用的影响因素研究[J]. 图书情报知识, 2024, 41(5): 128-137,149.",
     "url": "",
-    "bibtex": "@article{pub46_2024,\n  author = {{巩洪村} and {邓三鸿} and {杨杰} and {孔嘉} and {曹高辉}},\n  title = {{组态视角下Y世代移动数字过度使用的影响因素研究}},\n  journal = {图书情报知识},\n  year = {2024},\n  volume = {41},\n  number = {5},\n  pages = {128--137,149},\n  doi = {10.13366/j.dik.2024.05.128},\n  url = {https://doi.org/10.13366/j.dik.2024.05.128}\n}"
+    "bibtex": "@article{pub46_2024,\n  author = {{巩洪村} and {邓三鸿} and {杨杰} and {孔嘉} and {曹高辉}},\n  title = {{组态视角下Y世代移动数字过度使用的影响因素研究}},\n  journal = {图书情报知识},\n  year = {2024},\n  volume = {41},\n  number = {5},\n  pages = {128--137,149}\n}"
   },
   {
     "id": "pub-47",
@@ -749,10 +708,7 @@
     "authors": "宋欣雨, 杨杰, 郭剑明, 张逸勤, 邓三鸿*",
     "title": "团队规模、知识基础与学术影响力的协同演化及其学科差异",
     "reference": "图书馆论坛, 2026: 1-13",
-    "doi": "",
     "citation": "宋欣雨, 杨杰, 郭剑明, 张逸勤, 邓三鸿. 团队规模、知识基础与学术影响力的协同演化及其学科差异[J/OL]. 图书馆论坛, 2026: 1-13. https://link.cnki.net/urlid/44.1306.G2.20260727.1832.006",
-    "doi_status": "no-doi-found",
-    "doi_checked": "2026-11-06",
     "url": "https://link.cnki.net/urlid/44.1306.G2.20260727.1832.006",
     "status": "Advance online publication",
     "bibtex": "@article{pub47_2026,\n  author = {{宋欣雨} and {杨杰} and {郭剑明} and {张逸勤} and {邓三鸿}},\n  title = {{团队规模、知识基础与学术影响力的协同演化及其学科差异}},\n  journal = {图书馆论坛},\n  year = {2026},\n  pages = {1--13},\n  url = {https://link.cnki.net/urlid/44.1306.G2.20260727.1832.006},\n  note = {Advance online publication}\n}"
@@ -766,10 +722,7 @@
     "authors": "宋欣雨, 杨杰, 彭兆祺, 王左戎, 邓三鸿*",
     "title": "卓越引证指数：基于高被引论文引证效力的影响力评估方法",
     "reference": "图书馆论坛, 2026: 1-11",
-    "doi": "",
     "citation": "宋欣雨, 杨杰, 彭兆祺, 王左戎, 邓三鸿. 卓越引证指数：基于高被引论文引证效力的影响力评估方法[J/OL]. 图书馆论坛, 2026: 1-11. https://link.cnki.net/urlid/44.1306.G2.20260727.1508.004",
-    "doi_status": "no-doi-found",
-    "doi_checked": "2026-11-06",
     "url": "https://link.cnki.net/urlid/44.1306.G2.20260727.1508.004",
     "status": "Advance online publication",
     "bibtex": "@article{pub48_2026,\n  author = {{宋欣雨} and {杨杰} and {彭兆祺} and {王左戎} and {邓三鸿}},\n  title = {{卓越引证指数：基于高被引论文引证效力的影响力评估方法}},\n  journal = {图书馆论坛},\n  year = {2026},\n  pages = {1--11},\n  url = {https://link.cnki.net/urlid/44.1306.G2.20260727.1508.004},\n  note = {Advance online publication}\n}"
@@ -783,10 +736,7 @@
     "authors": "张逸勤, 邓三鸿, 巩洪村, 杨杰, 刘浏",
     "title": "面向AI4Science的科学论文图像语义描述框架体系构建研究",
     "reference": "图书馆杂志, 2026, 45(5): 15-26",
-    "doi": "",
     "citation": "张逸勤, 邓三鸿, 巩洪村, 杨杰, 刘浏. 面向AI4Science的科学论文图像语义描述框架体系构建研究[J]. 图书馆杂志, 2026, 45(5): 15-26. https://www.libraryjournal.com.cn/CN/abstract/abstract3130.shtml",
-    "doi_status": "no-doi-found",
-    "doi_checked": "2026-11-06",
     "url": "https://www.libraryjournal.com.cn/CN/abstract/abstract3130.shtml",
     "bibtex": "@article{pub49_2026,\n  author = {{张逸勤} and {邓三鸿} and {巩洪村} and {杨杰} and {刘浏}},\n  title = {{面向AI4Science的科学论文图像语义描述框架体系构建研究}},\n  journal = {图书馆杂志},\n  year = {2026},\n  volume = {45},\n  number = {5},\n  pages = {15--26},\n  url = {https://www.libraryjournal.com.cn/CN/abstract/abstract3130.shtml}\n}"
   },
@@ -799,10 +749,7 @@
     "authors": "张琪, 马瑞敏, 杨杰, 王左戎, 邓三鸿*",
     "title": "融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法",
     "reference": "情报理论与实践, 2026, 49(2):126-133+81",
-    "doi": "",
     "citation": "张琪, 马瑞敏, 杨杰, 王左戎, 邓三鸿. 融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法[J]. 情报理论与实践, 2026, 49(2):126-133+81.",
-    "doi_status": "no-doi-found",
-    "doi_checked": "2026-11-06",
     "url": "",
     "bibtex": "@article{pub50_2026,\n  author = {{张琪} and {马瑞敏} and {杨杰} and {王左戎} and {邓三鸿}},\n  title = {{融合颠覆性与巩固性引文特征识别领域突破性论文——基于可解释性机器学习方法}},\n  journal = {情报理论与实践},\n  year = {2026},\n  volume = {49},\n  number = {2},\n  pages = {126--133,81}\n}"
   },
@@ -815,10 +762,7 @@
     "authors": "郭剑明, 杨杰, 方静, 邓三鸿*",
     "title": "基于高阶网络结构的核心专利识别方法研究",
     "reference": "情报理论与实践, 2026, 49(1):106-114+149",
-    "doi": "",
     "citation": "郭剑明, 杨杰, 方静, 邓三鸿. 基于高阶网络结构的核心专利识别方法研究[J]. 情报理论与实践, 2026, 49(1):106-114+149.",
-    "doi_status": "no-doi-found",
-    "doi_checked": "2026-11-06",
     "url": "",
     "bibtex": "@article{pub51_2026,\n  author = {{郭剑明} and {杨杰} and {方静} and {邓三鸿}},\n  title = {{基于高阶网络结构的核心专利识别方法研究}},\n  journal = {情报理论与实践},\n  year = {2026},\n  volume = {49},\n  number = {1},\n  pages = {106--114,149}\n}"
   },
@@ -831,10 +775,7 @@
     "authors": "赵志洋, 杨杰, 吴娜, 王昊, 邓三鸿*",
     "title": "专利颠覆性潜力识别的双维融合框架：以新型储能技术为例",
     "reference": "情报理论与实践, 2026: 1-13",
-    "doi": "",
     "citation": "赵志洋, 杨杰, 吴娜, 王昊, 邓三鸿. 专利颠覆性潜力识别的双维融合框架：以新型储能技术为例[J/OL]. 情报理论与实践, 2026: 1-13.",
-    "doi_status": "unverified",
-    "doi_checked": "2026-11-06",
     "url": "",
     "bibtex": "@article{pub52_2026,\n  author = {{赵志洋} and {杨杰} and {吴娜} and {王昊} and {邓三鸿}},\n  title = {{专利颠覆性潜力识别的双维融合框架：以新型储能技术为例}},\n  journal = {情报理论与实践},\n  year = {2026}\n}"
   },
@@ -847,10 +788,7 @@
     "authors": "张逸勤, 杨杰, 宋欣雨, 邓三鸿*, 赵星",
     "title": "代表作评价模式的定量探析——基于诺贝尔奖得主的实证",
     "reference": "情报理论与实践, 2025",
-    "doi": "",
     "citation": "张逸勤, 杨杰, 宋欣雨, 邓三鸿, 赵星. 代表作评价模式的定量探析——基于诺贝尔奖得主的实证[J]. 情报理论与实践, 2025.",
-    "doi_status": "no-doi-found",
-    "doi_checked": "2026-11-06",
     "url": "",
     "bibtex": "@article{pub53_2025,\n  author = {{张逸勤} and {杨杰} and {宋欣雨} and {邓三鸿} and {赵星}},\n  title = {{代表作评价模式的定量探析——基于诺贝尔奖得主的实证}},\n  journal = {情报理论与实践},\n  year = {2025}\n}"
   },
@@ -863,10 +801,7 @@
     "authors": "杨文霞, 邓三鸿*, 杨杰, 张琪, 王昊",
     "title": "基于非参数检验的文献漏引行为表现特征分析",
     "reference": "情报科学,2024,42(07):76-83",
-    "doi": "",
     "citation": "杨文霞, 邓三鸿, 杨杰, 张琪, 王昊. 基于非参数检验的文献漏引行为表现特征分析[J]. 情报科学,2024,42(07):76-83.",
-    "doi_status": "no-doi-found",
-    "doi_checked": "2026-11-06",
     "url": "",
     "bibtex": "@article{pub54_2024,\n  author = {{杨文霞} and {邓三鸿} and {杨杰} and {张琪} and {王昊}},\n  title = {{基于非参数检验的文献漏引行为表现特征分析}},\n  journal = {情报科学},\n  year = {2024},\n  volume = {42},\n  number = {07},\n  pages = {76--83}\n}"
   },
@@ -879,12 +814,9 @@
     "authors": "邓三鸿, 杨杰, 王昊, 沈健威",
     "title": "多源异构数据视角下的学术评价:内涵、进展与展望",
     "reference": "科技情报研究, 2023, 5(04): 42-56",
-    "doi": "10.19809/j.cnki.kjqbyj.2023.04.004",
-    "citation": "邓三鸿, 杨杰, 王昊, 沈健威. 多源异构数据视角下的学术评价:内涵、进展与展望[J]. 科技情报研究, 2023, 5(04): 42-56. https://doi.org/10.19809/j.cnki.kjqbyj.2023.04.004",
-    "doi_status": "verified",
-    "doi_checked": "2026-11-06",
+    "citation": "邓三鸿, 杨杰, 王昊, 沈健威. 多源异构数据视角下的学术评价:内涵、进展与展望[J]. 科技情报研究, 2023, 5(04): 42-56.",
     "url": "",
-    "bibtex": "@article{pub55_2023,\n  author = {{邓三鸿} and {杨杰} and {王昊} and {沈健威}},\n  title = {{多源异构数据视角下的学术评价:内涵、进展与展望}},\n  journal = {科技情报研究},\n  year = {2023},\n  volume = {5},\n  number = {4},\n  pages = {42--56},\n  doi = {10.19809/j.cnki.kjqbyj.2023.04.004},\n  url = {https://doi.org/10.19809/j.cnki.kjqbyj.2023.04.004}\n}"
+    "bibtex": "@article{pub55_2023,\n  author = {{邓三鸿} and {杨杰} and {王昊} and {沈健威}},\n  title = {{多源异构数据视角下的学术评价:内涵、进展与展望}},\n  journal = {科技情报研究},\n  year = {2023},\n  volume = {5},\n  number = {4},\n  pages = {42--56}\n}"
   },
   {
     "id": "pub-56",

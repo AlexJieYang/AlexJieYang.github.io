@@ -15,7 +15,7 @@ redirect_from:
       <h1 id="profile-name">Alex Jie Yang<span class="hero-cn" lang="zh">杨杰</span></h1>
       <p class="affiliation"><a href="{{ site.data.profile.school_url }}">{{ site.data.profile.school }}</a><br><a href="{{ site.data.profile.institution_url }}">{{ site.data.profile.institution }}</a> <span class="location">· {{ site.data.profile.location }}</span></p>
       <p class="hero-intro">{{ site.data.profile.intro }}</p>
-      <div class="hero-actions"><a class="button" href="#publications">Browse publications <span aria-hidden="true">↓</span></a><a class="text-link" href="{{ '/cv/' | relative_url }}">Curriculum vitae <span aria-hidden="true">→</span></a></div>
+      <div class="hero-actions"><a class="button" href="#selected-publications">Browse publications <span aria-hidden="true">↓</span></a><a class="text-link" href="{{ '/cv/' | relative_url }}">Curriculum vitae <span aria-hidden="true">→</span></a></div>
       <div class="profile-links" aria-label="Academic profiles"><span class="email-text">{{ site.data.profile.email | escape }}</span><span aria-hidden="true">/</span><a href="https://orcid.org/{{ site.data.profile.orcid }}">ORCID</a><span aria-hidden="true">/</span><a href="{{ site.data.profile.researchgate }}">ResearchGate</a><span aria-hidden="true">/</span><a href="{{ site.data.profile.github }}">GitHub</a></div>
     </div>
     <figure class="hero-photo"><div class="photo-frame"><img src="{{ '/images/profile.png' | relative_url }}" width="1224" height="921" alt="Alex Jie Yang standing in an art gallery" fetchpriority="high" decoding="async"></div><figcaption><span>Alex Jie Yang <span lang="zh">/ 杨杰</span></span><span>Science · People · Ideas</span></figcaption></figure>
@@ -23,6 +23,10 @@ redirect_from:
   <section id="research" class="research-section" aria-labelledby="research-title">
     <div class="section-heading"><p class="eyebrow">Research interests</p><h2 id="research-title">How does science advance?</h2><p class="section-description">Studying the structures and dynamics behind scientific discovery.</p></div>
     <div class="research-grid">{% for topic in site.data.profile.topics %}<article class="research-topic"><span class="topic-number" aria-hidden="true">{{ topic.number }}</span><h3>{{ topic.title | escape }}</h3><p>{{ topic.description | escape }}</p><a class="text-link" href="{{ '/publications/' | relative_url }}?q={{ topic.query | url_encode }}">Related work <span aria-hidden="true">↗</span><span class="sr-only"> on {{ topic.title | escape }}</span></a></article>{% endfor %}</div>
+  </section>
+  <section id="selected-publications" class="selected-section" aria-labelledby="selected-publications-title">
+    <div class="section-heading"><p class="eyebrow">Research highlights</p><h2 id="selected-publications-title">Selected publications</h2><p class="section-description">First-author work in Nature Biotechnology, Nature, Science, Research Policy, and <span lang="zh">情报学报</span>.</p><a class="text-link" href="#publications">View all publications <span aria-hidden="true">↓</span></a></div>
+    <ol class="publication-list">{% for publication_id in site.data.profile.selected_publications %}{% assign selected_paper = site.data.publications | where: 'id', publication_id | first %}{% if selected_paper %}{% include academic/publication.html paper=selected_paper prefix="selected-" heading_level=3 %}{% endif %}{% endfor %}</ol>
   </section>
   <section id="publications" class="selected-section" aria-labelledby="publications-title">
     <div class="section-heading"><p class="eyebrow">Complete bibliography</p><h2 id="publications-title">All publications</h2><p class="section-description">Journal articles, perspectives, and conference papers. Open “Cite this paper” for a copyable reference or BibTeX entry.</p></div>

@@ -7,6 +7,7 @@
     <p class="publication-reference">{{ include.paper.reference | escape }}</p>
     {% if include.paper.doi_status == 'unresolved' %}{% if publication_url != '' %}<a class="doi-link" href="{{ publication_url | escape }}" aria-label="Publisher page for {{ include.paper.title | escape }}">Publisher page <span aria-hidden="true">↗</span></a>{% endif %}<span class="doi-status" lang="en">DOI: {{ publication_doi | escape }} · DOI resolution unavailable</span>{% elsif publication_doi != '' %}<a class="doi-link" href="{{ publication_url | escape }}" aria-label="DOI for {{ include.paper.title | escape }}">DOI <span aria-hidden="true">↗</span></a>{% elsif publication_url != '' %}<a class="doi-link" href="{{ publication_url | escape }}" aria-label="Paper: {{ include.paper.title | escape }}">Paper <span aria-hidden="true">↗</span></a>{% endif %}
     {% if include.paper.doi_status == 'unverified' %}<span class="doi-status" lang="en">DOI not yet verified</span>{% elsif include.paper.doi_status == 'no-doi-found' and publication_url == '' %}<span class="doi-status" lang="en">DOI not found</span>{% endif %}
+    {% if include.paper.abstract %}<details class="disclosure" lang="en"><summary>Abstract</summary><p>{{ include.paper.abstract | escape }}</p></details>{% endif %}
     <details class="citation-details" lang="en">
       <summary>Cite this paper<span class="sr-only">: {{ include.paper.title | escape }}</span></summary>
       <div class="citation-block">

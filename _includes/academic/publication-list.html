@@ -1,4 +1,4 @@
-<div class="publication-downloads" aria-label="Download citations"><a class="text-link" href="{{ '/files/publications.txt' | relative_url }}" download="Alex-Jie-Yang-Publications.txt">Download references <span aria-hidden="true">↓</span></a><a class="text-link" href="{{ '/files/publications.bib' | relative_url }}" download="Alex-Jie-Yang-Publications.bib">Download BibTeX <span aria-hidden="true">↓</span></a><a class="text-link" href="{{ '/files/doi-audit.json' | relative_url }}">DOI audit <span aria-hidden="true">↗</span></a></div>
+<div class="publication-downloads" aria-label="Download citations"><a class="text-link" href="{{ '/files/publications.txt' | relative_url }}" download="Alex-Jie-Yang-Publications.txt">Download references <span aria-hidden="true">↓</span></a><a class="text-link" href="{{ '/files/publications.bib' | relative_url }}" download="Alex-Jie-Yang-Publications.bib">Download BibTeX <span aria-hidden="true">↓</span></a></div>
 <form class="publication-filters" data-publication-filters role="search" aria-label="Filter publications" hidden>
   <div class="search-field"><label for="publication-search">Search publications</label><input id="publication-search" name="q" type="search" placeholder="Title, author, journal, or keyword…" autocomplete="off" aria-controls="publication-list"></div>
   <div><label for="publication-year">Year</label><select id="publication-year" name="year" aria-controls="publication-list"><option value="">All years</option>{% assign years = site.data.publications | map: 'year' | uniq | sort | reverse %}{% for year in years %}<option value="{{ year }}">{% if year > 0 %}{{ year }}{% else %}Not specified{% endif %}</option>{% endfor %}</select></div>
@@ -6,6 +6,28 @@
   <button class="reset-filters" type="reset" hidden>Clear filters</button>
 </form>
 <div class="results-meta"><p id="publication-count" role="status" aria-live="polite" aria-atomic="true">{{ site.data.publications | size }} publications</p><p>Years follow the bibliographic record · <abbr title="No date">n.d.</abbr> = year not specified</p></div>
-<ol id="publication-list" class="publication-list">{% assign papers = site.data.publications | sort: 'year' | reverse %}{% for paper in papers %}{% include academic/publication.html paper=paper heading_level=include.heading_level %}{% endfor %}</ol>
+{% assign group_heading = include.heading_level | default: 2 %}
+{% assign paper_heading = group_heading | plus: 1 %}
+{% assign papers = site.data.publications | sort: 'year' | reverse %}
+{% assign publication_categories = 'english-journals|english-conferences|chinese-journals' | split: '|' %}
+<div id="publication-list">
+  {% for category in publication_categories %}
+    {% case category %}
+      {% when 'english-journals' %}
+        {% assign category_title = 'English journal articles' %}
+        {% assign category_papers = papers | where: 'type', 'journal' | where: 'language', 'English' %}
+      {% when 'english-conferences' %}
+        {% assign category_title = 'English conference papers' %}
+        {% assign category_papers = papers | where: 'type', 'conference' | where: 'language', 'English' %}
+      {% when 'chinese-journals' %}
+        {% assign category_title = 'Chinese journal articles' %}
+        {% assign category_papers = papers | where: 'type', 'journal' | where: 'language', 'Chinese' %}
+    {% endcase %}
+    <section class="publication-group" data-publication-group aria-labelledby="{{ category }}-title">
+      <h{{ group_heading }} id="{{ category }}-title" class="publication-group-title">{{ category_title }}</h{{ group_heading }}>
+      <ol class="publication-list">{% for paper in category_papers %}{% include academic/publication.html paper=paper heading_level=paper_heading %}{% endfor %}</ol>
+    </section>
+  {% endfor %}
+</div>
 <div class="no-results" data-no-results hidden><p class="no-results-title">No publications found</p><p>Try another keyword, year, or publication type.</p><button class="button" type="button" data-clear-filters>Clear all filters</button></div>
 <noscript><p class="helper-text">All publications are shown. Open “Cite this paper” to select and copy a reference or BibTeX entry. Enable JavaScript to search, filter, and use the copy buttons.</p></noscript>

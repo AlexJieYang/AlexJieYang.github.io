@@ -100,6 +100,10 @@
     year: element.dataset.year,
     type: element.dataset.type,
   }));
+  const groups = Array.from(document.querySelectorAll('#publication-list [data-publication-group]'), (element) => ({
+    element,
+    papers: Array.from(element.querySelectorAll('[data-publication]')),
+  }));
 
   function readURL() {
     const params = new URLSearchParams(window.location.search);
@@ -119,6 +123,9 @@
         && words.every((word) => paper.text.includes(word));
       paper.element.hidden = !matches;
       if (matches) visible += 1;
+    });
+    groups.forEach((group) => {
+      group.element.hidden = !group.papers.some((paper) => !paper.hidden);
     });
     count.textContent = visible === papers.length
       ? `${papers.length} publications`
