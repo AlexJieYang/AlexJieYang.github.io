@@ -4,7 +4,7 @@ Personal website: https://alexjieyang.github.io
 
 A lightweight academic website built with Jekyll and GitHub Pages.
 
-## Update content
+## Content
 
 - `_data/profile.json`: biography, contact details, research interests, education, service, grants, honors, and the ordered `selected_publications` IDs.
 - `_data/publications.json`: the complete bibliography. Keep each publication's `id` stable and unique. Use `year: 0` only when the original record gives no year.
@@ -21,11 +21,11 @@ The complete bibliography appears on both the homepage and publications page, gr
 
 Chinese journal records omit DOI fields, DOI status messages, DOI links, and DOI information in citations and BibTeX. Non-DOI publisher and CNKI links are retained. For English records, store `doi` without the resolver prefix and use `doi_status` to distinguish verified, unresolved, unverified, and no-doi-found records.
 
-## Source records
+## Pages
 
-`_data/doi_audit.json` preserves the historical 2026-11-06 audit of 64 records, including identifiers deliberately omitted from the current Chinese bibliography. `_pages/doi-audit.json` retains its existing `/files/doi-audit.json` endpoint for reference. Recheck titles and authors against authoritative sources before changing an English DOI; do not infer identifiers or treat CNKI URLIDs as DOIs.
+The site provides a homepage, publications, CV, a 404 page, citation downloads, and a sitemap. The `/about/`, `/about.html`, and `/resume` paths redirect to the corresponding pages.
 
-The genuine abstract formerly stored in a sample publication file is preserved as `pub-18.abstract`. Unused AcademicPages sample pages, collections, comments, theme assets, fonts, map tooling, and sample bibliography generators have been removed. The current site retains its homepage, publications, CV, 404 page, citation downloads, sitemap, and `/about/`, `/about.html`, and `/resume` redirects.
+Publication titles, authors, and identifiers follow their bibliographic sources. CNKI URLIDs are publisher links rather than DOIs.
 
 ## Local preview
 
@@ -43,6 +43,15 @@ JEKYLL_ENV=production bundle exec jekyll build --trace
 ```
 
 The public site uses the repository's existing GitHub Pages deployment. It loads no external font, icon library, or JavaScript framework and supports keyboard navigation, reduced-motion preferences, and print styles.
+
+## Static checks
+
+```sh
+python tools/check_site.py
+node --check assets/js/academic.js
+```
+
+GitHub Actions checks bibliographic fields, selected-publication IDs, page routes, and JavaScript syntax. These checks do not build or publish the site.
 
 ## Credits
 

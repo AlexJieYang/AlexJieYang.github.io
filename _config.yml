@@ -23,6 +23,7 @@ exclude:
   - node_modules
   - vendor
   - tmp
+  - tools
 
 markdown: kramdown
 highlighter: rouge
