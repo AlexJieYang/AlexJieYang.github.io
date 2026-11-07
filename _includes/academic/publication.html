@@ -6,6 +6,7 @@
     <p class="publication-authors">{{ include.paper.authors | escape }}</p>
     <p class="publication-reference">{{ include.paper.reference | escape }}</p>
     {% if publication_doi != '' %}<a class="doi-link" href="{{ publication_url | escape }}" aria-label="DOI for {{ include.paper.title | escape }}">DOI <span aria-hidden="true">↗</span></a>{% elsif publication_url != '' %}<a class="doi-link" href="{{ publication_url | escape }}" aria-label="Paper: {{ include.paper.title | escape }}">Paper <span aria-hidden="true">↗</span></a>{% endif %}
+    {% assign publication_pdf = include.paper.pdf | default: '' %}{% if publication_pdf != '' %}<a class="doi-link pdf-link" href="{{ publication_pdf | escape }}" aria-label="PDF for {{ include.paper.title | escape }}">PDF <span aria-hidden="true">↗</span></a>{% endif %}
     {% if include.paper.abstract %}<details class="disclosure" lang="en"><summary>Abstract</summary><p>{{ include.paper.abstract | escape }}</p></details>{% endif %}
     <details class="citation-details" lang="en">
       <summary>Cite this paper<span class="sr-only">: {{ include.paper.title | escape }}</span></summary>

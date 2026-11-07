@@ -19,7 +19,7 @@ The homepage displays selected first-author publications from Nature Biotechnolo
 
 The complete bibliography appears on both the homepage and publications page, grouped as English journal articles, English conference papers, and Chinese journal articles. Each group uses `language` and `type` and sorts newest years first. All records remain readable without JavaScript; JavaScript adds search, year/type filters, shareable query URLs, and copy buttons. `_pages/publications.txt` and `_pages/publications.bib` generate downloadable references and BibTeX.
 
-Chinese journal records use publisher and CNKI links. English records can provide `doi` without the resolver prefix or a publisher `url`. Citation exports use the bibliographic fields stored with each record.
+Chinese journal records use publisher and CNKI links. English records can provide `doi` without the resolver prefix or a publisher `url`. Citation exports use the bibliographic fields stored with each record. Optional `pdf` fields link to verified matching PDFs in the `My-Papers-2023` through `My-Papers-2026` repositories. Only records with a nonempty `pdf` value show a PDF link; keep DOI and publisher links in their existing fields.
 
 ## Pages
 
