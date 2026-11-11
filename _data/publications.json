@@ -7,12 +7,12 @@
     "language": "English",
     "authors": "Yang, A. J.*, Freeman, R. B., & Deng, S.*",
     "title": "Scientific team structures behind FDA-approved drugs",
-    "reference": "Nature Biotechnology, accepted",
-    "doi": "",
-    "citation": "Yang, A. J., Freeman, R. B., & Deng, S. (2026). Scientific team structures behind FDA-approved drugs. Nature Biotechnology, accepted.",
-    "status": "Accepted",
+    "reference": "Nature Biotechnology, 44, 1786–1793",
+    "doi": "10.1038/s41587-026-03366-z",
+    "citation": "Yang, A. J., Freeman, R. B., & Deng, S. (2026). Scientific team structures behind FDA-approved drugs. Nature Biotechnology, 44, 1786–1793. https://doi.org/10.1038/s41587-026-03366-z",
     "url": "",
-    "bibtex": "@article{pub01_2026,\n  author = {Yang, A. J. and Freeman, R. B. and Deng, S.},\n  title = {{Scientific team structures behind FDA-approved drugs}},\n  journal = {Nature Biotechnology},\n  year = {2026},\n  note = {Accepted}\n}"
+    "bibtex": "@article{pub01_2026,\n  author = {Yang, A. J. and Freeman, R. B. and Deng, S.},\n  title = {{Scientific team structures behind FDA-approved drugs}},\n  journal = {Nature Biotechnology},\n  year = {2026},\n  volume = {44},\n  pages = {1786--1793},\n  doi = {10.1038/s41587-026-03366-z},\n  url = {https://doi.org/10.1038/s41587-026-03366-z}\n}",
+    "pdf": "https://raw.githubusercontent.com/AlexJieYang/My-Papers-2026/main/2026_NB_Patents_FDA.pdf"
   },
   {
     "id": "pub-02",
@@ -941,5 +941,20 @@
     "url": "",
     "bibtex": "@inproceedings{pub64_2023,\n  author = {Hu, H. and Yang, A. J. and Deng, S. and Wang, D. and Song, M. and Shen, S.},\n  title = {{A Generative Drug–Drug Interaction Triplets Extraction Framework Based on Large Language Models}},\n  booktitle = {Proceedings of the Association for Information Science and Technology},\n  year = {2023},\n  volume = {60},\n  number = {1},\n  pages = {980--982},\n  doi = {10.1002/pra2.918},\n  url = {https://doi.org/10.1002/pra2.918}\n}",
     "pdf": "https://raw.githubusercontent.com/AlexJieYang/My-Papers-2023/main/2023_ASIST_A%20Generative%20Drug%20Drug%20Interaction.pdf"
+  },
+  {
+    "id": "pub-65",
+    "year": 0,
+    "type": "journal",
+    "kind": "Journal article",
+    "language": "English",
+    "authors": "Guo, J., Yang, A. J.*, Zhao, Y., Wang, H., & Deng, S.*",
+    "title": "Historical higher-order collaboration topology and inventor-level patent outcomes",
+    "reference": "EPJ Data Science, accepted",
+    "doi": "",
+    "citation": "Guo, J., Yang, A. J., Zhao, Y., Wang, H., & Deng, S. (accepted). Historical higher-order collaboration topology and inventor-level patent outcomes. EPJ Data Science.",
+    "status": "Accepted",
+    "url": "",
+    "bibtex": "@article{pub65_accepted,\n  author = {Guo, Jianming and Yang, Alex Jie and Zhao, Yuehua and Wang, Hao and Deng, Sanhong},\n  title = {{Historical higher-order collaboration topology and inventor-level patent outcomes}},\n  journal = {EPJ Data Science},\n  note = {Accepted}\n}"
   }
 ]
