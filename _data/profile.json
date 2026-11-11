@@ -89,10 +89,22 @@
     "National Natural Science Foundation Project (71874056) (Participation)"
   ],
   "honors": [
-    "2026“中国社会科学博士论文文库” (博士论文入选)",
-    "2026 入选全球前2%顶尖科学家年度榜单 (斯坦福&爱思唯尔)",
-    "2026 上海科学技术情报成果一等奖",
-    "2026 华东地区科学技术情报成果奖二等奖",
+    {
+      "zh": "2026“中国社会科学博士论文文库” (博士论文入选)",
+      "en": "2026 Doctoral dissertation selected for the Chinese Social Sciences Doctoral Dissertation Series"
+    },
+    {
+      "zh": "2026 入选全球前2%顶尖科学家年度榜单 (斯坦福&爱思唯尔)",
+      "en": "2026 Named to the annual list of the World's Top 2% Scientists (Stanford–Elsevier)"
+    },
+    {
+      "zh": "2026 上海科学技术情报成果一等奖",
+      "en": "2026 First Prize, Shanghai Science and Technology Information Achievement Award"
+    },
+    {
+      "zh": "2026 华东地区科学技术情报成果奖二等奖",
+      "en": "2026 Second Prize, East China Science and Technology Information Achievement Award"
+    },
     "2023 IPM Ph.D. Best paper award winner, IPM & ELSEVIER",
     "2023 Honorable mention of the Eugene Garfield Doctoral Dissertation Scholarship, ISSI",
     "2023 The First \"Frontier Discussion on Science and Technology Ethics\" Essay Competition (Third Prize), CAST",

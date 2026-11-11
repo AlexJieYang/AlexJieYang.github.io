@@ -26,6 +26,7 @@ redirect_from:
   </section>
   <section id="selected-publications" class="selected-section" aria-labelledby="selected-publications-title">
     <div class="section-heading"><p class="eyebrow">Research highlights</p><h2 id="selected-publications-title">Selected publications</h2><p class="section-description">First-author work in Nature Biotechnology, Nature, Science, Research Policy, and <span lang="zh">情报学报</span>.</p><a class="text-link" href="#publications">View all publications <span aria-hidden="true">↓</span></a></div>
+    {% include academic/corresponding-author-note.html %}
     <ol class="publication-list">{% for publication_id in site.data.profile.selected_publications %}{% assign selected_paper = site.data.publications | where: 'id', publication_id | first %}{% if selected_paper %}{% include academic/publication.html paper=selected_paper prefix="selected-" heading_level=3 %}{% endif %}{% endfor %}</ol>
   </section>
   <section id="publications" class="selected-section" aria-labelledby="publications-title">

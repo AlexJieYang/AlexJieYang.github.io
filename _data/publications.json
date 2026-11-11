@@ -944,7 +944,7 @@
   },
   {
     "id": "pub-65",
-    "year": 0,
+    "year": 2027,
     "type": "journal",
     "kind": "Journal article",
     "language": "English",
@@ -952,9 +952,9 @@
     "title": "Historical higher-order collaboration topology and inventor-level patent outcomes",
     "reference": "EPJ Data Science, accepted",
     "doi": "",
-    "citation": "Guo, J., Yang, A. J., Zhao, Y., Wang, H., & Deng, S. (accepted). Historical higher-order collaboration topology and inventor-level patent outcomes. EPJ Data Science.",
+    "citation": "Guo, J., Yang, A. J., Zhao, Y., Wang, H., & Deng, S. (2027). Historical higher-order collaboration topology and inventor-level patent outcomes. EPJ Data Science, accepted.",
     "status": "Accepted",
     "url": "",
-    "bibtex": "@article{pub65_accepted,\n  author = {Guo, Jianming and Yang, Alex Jie and Zhao, Yuehua and Wang, Hao and Deng, Sanhong},\n  title = {{Historical higher-order collaboration topology and inventor-level patent outcomes}},\n  journal = {EPJ Data Science},\n  note = {Accepted}\n}"
+    "bibtex": "@article{pub65_2027,\n  author = {Guo, Jianming and Yang, Alex Jie and Zhao, Yuehua and Wang, Hao and Deng, Sanhong},\n  title = {{Historical higher-order collaboration topology and inventor-level patent outcomes}},\n  journal = {EPJ Data Science},\n  year = {2027},\n  note = {Accepted}\n}"
   }
 ]
