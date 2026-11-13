@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v={{ site.time | date: '%s' }}">
     <script src="{{ '/assets/js/academic.js' | relative_url }}" defer></script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Person","name":{{ site.data.profile.name | jsonify }},"alternateName":{{ site.data.profile.chinese_name | jsonify }},"url":{{ '/' | absolute_url | jsonify }},"image":{{ '/images/profile.jpg' | absolute_url | jsonify }},"affiliation":{"@type":"CollegeOrUniversity","name":{{ site.data.profile.institution | jsonify }}},"sameAs":[{{ site.data.profile.github | jsonify }},{{ site.data.profile.researchgate | jsonify }},"https://orcid.org/{{ site.data.profile.orcid }}"],"knowsAbout":["Science of science","Network science","Scientific innovation","Computational social science"]}
+    {"@context":"https://schema.org","@type":"Person","name":{{ site.data.profile.name | jsonify }},"alternateName":{{ site.data.profile.chinese_name | jsonify }},"url":{{ '/' | absolute_url | jsonify }},"image":{{ '/images/profile.jpg' | absolute_url | jsonify }},"affiliation":{"@type":"CollegeOrUniversity","name":{{ site.data.profile.institution | jsonify }}},"sameAs":[{{ site.data.profile.official_homepage | jsonify }},{{ site.data.profile.github | jsonify }},{{ site.data.profile.researchgate | jsonify }},"https://orcid.org/{{ site.data.profile.orcid }}"],"knowsAbout":["Science of science","Network science","Scientific innovation","Computational social science"]}
     </script>
   </head>
   <body>

@@ -2,6 +2,8 @@
 
 Personal website: https://alexjieyang.github.io
 
+Official Nanjing University profile: [Alex Jie Yang (杨杰)](https://im.nju.edu.cn/info/1103/53391.htm).
+
 A lightweight academic website built with Jekyll and GitHub Pages.
 
 ## Content

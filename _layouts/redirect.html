@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Redirecting…</title>
+    <link rel="canonical" href="{{ page.redirect.to | escape }}">
+    <meta http-equiv="refresh" content="0; url={{ page.redirect.to | escape }}">
+    <meta name="robots" content="noindex">
+  </head>
+  <body>
+    <main>
+      <h1>Redirecting…</h1>
+      <p><a href="{{ page.redirect.to | escape }}">Continue to the requested page.</a></p>
+      <p><a href="{{ site.data.profile.official_homepage | escape }}">Official NJU profile</a></p>
+    </main>
+  </body>
+</html>
