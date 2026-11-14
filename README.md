@@ -25,7 +25,7 @@ Chinese journal records use publisher and CNKI links. English records can provid
 
 ## Pages
 
-The site provides a homepage, publications, CV, a 404 page, citation downloads, and a sitemap. The `/about/`, `/about.html`, and `/resume` paths redirect to the corresponding pages.
+The site provides a homepage, publications, CV, academic profile links at `/profiles/`, a 404 page, citation downloads, and a sitemap. The profiles page links the official Nanjing University profile, personal homepage, ORCID, ResearchGate, and the research notes site. The `/about/`, `/about.html`, and `/resume` paths redirect to the corresponding pages.
 
 Publication titles, authors, and identifiers follow their bibliographic sources. CNKI URLIDs are publisher links rather than DOIs.
 
@@ -58,3 +58,4 @@ GitHub Actions checks bibliographic fields, selected-publication IDs, page route
 ## Credits
 
 Originally based on [AcademicPages](https://github.com/academicpages/academicpages.github.io) and [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes). See `LICENSE`.
+
